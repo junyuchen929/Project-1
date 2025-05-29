@@ -1,0 +1,117 @@
+---
+title: "Exploratory Data Analysis of Flash Flood Events"
+author: "Junyu"
+date: "2025-05-29"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+```{r}
+library(readr)
+library(dplyr)
+library(ggplot2)
+```
+
+```{r}
+df <- read_csv("data/dc_md_va_flash_floods_1996_present.csv")
+```
+
+# a. Table and bar plots of # of flood events by state and year
+
+## by state
+```{r}
+flood_by_state <- df %>%
+  group_by(STATE) %>%
+  summarise(count = n())
+
+print(flood_by_state)
+
+
+ggplot(flood_by_state, aes(x = STATE, y = count, fill = STATE)) +
+  geom_bar(stat = "identity") +
+  labs(title = "Number of Flash Flood Events by State", x = "State", y = "Count") +
+  theme_minimal()
+```
+
+## by year
+```{r}
+flood_by_year <- df %>%
+  group_by(YEAR) %>%
+  summarise(count = n())
+
+print(flood_by_year)
+
+ggplot(flood_by_year, aes(x = factor(YEAR), y = count)) +
+  geom_bar(stat = "identity", fill = "steelblue") +
+  labs(title = "Number of Flash Flood Events by Year", x = "Year", y = "Count") +
+  theme_minimal() +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+
+```
+
+
+# b. Counts of events with NA for damages, deaths and Injuries 
+
+## Count events with NA per category
+```{r}
+# Count NA in each category
+damage_na <- df %>%
+  filter(is.na(DAMAGE_PROPERTY) | is.na(DAMAGE_CROPS)) %>%
+  summarise(n = n())
+
+injury_na <- df %>%
+  filter(is.na(INJURIES_DIRECT) | is.na(INJURIES_INDIRECT)) %>%
+  summarise(n = n())
+
+death_na <- df %>%
+  filter(is.na(DEATHS_DIRECT) | is.na(DEATHS_INDIRECT)) %>%
+  summarise(n = n())
+
+cat("Events with missing DAMAGE (property or crops):", damage_na$n, "\n")
+cat("Events with missing INJURY (direct or indirect):", injury_na$n, "\n")
+cat("Events with missing DEATH (direct or indirect):", death_na$n, "\n")
+
+```
+
+## Count joint missing (either categories)
+```{r}
+# Either field missing in EACH of the three categories
+joint_incomplete <- df %>%
+  filter((is.na(DAMAGE_PROPERTY) | is.na(DAMAGE_CROPS)) | 
+         (is.na(INJURIES_DIRECT) | is.na(INJURIES_INDIRECT)) | 
+         (is.na(DEATHS_DIRECT) | is.na(DEATHS_INDIRECT))) %>%
+  summarise(n = n())
+
+cat("Events with EITHER DAMAGE, INJURY, and DEATH category partially missing:", joint_incomplete$n, "\n")
+```
+
+
+## Count events with available (non-NA) information
+
+```{r}
+# Available (non-NA) counts per category
+damage_available <- df %>%
+  filter(!is.na(DAMAGE_PROPERTY) & !is.na(DAMAGE_CROPS)) %>%
+  summarise(n = n())
+
+injury_available <- df %>%
+  filter(!is.na(INJURIES_DIRECT) & !is.na(INJURIES_INDIRECT)) %>%
+  summarise(n = n())
+
+death_available <- df %>%
+  filter(!is.na(DEATHS_DIRECT) & !is.na(DEATHS_INDIRECT)) %>%
+  summarise(n = n())
+
+cat("Events with DAMAGE information:", damage_available$n, "\n")
+cat("Events with INJURY information:", injury_available$n, "\n")
+cat("Events with DEATH information:", death_available$n, "\n")
+```
+
+
+
+
