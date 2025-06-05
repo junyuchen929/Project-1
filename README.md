@@ -5,3 +5,4 @@ About the generalizedDaymetData things:
  - Must receive State, County, and Date to caluclate its min, max, and mean.
  - Counties with city counterparts must specify whether they are city or county (e.g. "Baltimore County" and "Baltimore City" but "Baltimore" and "Baltimore (C)" will not work.)
  - Does not redownload if it finds that the file for the county and date already exist in the Daymet Folder
+ - I have no idea how to make the python dataframe run the arguments to the R code or add it back on
