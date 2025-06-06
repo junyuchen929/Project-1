@@ -66,7 +66,7 @@ for (i in 1:length(df$CZ_NAME)) {
   
   # Have some funny link documentation =w= https://github.com/ornldaac/gridded_subset_example_script
   # This link is why I cut up all those strings and dates
-  dest <- file.path("Daymet", paste0("daymet_prcp_", date, "_", df$CZ_NAME[i], ".nc"))
+  dest <- file.path("Daymet", paste0("daymet_prcp_", date, "_", df$STATE[i], "_", df$CZ_NAME[i], ".nc"))
   
   if (!file.exists(dest)) {
     url <- paste0(base_url, "/daymet_v4_daily_na_prcp_", year, ".nc?var=lat&var=lon&var=prcp&north=", 
@@ -104,7 +104,7 @@ for (i in 1:length(df$CZ_NAME)) {
     earlyday = substr(earlyDate, start = 9, stop = 10)
     
     # Load Daymet raster
-    raster_file <- paste0("Daymet/daymet_prcp_", date, "_", df$CZ_NAME[i], ".nc")
+    raster_file <- paste0("Daymet/daymet_prcp_", date, "_", df$STATE[i], "_", df$CZ_NAME[i], ".nc")
     r <- rast(raster_file)
     
     # Get VA boundary and reproject to match raster CRS
