@@ -10,3 +10,4 @@ About the generalizedDaymetData things:
 About daymetOutput
  - "max-2" represents max for the day 2 days before that day, "max-1" for the previous day, and "max" for that day.
  - Date is also in the form yyyy-mm-dd
+ - The "Duplicates" are due to multiple events on the same day and in the same county. They have different EventIDs but every other aspect is or likely is the same.
