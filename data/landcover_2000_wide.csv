@@ -1,0 +1,161 @@
+STATE_NAME,NAME_LSAD,county,majority_type,year,builtup,forest,agriculture,other
+District of Columbia,District of Columbia,District of Columbia,builtup,2000,82.28999999999999,6.94,0.11,10.67
+Maryland,Allegany County,Allegany,forest,2000,11.010000000000002,77.4,9.08,2.5100000000000002
+Maryland,Anne Arundel County,Anne Arundel,builtup,2000,39.16,30.029999999999998,10.05,20.75
+Maryland,Baltimore County,Baltimore,builtup,2000,119.93999999999998,37.3,22.99,19.75
+Maryland,Baltimore city,Baltimore,builtup,2000,119.93999999999998,37.3,22.99,19.75
+Maryland,Calvert County,Calvert,forest,2000,16.560000000000002,46.519999999999996,13,23.900000000000002
+Maryland,Caroline County,Caroline,agriculture,2000,8.37,13.57,57.21,20.84
+Maryland,Carroll County,Carroll,agriculture,2000,17.75,26.65,53.260000000000005,2.34
+Maryland,Cecil County,Cecil,agriculture,2000,13.979999999999999,32.88,37.92,15.209999999999999
+Maryland,Charles County,Charles,forest,2000,12.53,50.04,14.05,23.41
+Maryland,Dorchester County,Dorchester,other,2000,4.87,6.180000000000001,26.29,62.64
+Maryland,Frederick County,Frederick,agriculture,2000,15.58,32.72,49.36,2.34
+Maryland,Garrett County,Garrett,forest,2000,6.29,71.27000000000001,17.060000000000002,5.37
+Maryland,Harford County,Harford,forest,2000,20.71,34.44,30.72,14.129999999999999
+Maryland,Howard County,Howard,builtup,2000,36.910000000000004,31.789999999999996,28.830000000000002,2.4699999999999998
+Maryland,Kent County,Kent,agriculture,2000,7.110000000000001,11.81,59.02,22.069999999999997
+Maryland,Montgomery County,Montgomery,builtup,2000,42.18,26.73,25.31,5.779999999999999
+Maryland,Prince George's County,Prince George's,builtup,2000,42.37,34.510000000000005,10.91,12.200000000000001
+Maryland,Queen Anne's County,Queen Anne's,agriculture,2000,9.9,9.260000000000002,56.019999999999996,24.84
+Maryland,Somerset County,Somerset,other,2000,5.84,7.7,19.560000000000002,66.92
+Maryland,St. Mary's County,St. Mary's,forest,2000,12.969999999999999,38.56,20.439999999999998,28.03
+Maryland,Talbot County,Talbot,agriculture,2000,9.41,10.36,46.739999999999995,33.480000000000004
+Maryland,Washington County,Washington,agriculture,2000,16.240000000000002,38.82,42.14,2.8099999999999996
+Maryland,Wicomico County,Wicomico,other,2000,13.35,16.759999999999998,32.72,37.17
+Maryland,Worcester County,Worcester,other,2000,7.42,9.440000000000001,24.75,58.37
+Virginia,Accomack County,Accomack,other,2000,5.54,6.0600000000000005,21.39,67.01
+Virginia,Albemarle County,Albemarle,forest,2000,8.76,66.03,22.75,2.4399999999999995
+Virginia,Alexandria city,Alexandria,builtup,2000,95.88,1.29,0.01,2.81
+Virginia,Alleghany County,Alleghany,forest,2000,4.72,89.16000000000001,4.85,1.27
+Virginia,Amelia County,Amelia,forest,2000,4.81,60.27,19.95,14.949999999999998
+Virginia,Amherst County,Amherst,forest,2000,6.419999999999999,76.59,14.040000000000001,2.96
+Virginia,Appomattox County,Appomattox,forest,2000,6.160000000000001,63,22.02,8.82
+Virginia,Arlington County,Arlington,builtup,2000,96.59,2.74,NA,0.67
+Virginia,Augusta County,Augusta,forest,2000,7.32,57.18000000000001,35.019999999999996,0.49
+Virginia,Bath County,Bath,forest,2000,2.7299999999999995,89.72,6.2,1.37
+Virginia,Bedford County,Bedford,forest,2000,66.11,86.4,43.260000000000005,4.22
+Virginia,Bedford city,Bedford,forest,2000,66.11,86.4,43.260000000000005,4.22
+Virginia,Bland County,Bland,forest,2000,3.61,78.26,17.61,0.53
+Virginia,Botetourt County,Botetourt,forest,2000,7.0200000000000005,73.65,17.189999999999998,2.1399999999999997
+Virginia,Bristol city,Bristol,builtup,2000,73.25999999999999,17.779999999999998,8.17,0.78
+Virginia,Brunswick County,Brunswick,forest,2000,5.32,64.09,11.19,19.400000000000002
+Virginia,Buchanan County,Buchanan,forest,2000,5.03,92.17,0.53,2.2800000000000002
+Virginia,Buckingham County,Buckingham,forest,2000,4.659999999999999,70.49000000000001,13.040000000000001,11.809999999999999
+Virginia,Buena Vista city,Buena Vista,forest,2000,42.440000000000005,44,12.04,1.53
+Virginia,Campbell County,Campbell,forest,2000,9.75,58.910000000000004,24.43,6.91
+Virginia,Caroline County,Caroline,forest,2000,6.06,60.08,14.08,19.759999999999998
+Virginia,Carroll County,Carroll,forest,2000,8.18,61.69,28.58,1.55
+Virginia,Charles City County,Charles City,forest,2000,3.6100000000000003,44.099999999999994,14.68,37.61
+Virginia,Charlotte County,Charlotte,forest,2000,5.109999999999999,60.45,20.78,13.649999999999999
+Virginia,Charlottesville city,Charlottesville,builtup,2000,92.11999999999999,7.029999999999999,0.26,0.5700000000000001
+Virginia,Chesapeake city,Chesapeake,other,2000,21.63,3.5,22.919999999999998,51.93
+Virginia,Chesterfield County,Chesterfield,forest,2000,29.94,52.010000000000005,3.9699999999999998,14.09
+Virginia,Clarke County,Clarke,agriculture,2000,7.409999999999999,37.36,54.03,1.2100000000000002
+Virginia,Clifton Forge city,Clifton Forge,builtup,2000,58.93,40.6,NA,0.47000000000000003
+Virginia,Colonial Heights city,Colonial Heights,builtup,2000,74.64999999999999,6.69,NA,18.650000000000002
+Virginia,Covington city,Covington,builtup,2000,54.44,38.39,6.04,1.1300000000000001
+Virginia,Craig County,Craig,forest,2000,3.5899999999999994,84.69999999999999,11.11,0.5900000000000001
+Virginia,Culpeper County,Culpeper,forest,2000,6.93,44.77,42.82000000000001,5.48
+Virginia,Cumberland County,Cumberland,forest,2000,4.809999999999999,65.88,17.279999999999998,12.019999999999998
+Virginia,Danville city,Danville,builtup,2000,57.81,32.78,6.23,3.18
+Virginia,Dickenson County,Dickenson,forest,2000,5.38,87.91,2.88,3.83
+Virginia,Dinwiddie County,Dinwiddie,forest,2000,6.7700000000000005,60.89,14.27,18.06
+Virginia,Emporia city,Emporia,builtup,2000,50.49,21.04,11.81,16.65
+Virginia,Essex County,Essex,forest,2000,4.620000000000001,45.75,23.880000000000003,25.740000000000002
+Virginia,Fairfax County,Fairfax,builtup,2000,159.17,30.510000000000005,2.87,7.449999999999999
+Virginia,Fairfax city,Fairfax,builtup,2000,159.17,30.510000000000005,2.87,7.449999999999999
+Virginia,Falls Church city,Falls Church,builtup,2000,99.59,0.03,NA,0.38
+Virginia,Fauquier County,Fauquier,forest,2000,6.739999999999999,45.699999999999996,43.56,3.99
+Virginia,Floyd County,Floyd,forest,2000,6.609999999999999,62.38999999999999,30.01,0.9800000000000001
+Virginia,Fluvanna County,Fluvanna,forest,2000,6.989999999999999,68.42999999999999,16.46,8.13
+Virginia,Franklin County,Franklin,forest,2000,50.980000000000004,84.50999999999999,41.67,22.85
+Virginia,Franklin city,Franklin,forest,2000,50.980000000000004,84.50999999999999,41.67,22.85
+Virginia,Frederick County,Frederick,forest,2000,11.73,55.06,32.19,1.04
+Virginia,Fredericksburg city,Fredericksburg,builtup,2000,62.56,25.95,6.199999999999999,5.3
+Virginia,Galax city,Galax,builtup,2000,57.05,26.340000000000003,15.94,0.67
+Virginia,Giles County,Giles,forest,2000,5.949999999999999,79.67,13.23,1.1600000000000001
+Virginia,Gloucester County,Gloucester,other,2000,8.24,36.03,11.31,44.43
+Virginia,Goochland County,Goochland,forest,2000,8.14,63.06,18.88,9.919999999999998
+Virginia,Grayson County,Grayson,forest,2000,5.81,65.12,26.54,2.5199999999999996
+Virginia,Greene County,Greene,forest,2000,7.819999999999999,66.92999999999999,24.470000000000002,0.77
+Virginia,Greensville County,Greensville,forest,2000,4.71,45.78,18.85,30.66
+Virginia,Halifax County,Halifax,forest,2000,5.8999999999999995,61.589999999999996,21.369999999999997,11.14
+Virginia,Hampton city,Hampton,builtup,2000,68.07000000000001,1.9300000000000002,0.41000000000000003,29.580000000000002
+Virginia,Hanover County,Hanover,forest,2000,12.770000000000001,50.25,21.05,15.92
+Virginia,Harrisonburg city,Harrisonburg,builtup,2000,74.37,8.020000000000001,17.41,0.19000000000000003
+Virginia,Henrico County,Henrico,builtup,2000,46,24.05,9.84,20.11
+Virginia,Henry County,Henry,forest,2000,12.410000000000002,69.84,12.59,5.14
+Virginia,Highland County,Highland,forest,2000,2.62,79.24000000000001,16.81,1.34
+Virginia,Hopewell city,Hopewell,builtup,2000,77.29,6.890000000000001,0.01,15.81
+Virginia,Isle of Wight County,Isle of Wight,agriculture,2000,7.7700000000000005,30.799999999999997,31.46,29.97
+Virginia,James City County,James City,forest,2000,19.849999999999998,39.55,6.93,33.67
+Virginia,King George County,King George,forest,2000,8.3,52.510000000000005,18.16,21.029999999999998
+Virginia,King William County,King William,forest,2000,4.680000000000001,48.59,21.11,25.66
+Virginia,King and Queen County,King and Queen,forest,2000,3.7699999999999996,55.84,17.209999999999997,23.18
+Virginia,Lancaster County,Lancaster,forest,2000,7.9399999999999995,43.71,19.79,28.549999999999997
+Virginia,Lee County,Lee,forest,2000,7.46,66.53999999999999,22.150000000000002,3.8499999999999996
+Virginia,Lexington city,Lexington,builtup,2000,89.96,6.8100000000000005,2.67,0.56
+Virginia,Loudoun County,Loudoun,agriculture,2000,15.299999999999999,34.9,47.31999999999999,2.49
+Virginia,Louisa County,Louisa,forest,2000,6.6000000000000005,63.02,16.46,13.940000000000001
+Virginia,Lunenburg County,Lunenburg,forest,2000,5.23,65.98,15.76,13.04
+Virginia,Lynchburg city,Lynchburg,builtup,2000,56.849999999999994,36.53,5.51,1.11
+Virginia,Madison County,Madison,forest,2000,4.72,61.6,33.019999999999996,0.67
+Virginia,Manassas city,Manassas,builtup,2000,92.19,3.17,3.43,1.21
+Virginia,Manassas Park city,Manassas Park,builtup,2000,84.86,14.79,0.17,0.19
+Virginia,Martinsville city,Martinsville,builtup,2000,69.78999999999999,28.79,0.71,0.7100000000000001
+Virginia,Mathews County,Mathews,other,2000,6.359999999999999,18.56,9.680000000000001,65.41
+Virginia,Mecklenburg County,Mecklenburg,forest,2000,6.929999999999999,53.849999999999994,20.44,18.76
+Virginia,Middlesex County,Middlesex,forest,2000,8.04,46.42,21.849999999999998,23.69
+Virginia,Montgomery County,Montgomery,forest,2000,13.689999999999998,61.76,23.790000000000003,0.77
+Virginia,Nelson County,Nelson,forest,2000,5.279999999999999,77.86999999999999,13.63,3.23
+Virginia,New Kent County,New Kent,forest,2000,7.28,54.4,9.91,28.39
+Virginia,Newport News city,Newport News,builtup,2000,66.95,11.100000000000001,0.97,21
+Virginia,Norfolk city,Norfolk,builtup,2000,80.5,0.68,0.02,18.78
+Virginia,Northampton County,Northampton,other,2000,3.92,6.279999999999999,22.84,66.96000000000001
+Virginia,Northumberland County,Northumberland,forest,2000,7.32,39.97,26.64,26.049999999999997
+Virginia,Norton city,Norton,forest,2000,34.57,61.78,0.41,3.24
+Virginia,Nottoway County,Nottoway,forest,2000,8.06,60.94,17.34,13.649999999999999
+Virginia,Orange County,Orange,forest,2000,6.88,54.43,33.99,4.7
+Virginia,Page County,Page,forest,2000,8.059999999999999,66.37,24.39,1.1800000000000002
+Virginia,Patrick County,Patrick,forest,2000,6.31,76.13,15.469999999999999,2.0799999999999996
+Virginia,Petersburg city,Petersburg,builtup,2000,59.2,23.75,6.0600000000000005,11.010000000000002
+Virginia,Pittsylvania County,Pittsylvania,forest,2000,7.609999999999999,58.09,26.659999999999997,7.63
+Virginia,Poquoson city,Poquoson,other,2000,24.16,3.69,0.05,72.1
+Virginia,Portsmouth city,Portsmouth,builtup,2000,65.97,1.3199999999999998,1.14,31.59
+Virginia,Powhatan County,Powhatan,forest,2000,6.659999999999999,66.39,16.22,10.71
+Virginia,Prince Edward County,Prince Edward,forest,2000,6.8999999999999995,63.72,18.19,11.17
+Virginia,Prince George County,Prince George,forest,2000,9.069999999999999,48.64,14.75,27.57
+Virginia,Prince William County,Prince William,forest,2000,27.65,43.279999999999994,17.99,11.09
+Virginia,Pulaski County,Pulaski,forest,2000,10.469999999999999,56.650000000000006,29.63,3.23
+Virginia,Radford city,Radford,builtup,2000,53.84,34.07,8.81,3.2799999999999994
+Virginia,Rappahannock County,Rappahannock,forest,2000,3.57,68.05,27.91,0.44999999999999996
+Virginia,Richmond County,Richmond,builtup,2000,91.3,53.800000000000004,24.249999999999996,30.639999999999997
+Virginia,Richmond city,Richmond,builtup,2000,91.3,53.800000000000004,24.249999999999996,30.639999999999997
+Virginia,Roanoke County,Roanoke,builtup,2000,108.35,78.30000000000001,12.299999999999997,1.03
+Virginia,Roanoke city,Roanoke,builtup,2000,108.35,78.30000000000001,12.299999999999997,1.03
+Virginia,Rockbridge County,Rockbridge,forest,2000,6.1899999999999995,69.19,23.919999999999998,0.71
+Virginia,Rockingham County,Rockingham,forest,2000,7.92,57.36,34.14,0.5700000000000001
+Virginia,Russell County,Russell,forest,2000,6.22,62.78,29.32,1.6800000000000002
+Virginia,Salem city,Salem,builtup,2000,86.9,9.950000000000001,3.14,0.01
+Virginia,Scott County,Scott,forest,2000,6.170000000000001,73.52,17.54,2.7699999999999996
+Virginia,Shenandoah County,Shenandoah,forest,2000,8.37,60.059999999999995,30.84,0.7200000000000001
+Virginia,Smyth County,Smyth,forest,2000,6.730000000000001,68.36,24.32,0.5900000000000001
+Virginia,Southampton County,Southampton,forest,2000,4.4399999999999995,36.85,29.57,29.16
+Virginia,Spotsylvania County,Spotsylvania,forest,2000,12.46,58.31,13.16,16.069999999999997
+Virginia,Stafford County,Stafford,forest,2000,16.97,59.53,9.91,13.589999999999998
+Virginia,Staunton city,Staunton,builtup,2000,52.03,17.25,30.41,0.32
+Virginia,Suffolk city,Suffolk,other,2000,9.93,22.75,25.56,41.75
+Virginia,Surry County,Surry,forest,2000,4.029999999999999,45.29,20.79,29.880000000000003
+Virginia,Sussex County,Sussex,forest,2000,4.220000000000001,49.720000000000006,16.75,29.319999999999997
+Virginia,Tazewell County,Tazewell,forest,2000,7.54,70.88,20.93,0.66
+Virginia,Virginia Beach city,Virginia Beach,other,2000,35.779999999999994,2.5700000000000003,13.969999999999999,47.68
+Virginia,Warren County,Warren,forest,2000,12.25,62.94,22.990000000000002,1.8000000000000003
+Virginia,Washington County,Washington,forest,2000,8.33,57.16,33.47,1.05
+Virginia,Waynesboro city,Waynesboro,builtup,2000,57.93,21.740000000000002,20.080000000000002,0.24
+Virginia,Westmoreland County,Westmoreland,forest,2000,7.12,41.13,27.450000000000003,24.310000000000002
+Virginia,Williamsburg city,Williamsburg,builtup,2000,56.81,34.14,0.35,8.7
+Virginia,Winchester city,Winchester,builtup,2000,84.72,7.840000000000001,7.31,0.13
+Virginia,Wise County,Wise,forest,2000,8.19,79.62,3.73,8.45
+Virginia,Wythe County,Wythe,forest,2000,7.18,53.97,37.66,1.19
+Virginia,York County,York,forest,2000,26.27,37.32,2.55,33.870000000000005

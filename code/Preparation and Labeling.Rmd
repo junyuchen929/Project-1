@@ -1,0 +1,142 @@
+---
+title: "Data Preparation"
+author: "Junyu"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(readr)
+library(dplyr)
+library(ggplot2)
+library(lubridate)
+```
+
+```{r select county and date}
+
+# use CZ_NAME as county
+df <- read_csv("data/dc_md_va_flash_floods_1996_present.csv")
+
+df <- df %>%
+  mutate(county = CZ_NAME) 
+
+# combine BEGIN_YEARMONTH	and BEGIN_DAY to get date
+df <- df %>%
+  mutate(
+    year = floor(BEGIN_YEARMONTH / 100),
+    month = BEGIN_YEARMONTH %% 100,
+    day = BEGIN_DAY,
+    date = make_date(year, month, day)
+  )
+# 
+# # time
+# df <- df %>%
+#   mutate(
+#     hour = floor(BEGIN_TIME / 100),
+#     time_of_day = case_when(
+#       hour >= 6 & hour < 18 ~ "day",
+#       TRUE ~ "night"
+#     )
+#   )
+```
+
+
+```{r Aggregate Event-Level Data}
+df_selected <- df %>%
+  select(county, date, time_of_day, EPISODE_ID, EVENT_ID)
+
+df_aggregated <- df_selected %>%
+  group_by(county, date) %>%
+  summarise(
+    n_episodes = n_distinct(EPISODE_ID),
+    n_events = n_distinct(EVENT_ID),
+    .groups = "drop"
+  )
+```
+
+
+```{r Classification Labels: Cases and Controls}
+# Convert DAMAGE_PROPERTY to numeric (handling 'K' and 'M' units)
+df <- df %>%
+  mutate(
+    DAMAGE_PROPERTY_NUMERIC = case_when(
+      grepl("K", DAMAGE_PROPERTY, ignore.case = TRUE) ~ as.numeric(gsub("K", "", DAMAGE_PROPERTY, ignore.case = TRUE)) * 1e3,
+      grepl("M", DAMAGE_PROPERTY, ignore.case = TRUE) ~ as.numeric(gsub("M", "", DAMAGE_PROPERTY, ignore.case = TRUE)) * 1e6,
+      TRUE ~ as.numeric(DAMAGE_PROPERTY)
+    )
+  )
+
+# Aggregate damage, injuries, deaths for each (county, date) pair
+df_damages <- df %>%
+  group_by(county, date) %>%
+  summarise(
+    total_property_damage = sum(DAMAGE_PROPERTY_NUMERIC, na.rm = FALSE),
+    total_injuries = sum(INJURIES_DIRECT, INJURIES_INDIRECT, na.rm = FALSE),
+    total_deaths = sum(DEATHS_DIRECT, DEATHS_INDIRECT, na.rm = FALSE),
+    .groups = "drop"
+  )
+
+# define classification label
+df_labeled <- df_aggregated %>%
+  left_join(df_damages, by = c("county", "date")) %>%
+  mutate(
+    label = case_when(
+      is.na(total_property_damage) & is.na(total_injuries) & is.na(total_deaths) ~ NA_integer_,  # all NA → drop
+      (is.na(total_property_damage) | is.na(total_injuries) | is.na(total_deaths)) &
+        coalesce(total_property_damage, 0) == 0 &
+        coalesce(total_injuries, 0) == 0 &
+        coalesce(total_deaths, 0) == 0 ~ NA_integer_,  # any NA, rest zero → drop
+      total_property_damage > 0 | total_injuries > 0 | total_deaths > 0 ~ 1L,  # case
+      total_property_damage == 0 & total_injuries == 0 & total_deaths == 0 ~ 0L,  # control
+      TRUE ~ NA_integer_
+    )
+  ) %>%
+  filter(!is.na(label))  
+
+```
+
+```{r add month and season}
+df_labeled <- df_labeled %>%
+  # Add month
+  mutate(month = month(date)) %>%
+
+  # Add season based on month
+  mutate(season = case_when(
+    month %in% 3:5 ~ "Spring",
+    month %in% 6:8 ~ "Summer",
+    month %in% 9:11 ~ "Fall",
+    month %in% c(12, 1, 2) ~ "Winter",
+    TRUE ~ NA_character_
+  ))
+
+```
+
+```{r add days_since_last_flood}
+# Arrange by county and date to prepare for rolling calculation
+df_labeled <- df_labeled %>%
+  arrange(county, date)
+
+# Compute days_since_last_flood
+df_labeled <- df_labeled %>%
+  group_by(county) %>%
+  mutate(
+    # Find previous damaging flood date for each row
+    last_damaging_date = lag(if_else(label == 1, date, NA_Date_)),
+    last_damaging_date = zoo::na.locf(last_damaging_date, na.rm = FALSE),
+    days_since_last_flood = as.numeric(difftime(date, last_damaging_date, units = "days")),
+    days_since_last_flood = if_else(is.na(last_damaging_date), -1, days_since_last_flood)
+  ) %>%
+  ungroup() %>%
+  select(-last_damaging_date)
+
+```
+
+
+```{r}
+df_labeled
+```
+
+
