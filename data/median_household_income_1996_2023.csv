@@ -1,0 +1,2389 @@
+Year,State,County,Median_Household_Income
+1996,District of Columbia,"District of Columbia, District of Columbia",31970
+1997,District of Columbia,"District of Columbia, District of Columbia",31860
+1998,District of Columbia,"District of Columbia, District of Columbia",33430
+1999,District of Columbia,"District of Columbia, District of Columbia",38670
+2000,District of Columbia,"District of Columbia, District of Columbia",41220
+2001,District of Columbia,"District of Columbia, District of Columbia",41170
+2002,District of Columbia,"District of Columbia, District of Columbia",39070
+2003,District of Columbia,"District of Columbia, District of Columbia",45040
+2004,District of Columbia,"District of Columbia, District of Columbia",43450
+2005,District of Columbia,"District of Columbia, District of Columbia",44990
+2006,District of Columbia,"District of Columbia, District of Columbia",48480
+2007,District of Columbia,"District of Columbia, District of Columbia",50780
+2008,District of Columbia,"District of Columbia, District of Columbia",55590
+2009,Maryland,"Allegany County, Maryland",36810
+2009,Maryland,"Anne Arundel County, Maryland",81824
+2009,Maryland,"Baltimore County, Maryland",63348
+2009,Maryland,"Calvert County, Maryland",90621
+2009,Maryland,"Caroline County, Maryland",55844
+2009,Maryland,"Carroll County, Maryland",80743
+2009,Maryland,"Cecil County, Maryland",65079
+2009,Maryland,"Charles County, Maryland",86141
+2009,Maryland,"Dorchester County, Maryland",45095
+2009,Maryland,"Frederick County, Maryland",80970
+2009,Maryland,"Garrett County, Maryland",43802
+2009,Maryland,"Harford County, Maryland",75872
+2009,Maryland,"Howard County, Maryland",101003
+2009,Maryland,"Kent County, Maryland",48284
+2009,Maryland,"Montgomery County, Maryland",92213
+2009,Maryland,"Prince George's County, Maryland",70753
+2009,Maryland,"Queen Anne's County, Maryland",78615
+2009,Maryland,"St. Mary's County, Maryland",75427
+2009,Maryland,"Somerset County, Maryland",41615
+2009,Maryland,"Talbot County, Maryland",61591
+2009,Maryland,"Washington County, Maryland",51962
+2009,Maryland,"Wicomico County, Maryland",51352
+2009,Maryland,"Worcester County, Maryland",52600
+2009,Maryland,"Baltimore city, Maryland",38738
+2009,Virginia,"Craig County, Virginia",48845
+2009,Virginia,"Culpeper County, Virginia",64359
+2009,Virginia,"Cumberland County, Virginia",38430
+2009,Virginia,"Dickenson County, Virginia",28296
+2009,Virginia,"Dinwiddie County, Virginia",51556
+2009,Virginia,"Essex County, Virginia",46678
+2009,Virginia,"Fairfax County, Virginia",104259
+2009,Virginia,"Fauquier County, Virginia",82872
+2009,Virginia,"Floyd County, Virginia",40539
+2009,Virginia,"Fluvanna County, Virginia",62163
+2009,Virginia,"Franklin County, Virginia",45578
+2009,Virginia,"Frederick County, Virginia",62291
+2009,Virginia,"Giles County, Virginia",39963
+2009,Virginia,"Gloucester County, Virginia",56830
+2009,Virginia,"Goochland County, Virginia",75581
+2009,Virginia,"Grayson County, Virginia",31707
+2009,Virginia,"Greene County, Virginia",54153
+2009,Virginia,"Greensville County, Virginia",40917
+2009,Virginia,"Halifax County, Virginia",34318
+2009,Virginia,"Hanover County, Virginia",76926
+2009,Virginia,"Henrico County, Virginia",59807
+2009,Virginia,"Henry County, Virginia",34437
+2009,Virginia,"Highland County, Virginia",43537
+2009,Virginia,"Isle of Wight County, Virginia",62573
+2009,Virginia,"James City County, Virginia",71988
+2009,Virginia,"King and Queen County, Virginia",43766
+2009,Virginia,"King George County, Virginia",73941
+2009,Virginia,"King William County, Virginia",64682
+2009,Virginia,"Lancaster County, Virginia",44485
+2009,Virginia,"Lee County, Virginia",29889
+2009,Virginia,"Loudoun County, Virginia",112021
+2009,Virginia,"Louisa County, Virginia",51775
+2009,Virginia,"Lunenburg County, Virginia",35963
+2009,Virginia,"Madison County, Virginia",52964
+2009,Virginia,"Mathews County, Virginia",49318
+2009,Virginia,"Mecklenburg County, Virginia",34741
+2009,Virginia,"Middlesex County, Virginia",50181
+2009,Virginia,"Montgomery County, Virginia",41815
+2009,Virginia,"Nelson County, Virginia",44326
+2009,Virginia,"New Kent County, Virginia",69478
+2009,Virginia,"Northampton County, Virginia",36450
+2009,Virginia,"Northumberland County, Virginia",50522
+2009,Virginia,"Nottoway County, Virginia",40776
+2009,Virginia,"Orange County, Virginia",55416
+2009,Virginia,"Page County, Virginia",42359
+2009,Virginia,"Patrick County, Virginia",36895
+2009,Virginia,"Pittsylvania County, Virginia",39765
+2009,Virginia,"Powhatan County, Virginia",75118
+2009,Virginia,"Prince Edward County, Virginia",36242
+2009,Virginia,"Prince George County, Virginia",66049
+2009,Virginia,"Prince William County, Virginia",88850
+2009,Virginia,"Pulaski County, Virginia",38234
+2009,Virginia,"Rappahannock County, Virginia",58500
+2009,Virginia,"Richmond County, Virginia",42212
+2009,Virginia,"Roanoke County, Virginia",57800
+2009,Virginia,"Rockbridge County, Virginia",43311
+2009,Virginia,"Rockingham County, Virginia",51232
+2009,Virginia,"Russell County, Virginia",31770
+2009,Virginia,"Scott County, Virginia",33325
+2009,Virginia,"Shenandoah County, Virginia",50436
+2009,Virginia,"Smyth County, Virginia",36103
+2009,Virginia,"Southampton County, Virginia",47285
+2009,Virginia,"Spotsylvania County, Virginia",77225
+2009,Virginia,"Stafford County, Virginia",90586
+2009,Virginia,"Surry County, Virginia",53320
+2009,Virginia,"Sussex County, Virginia",37492
+2009,Virginia,"Tazewell County, Virginia",35830
+2009,Virginia,"Warren County, Virginia",59630
+2009,Virginia,"Washington County, Virginia",40431
+2009,Virginia,"Accomack County, Virginia",40343
+2009,Virginia,"Albemarle County, Virginia",64306
+2009,Virginia,"Alleghany County, Virginia",42005
+2009,Virginia,"Amelia County, Virginia",48897
+2009,Virginia,"Amherst County, Virginia",45947
+2009,Virginia,"Appomattox County, Virginia",47412
+2009,Virginia,"Arlington County, Virginia",93806
+2009,Virginia,"Augusta County, Virginia",49364
+2009,Virginia,"Bath County, Virginia",46250
+2009,Virginia,"Bedford County, Virginia",54527
+2009,Virginia,"Bland County, Virginia",42231
+2009,Virginia,"Botetourt County, Virginia",59823
+2009,Virginia,"Brunswick County, Virginia",36202
+2009,Virginia,"Buchanan County, Virginia",27538
+2009,Virginia,"Buckingham County, Virginia",38128
+2009,Virginia,"Campbell County, Virginia",43324
+2009,Virginia,"Caroline County, Virginia",56829
+2009,Virginia,"Carroll County, Virginia",34794
+2009,Virginia,"Charles City County, Virginia",49747
+2009,Virginia,"Charlotte County, Virginia",37591
+2009,Virginia,"Chesterfield County, Virginia",71661
+2009,Virginia,"Clarke County, Virginia",68768
+2009,Virginia,"Westmoreland County, Virginia",50151
+2009,Virginia,"Wise County, Virginia",32324
+2009,Virginia,"Wythe County, Virginia",38490
+2009,Virginia,"York County, Virginia",79189
+2009,Virginia,"Alexandria city, Virginia",80186
+2009,Virginia,"Bedford city, Virginia",31796
+2009,Virginia,"Bristol city, Virginia",31797
+2009,Virginia,"Buena Vista city, Virginia",40913
+2009,Virginia,"Charlottesville city, Virginia",38369
+2009,Virginia,"Chesapeake city, Virginia",66932
+2009,Virginia,"Colonial Heights city, Virginia",49734
+2009,Virginia,"Covington city, Virginia",35758
+2009,Virginia,"Danville city, Virginia",29482
+2009,Virginia,"Emporia city, Virginia",33412
+2009,Virginia,"Fairfax city, Virginia",96232
+2009,Virginia,"Falls Church city, Virginia",113313
+2009,Virginia,"Franklin city, Virginia",32060
+2009,Virginia,"Fredericksburg city, Virginia",43154
+2009,Virginia,"Galax city, Virginia",22105
+2009,Virginia,"Hampton city, Virginia",48122
+2009,Virginia,"Harrisonburg city, Virginia",33587
+2009,Virginia,"Hopewell city, Virginia",38892
+2009,Virginia,"Lexington city, Virginia",32847
+2009,Virginia,"Lynchburg city, Virginia",37281
+2009,Virginia,"Manassas city, Virginia",72150
+2009,Virginia,"Manassas Park city, Virginia",69087
+2009,Virginia,"Martinsville city, Virginia",31729
+2009,Virginia,"Newport News city, Virginia",48124
+2009,Virginia,"Norfolk city, Virginia",41739
+2009,Virginia,"Norton city, Virginia",32500
+2009,Virginia,"Petersburg city, Virginia",35874
+2009,Virginia,"Poquoson city, Virginia",84688
+2009,Virginia,"Portsmouth city, Virginia",44410
+2009,Virginia,"Radford city, Virginia",29589
+2009,Virginia,"Richmond city, Virginia",37735
+2009,Virginia,"Roanoke city, Virginia",35811
+2009,Virginia,"Salem city, Virginia",47746
+2009,Virginia,"Staunton city, Virginia",42713
+2009,Virginia,"Suffolk city, Virginia",63657
+2009,Virginia,"Virginia Beach city, Virginia",63370
+2009,Virginia,"Waynesboro city, Virginia",40809
+2009,Virginia,"Williamsburg city, Virginia",41236
+2009,Virginia,"Winchester city, Virginia",44708
+2009,District of Columbia,"District of Columbia, District of Columbia",56519
+2010,Maryland,"Allegany County, Maryland",37747
+2010,Maryland,"Anne Arundel County, Maryland",83456
+2010,Maryland,"Baltimore County, Maryland",63959
+2010,Maryland,"Calvert County, Maryland",90838
+2010,Maryland,"Caroline County, Maryland",58799
+2010,Maryland,"Carroll County, Maryland",81621
+2010,Maryland,"Cecil County, Maryland",64886
+2010,Maryland,"Charles County, Maryland",88825
+2010,Maryland,"Dorchester County, Maryland",45151
+2010,Maryland,"Frederick County, Maryland",81686
+2010,Maryland,"Garrett County, Maryland",45760
+2010,Maryland,"Harford County, Maryland",77010
+2010,Maryland,"Howard County, Maryland",103273
+2010,Maryland,"Kent County, Maryland",50141
+2010,Maryland,"Montgomery County, Maryland",93373
+2010,Maryland,"Prince George's County, Maryland",71260
+2010,Maryland,"Queen Anne's County, Maryland",81096
+2010,Maryland,"St. Mary's County, Maryland",80053
+2010,Maryland,"Somerset County, Maryland",42443
+2010,Maryland,"Talbot County, Maryland",63017
+2010,Maryland,"Washington County, Maryland",52994
+2010,Maryland,"Wicomico County, Maryland",50752
+2010,Maryland,"Worcester County, Maryland",55487
+2010,Maryland,"Baltimore city, Maryland",39386
+2010,Virginia,"Accomack County, Virginia",41372
+2010,Virginia,"Albemarle County, Virginia",64847
+2010,Virginia,"Alleghany County, Virginia",43160
+2010,Virginia,"Amelia County, Virginia",50135
+2010,Virginia,"Amherst County, Virginia",44757
+2010,Virginia,"Appomattox County, Virginia",49224
+2010,Virginia,"Arlington County, Virginia",94880
+2010,Virginia,"Augusta County, Virginia",50612
+2010,Virginia,"Bath County, Virginia",50589
+2010,Virginia,"Bedford County, Virginia",54110
+2010,Virginia,"Bland County, Virginia",41552
+2010,Virginia,"Botetourt County, Virginia",64724
+2010,Virginia,"Brunswick County, Virginia",35184
+2010,Virginia,"Buchanan County, Virginia",29183
+2010,Virginia,"Buckingham County, Virginia",34720
+2010,Virginia,"Campbell County, Virginia",43478
+2010,Virginia,"Caroline County, Virginia",57690
+2010,Virginia,"Carroll County, Virginia",36142
+2010,Virginia,"Charles City County, Virginia",46337
+2010,Virginia,"Charlotte County, Virginia",34881
+2010,Virginia,"Chesterfield County, Virginia",71321
+2010,Virginia,"Clarke County, Virginia",73244
+2010,Virginia,"Craig County, Virginia",51291
+2010,Virginia,"Culpeper County, Virginia",65132
+2010,Virginia,"Cumberland County, Virginia",40143
+2010,Virginia,"Dickenson County, Virginia",29080
+2010,Virginia,"Dinwiddie County, Virginia",51459
+2010,Virginia,"Essex County, Virginia",46235
+2010,Virginia,"Fairfax County, Virginia",105416
+2010,Virginia,"Fauquier County, Virginia",83877
+2010,Virginia,"Floyd County, Virginia",42044
+2010,Virginia,"Fluvanna County, Virginia",68223
+2010,Virginia,"Franklin County, Virginia",45555
+2010,Virginia,"Frederick County, Virginia",61973
+2010,Virginia,"Giles County, Virginia",41186
+2010,Virginia,"Gloucester County, Virginia",59331
+2010,Virginia,"Goochland County, Virginia",79574
+2010,Virginia,"Grayson County, Virginia",32178
+2010,Virginia,"Greene County, Virginia",54307
+2010,Virginia,"Greensville County, Virginia",38574
+2010,Virginia,"Halifax County, Virginia",34705
+2010,Virginia,"Hanover County, Virginia",76425
+2010,Virginia,"Henrico County, Virginia",60114
+2010,Virginia,"Henry County, Virginia",34086
+2010,Virginia,"Highland County, Virginia",43481
+2010,Virginia,"Isle of Wight County, Virginia",62242
+2010,Virginia,"James City County, Virginia",73903
+2010,Virginia,"King and Queen County, Virginia",44442
+2010,Virginia,"King George County, Virginia",76241
+2010,Virginia,"King William County, Virginia",64946
+2010,Virginia,"Lancaster County, Virginia",45209
+2010,Virginia,"Lee County, Virginia",31352
+2010,Virginia,"Loudoun County, Virginia",115574
+2010,Virginia,"Louisa County, Virginia",54257
+2010,Virginia,"Lunenburg County, Virginia",37424
+2010,Virginia,"Madison County, Virginia",56608
+2010,Virginia,"Mathews County, Virginia",47435
+2010,Virginia,"Mecklenburg County, Virginia",36431
+2010,Virginia,"Middlesex County, Virginia",50207
+2010,Virginia,"Montgomery County, Virginia",43229
+2010,Virginia,"Nelson County, Virginia",48118
+2010,Virginia,"New Kent County, Virginia",70590
+2010,Virginia,"Northampton County, Virginia",35760
+2010,Virginia,"Northumberland County, Virginia",51944
+2010,Virginia,"Nottoway County, Virginia",37344
+2010,Virginia,"Orange County, Virginia",54916
+2010,Virginia,"Page County, Virginia",41617
+2010,Virginia,"Patrick County, Virginia",35813
+2010,Virginia,"Pittsylvania County, Virginia",39224
+2010,Virginia,"Powhatan County, Virginia",73593
+2010,Virginia,"Prince Edward County, Virginia",36191
+2010,Virginia,"Prince George County, Virginia",64171
+2010,Virginia,"Prince William County, Virginia",91098
+2010,Virginia,"Pulaski County, Virginia",41163
+2010,Virginia,"Rappahannock County, Virginia",62117
+2010,Virginia,"Richmond County, Virginia",42182
+2010,Virginia,"Roanoke County, Virginia",59446
+2010,Virginia,"Rockbridge County, Virginia",44417
+2010,Virginia,"Rockingham County, Virginia",49930
+2010,Virginia,"Russell County, Virginia",32780
+2010,Virginia,"Scott County, Virginia",34250
+2010,Virginia,"Shenandoah County, Virginia",50171
+2010,Virginia,"Smyth County, Virginia",34864
+2010,Virginia,"Southampton County, Virginia",45426
+2010,Virginia,"Spotsylvania County, Virginia",76574
+2010,Virginia,"Stafford County, Virginia",93065
+2010,Virginia,"Surry County, Virginia",55030
+2010,Virginia,"Sussex County, Virginia",37978
+2010,Virginia,"Tazewell County, Virginia",35215
+2010,Virginia,"Warren County, Virginia",60522
+2010,Virginia,"Washington County, Virginia",40422
+2010,Virginia,"Westmoreland County, Virginia",52990
+2010,Virginia,"Wise County, Virginia",33608
+2010,Virginia,"Wythe County, Virginia",38948
+2010,Virginia,"York County, Virginia",81055
+2010,Virginia,"Alexandria city, Virginia",80847
+2010,Virginia,"Bedford city, Virginia",32262
+2010,Virginia,"Bristol city, Virginia",32079
+2010,Virginia,"Buena Vista city, Virginia",39955
+2010,Virginia,"Charlottesville city, Virginia",42240
+2010,Virginia,"Chesapeake city, Virginia",67855
+2010,Virginia,"Colonial Heights city, Virginia",50571
+2010,Virginia,"Covington city, Virginia",35277
+2010,Virginia,"Danville city, Virginia",29936
+2010,Virginia,"Emporia city, Virginia",32788
+2010,Virginia,"Fairfax city, Virginia",97900
+2010,Virginia,"Falls Church city, Virginia",114409
+2010,Virginia,"Franklin city, Virginia",33174
+2010,Virginia,"Fredericksburg city, Virginia",43558
+2010,Virginia,"Galax city, Virginia",22333
+2010,Virginia,"Hampton city, Virginia",49815
+2010,Virginia,"Harrisonburg city, Virginia",37235
+2010,Virginia,"Hopewell city, Virginia",37789
+2010,Virginia,"Lexington city, Virginia",31571
+2010,Virginia,"Lynchburg city, Virginia",37058
+2010,Virginia,"Manassas city, Virginia",75173
+2010,Virginia,"Manassas Park city, Virginia",70299
+2010,Virginia,"Martinsville city, Virginia",32408
+2010,Virginia,"Newport News city, Virginia",49562
+2010,Virginia,"Norfolk city, Virginia",42677
+2010,Virginia,"Norton city, Virginia",33944
+2010,Virginia,"Petersburg city, Virginia",36449
+2010,Virginia,"Poquoson city, Virginia",84315
+2010,Virginia,"Portsmouth city, Virginia",45488
+2010,Virginia,"Radford city, Virginia",29155
+2010,Virginia,"Richmond city, Virginia",38266
+2010,Virginia,"Roanoke city, Virginia",36422
+2010,Virginia,"Salem city, Virginia",48828
+2010,Virginia,"Staunton city, Virginia",42724
+2010,Virginia,"Suffolk city, Virginia",65104
+2010,Virginia,"Virginia Beach city, Virginia",64618
+2010,Virginia,"Waynesboro city, Virginia",40977
+2010,Virginia,"Williamsburg city, Virginia",50794
+2010,Virginia,"Winchester city, Virginia",44873
+2010,District of Columbia,"District of Columbia, District of Columbia",58526
+2011,Maryland,"Worcester County, Maryland",57474
+2011,Maryland,"Baltimore city, Maryland",40100
+2011,Maryland,"Somerset County, Maryland",41420
+2011,Maryland,"Talbot County, Maryland",63399
+2011,Maryland,"Harford County, Maryland",79953
+2011,Maryland,"Howard County, Maryland",105692
+2011,Maryland,"Prince George's County, Maryland",73447
+2011,Maryland,"Baltimore County, Maryland",65411
+2011,Maryland,"Frederick County, Maryland",82668
+2011,Maryland,"Garrett County, Maryland",45280
+2011,Maryland,"Kent County, Maryland",53480
+2011,Maryland,"Carroll County, Maryland",83325
+2011,Maryland,"Queen Anne's County, Maryland",84483
+2011,Maryland,"Charles County, Maryland",92135
+2011,Maryland,"Washington County, Maryland",53180
+2011,Maryland,"Wicomico County, Maryland",51739
+2011,Maryland,"Caroline County, Maryland",61021
+2011,Maryland,"Allegany County, Maryland",39408
+2011,Maryland,"Anne Arundel County, Maryland",85690
+2011,Maryland,"Calvert County, Maryland",92981
+2011,Maryland,"Montgomery County, Maryland",95660
+2011,Maryland,"St. Mary's County, Maryland",82529
+2011,Maryland,"Dorchester County, Maryland",46683
+2011,Maryland,"Cecil County, Maryland",66903
+2011,Virginia,"James City County, Virginia",75938
+2011,Virginia,"Russell County, Virginia",32555
+2011,Virginia,"Smyth County, Virginia",34533
+2011,Virginia,"Bedford city, Virginia",34647
+2011,Virginia,"Lexington city, Virginia",33670
+2011,Virginia,"Campbell County, Virginia",45992
+2011,Virginia,"Henry County, Virginia",33695
+2011,Virginia,"King George County, Virginia",82173
+2011,Virginia,"Lancaster County, Virginia",46625
+2011,Virginia,"Lee County, Virginia",32588
+2011,Virginia,"Mathews County, Virginia",54118
+2011,Virginia,"Prince Edward County, Virginia",36789
+2011,Virginia,"Prince George County, Virginia",62924
+2011,Virginia,"Rockingham County, Virginia",51775
+2011,Virginia,"Scott County, Virginia",35846
+2011,Virginia,"Surry County, Virginia",53505
+2011,Virginia,"Appomattox County, Virginia",47992
+2011,Virginia,"Franklin County, Virginia",47606
+2011,Virginia,"Mecklenburg County, Virginia",36069
+2011,Virginia,"Montgomery County, Virginia",44231
+2011,Virginia,"Augusta County, Virginia",51719
+2011,Virginia,"Cumberland County, Virginia",45184
+2011,Virginia,"Goochland County, Virginia",81288
+2011,Virginia,"Halifax County, Virginia",34889
+2011,Virginia,"Madison County, Virginia",59734
+2011,Virginia,"Prince William County, Virginia",95531
+2011,Virginia,"Southampton County, Virginia",46733
+2011,Virginia,"Brunswick County, Virginia",34170
+2011,Virginia,"Caroline County, Virginia",58707
+2011,Virginia,"Northampton County, Virginia",36965
+2011,Virginia,"Patrick County, Virginia",36057
+2011,Virginia,"Rockbridge County, Virginia",45489
+2011,Virginia,"Shenandoah County, Virginia",50535
+2011,Virginia,"Norton city, Virginia",36944
+2011,Virginia,"Staunton city, Virginia",42757
+2011,Virginia,"Fluvanna County, Virginia",68615
+2011,Virginia,"Amelia County, Virginia",51540
+2011,Virginia,"Radford city, Virginia",29101
+2011,Virginia,"Winchester city, Virginia",46065
+2011,Virginia,"Accomack County, Virginia",41595
+2011,Virginia,"Craig County, Virginia",54120
+2011,Virginia,"Floyd County, Virginia",40761
+2011,Virginia,"Giles County, Virginia",43012
+2011,Virginia,"Grayson County, Virginia",31599
+2011,Virginia,"Nottoway County, Virginia",37507
+2011,Virginia,"Rappahannock County, Virginia",64113
+2011,Virginia,"Charles City County, Virginia",47093
+2011,Virginia,"Culpeper County, Virginia",66458
+2011,Virginia,"Dinwiddie County, Virginia",50583
+2011,Virginia,"Greene County, Virginia",58550
+2011,Virginia,"Hanover County, Virginia",77506
+2011,Virginia,"Lunenburg County, Virginia",35210
+2011,Virginia,"Orange County, Virginia",56837
+2011,Virginia,"Emporia city, Virginia",30481
+2011,Virginia,"Wythe County, Virginia",40920
+2011,Virginia,"Colonial Heights city, Virginia",51396
+2011,Virginia,"Harrisonburg city, Virginia",37850
+2011,Virginia,"Bland County, Virginia",42864
+2011,Virginia,"Botetourt County, Virginia",65633
+2011,Virginia,"Buckingham County, Virginia",36378
+2011,Virginia,"Bristol city, Virginia",32122
+2011,Virginia,"Covington city, Virginia",36242
+2011,Virginia,"Williamsburg city, Virginia",50742
+2011,Virginia,"Virginia Beach city, Virginia",65910
+2011,Virginia,"Carroll County, Virginia",35841
+2011,Virginia,"Washington County, Virginia",41526
+2011,Virginia,"Westmoreland County, Virginia",52258
+2011,Virginia,"Page County, Virginia",43435
+2011,Virginia,"Pulaski County, Virginia",40987
+2011,Virginia,"Alexandria city, Virginia",82899
+2011,Virginia,"Danville city, Virginia",31011
+2011,Virginia,"Hampton city, Virginia",51083
+2011,Virginia,"Amherst County, Virginia",44383
+2011,Virginia,"Bath County, Virginia",52500
+2011,Virginia,"Buchanan County, Virginia",30606
+2011,Virginia,"Newport News city, Virginia",50942
+2011,Virginia,"Stafford County, Virginia",94658
+2011,Virginia,"Lynchburg city, Virginia",37733
+2011,Virginia,"Richmond city, Virginia",39201
+2011,Virginia,"Martinsville city, Virginia",32440
+2011,Virginia,"Essex County, Virginia",44581
+2011,Virginia,"Tazewell County, Virginia",36436
+2011,Virginia,"Buena Vista city, Virginia",35426
+2011,Virginia,"Manassas Park city, Virginia",70137
+2011,Virginia,"Petersburg city, Virginia",36289
+2011,Virginia,"Sussex County, Virginia",40088
+2011,Virginia,"Fairfax city, Virginia",99300
+2011,Virginia,"Manassas city, Virginia",73091
+2011,Virginia,"Roanoke city, Virginia",37753
+2011,Virginia,"Suffolk city, Virginia",65351
+2011,Virginia,"Charlotte County, Virginia",37173
+2011,Virginia,"Chesterfield County, Virginia",72886
+2011,Virginia,"Greensville County, Virginia",42000
+2011,Virginia,"Isle of Wight County, Virginia",64925
+2011,Virginia,"Franklin city, Virginia",33956
+2011,Virginia,"Charlottesville city, Virginia",43980
+2011,Virginia,"Henrico County, Virginia",61206
+2011,Virginia,"King William County, Virginia",64982
+2011,Virginia,"Louisa County, Virginia",56502
+2011,Virginia,"Middlesex County, Virginia",53615
+2011,Virginia,"Richmond County, Virginia",46456
+2011,Virginia,"Spotsylvania County, Virginia",78299
+2011,Virginia,"Clarke County, Virginia",77048
+2011,Virginia,"King and Queen County, Virginia",48170
+2011,Virginia,"New Kent County, Virginia",71198
+2011,Virginia,"Dickenson County, Virginia",30556
+2011,Virginia,"Loudoun County, Virginia",120096
+2011,Virginia,"Roanoke County, Virginia",62895
+2011,Virginia,"Highland County, Virginia",43045
+2011,Virginia,"Gloucester County, Virginia",62067
+2011,Virginia,"Powhatan County, Virginia",76235
+2011,Virginia,"Fauquier County, Virginia",87958
+2011,Virginia,"Chesapeake city, Virginia",70115
+2011,Virginia,"Albemarle County, Virginia",65934
+2011,Virginia,"Bedford County, Virginia",56021
+2011,Virginia,"Wise County, Virginia",34717
+2011,Virginia,"Portsmouth city, Virginia",46340
+2011,Virginia,"Alleghany County, Virginia",44329
+2011,Virginia,"Galax city, Virginia",24711
+2011,Virginia,"Northumberland County, Virginia",51256
+2011,Virginia,"Warren County, Virginia",61379
+2011,Virginia,"Fredericksburg city, Virginia",44498
+2011,Virginia,"Arlington County, Virginia",99651
+2011,Virginia,"Hopewell city, Virginia",36477
+2011,Virginia,"Frederick County, Virginia",66440
+2011,Virginia,"York County, Virginia",83747
+2011,Virginia,"Nelson County, Virginia",47426
+2011,Virginia,"Pittsylvania County, Virginia",40333
+2011,Virginia,"Falls Church city, Virginia",120332
+2011,Virginia,"Poquoson city, Virginia",86611
+2011,Virginia,"Waynesboro city, Virginia",43605
+2011,Virginia,"Salem city, Virginia",48050
+2011,Virginia,"Norfolk city, Virginia",43914
+2011,Virginia,"Fairfax County, Virginia",108439
+2011,District of Columbia,"District of Columbia, District of Columbia",61835
+2012,Maryland,"Worcester County, Maryland",58138
+2012,Maryland,"Baltimore city, Maryland",40803
+2012,Maryland,"Somerset County, Maryland",41558
+2012,Maryland,"Talbot County, Maryland",62942
+2012,Maryland,"Harford County, Maryland",80441
+2012,Maryland,"Howard County, Maryland",107821
+2012,Maryland,"Prince George's County, Maryland",73568
+2012,Maryland,"Baltimore County, Maryland",66068
+2012,Maryland,"Frederick County, Maryland",83706
+2012,Maryland,"Garrett County, Maryland",45354
+2012,Maryland,"Kent County, Maryland",54614
+2012,Maryland,"Carroll County, Maryland",83155
+2012,Maryland,"Queen Anne's County, Maryland",86013
+2012,Maryland,"Charles County, Maryland",93063
+2012,Maryland,"Washington County, Maryland",54561
+2012,Maryland,"Wicomico County, Maryland",50639
+2012,Maryland,"Caroline County, Maryland",60735
+2012,Maryland,"Allegany County, Maryland",39087
+2012,Maryland,"Anne Arundel County, Maryland",86987
+2012,Maryland,"Calvert County, Maryland",92395
+2012,Maryland,"Montgomery County, Maryland",96985
+2012,Maryland,"St. Mary's County, Maryland",85032
+2012,Maryland,"Dorchester County, Maryland",46199
+2012,Maryland,"Cecil County, Maryland",66025
+2012,Virginia,"James City County, Virginia",76767
+2012,Virginia,"Russell County, Virginia",32637
+2012,Virginia,"Smyth County, Virginia",34394
+2012,Virginia,"Bedford city, Virginia",35863
+2012,Virginia,"Lexington city, Virginia",36511
+2012,Virginia,"Campbell County, Virginia",45432
+2012,Virginia,"Henry County, Virginia",34373
+2012,Virginia,"King George County, Virginia",82195
+2012,Virginia,"Lancaster County, Virginia",49516
+2012,Virginia,"Lee County, Virginia",31729
+2012,Virginia,"Mathews County, Virginia",55590
+2012,Virginia,"Prince Edward County, Virginia",36743
+2012,Virginia,"Prince George County, Virginia",63031
+2012,Virginia,"Rockingham County, Virginia",51721
+2012,Virginia,"Scott County, Virginia",37544
+2012,Virginia,"Surry County, Virginia",52955
+2012,Virginia,"Appomattox County, Virginia",50092
+2012,Virginia,"Franklin County, Virginia",45049
+2012,Virginia,"Mecklenburg County, Virginia",35399
+2012,Virginia,"Montgomery County, Virginia",44166
+2012,Virginia,"Augusta County, Virginia",50971
+2012,Virginia,"Cumberland County, Virginia",43137
+2012,Virginia,"Goochland County, Virginia",82683
+2012,Virginia,"Halifax County, Virginia",35191
+2012,Virginia,"Madison County, Virginia",54510
+2012,Virginia,"Prince William County, Virginia",96160
+2012,Virginia,"Southampton County, Virginia",46703
+2012,Virginia,"Brunswick County, Virginia",33859
+2012,Virginia,"Caroline County, Virginia",58044
+2012,Virginia,"Northampton County, Virginia",34304
+2012,Virginia,"Patrick County, Virginia",35599
+2012,Virginia,"Rockbridge County, Virginia",45859
+2012,Virginia,"Shenandoah County, Virginia",49953
+2012,Virginia,"Norton city, Virginia",38983
+2012,Virginia,"Chesapeake city, Virginia",70244
+2012,Virginia,"Albemarle County, Virginia",67797
+2012,Virginia,"Bedford County, Virginia",56906
+2012,Virginia,"Wise County, Virginia",35120
+2012,Virginia,"Portsmouth city, Virginia",46269
+2012,Virginia,"Alleghany County, Virginia",46133
+2012,Virginia,"Galax city, Virginia",24059
+2012,Virginia,"Staunton city, Virginia",42918
+2012,Virginia,"Fluvanna County, Virginia",71181
+2012,Virginia,"Amelia County, Virginia",50596
+2012,Virginia,"Radford city, Virginia",29757
+2012,Virginia,"Winchester city, Virginia",45959
+2012,Virginia,"Accomack County, Virginia",40780
+2012,Virginia,"Craig County, Virginia",47691
+2012,Virginia,"Floyd County, Virginia",44038
+2012,Virginia,"Giles County, Virginia",45231
+2012,Virginia,"Grayson County, Virginia",31931
+2012,Virginia,"Nottoway County, Virginia",38209
+2012,Virginia,"Rappahannock County, Virginia",57837
+2012,Virginia,"Charles City County, Virginia",48208
+2012,Virginia,"Culpeper County, Virginia",65567
+2012,Virginia,"Dinwiddie County, Virginia",51582
+2012,Virginia,"Greene County, Virginia",58804
+2012,Virginia,"Hanover County, Virginia",76719
+2012,Virginia,"Lunenburg County, Virginia",34455
+2012,Virginia,"Orange County, Virginia",59501
+2012,Virginia,"Emporia city, Virginia",29093
+2012,Virginia,"Northumberland County, Virginia",51911
+2012,Virginia,"Warren County, Virginia",61693
+2012,Virginia,"Fredericksburg city, Virginia",45951
+2012,Virginia,"Arlington County, Virginia",102459
+2012,Virginia,"Hopewell city, Virginia",37029
+2012,Virginia,"Frederick County, Virginia",67694
+2012,Virginia,"York County, Virginia",82454
+2012,Virginia,"Nelson County, Virginia",48888
+2012,Virginia,"Pittsylvania County, Virginia",42229
+2012,Virginia,"Falls Church city, Virginia",122844
+2012,Virginia,"Poquoson city, Virginia",85033
+2012,Virginia,"Waynesboro city, Virginia",43884
+2012,Virginia,"Salem city, Virginia",47776
+2012,Virginia,"Norfolk city, Virginia",44164
+2012,Virginia,"Fairfax County, Virginia",109383
+2012,Virginia,"Wythe County, Virginia",40564
+2012,Virginia,"Colonial Heights city, Virginia",51612
+2012,Virginia,"Harrisonburg city, Virginia",36853
+2012,Virginia,"Bland County, Virginia",42658
+2012,Virginia,"Botetourt County, Virginia",66053
+2012,Virginia,"Buckingham County, Virginia",37843
+2012,Virginia,"Bristol city, Virginia",30636
+2012,Virginia,"Covington city, Virginia",36067
+2012,Virginia,"Williamsburg city, Virginia",50865
+2012,Virginia,"Virginia Beach city, Virginia",65980
+2012,Virginia,"Carroll County, Virginia",33600
+2012,Virginia,"Washington County, Virginia",42844
+2012,Virginia,"Westmoreland County, Virginia",48672
+2012,Virginia,"Page County, Virginia",43745
+2012,Virginia,"Pulaski County, Virginia",43072
+2012,Virginia,"Alexandria city, Virginia",83996
+2012,Virginia,"Danville city, Virginia",30505
+2012,Virginia,"Hampton city, Virginia",51584
+2012,Virginia,"Amherst County, Virginia",45020
+2012,Virginia,"Bath County, Virginia",51528
+2012,Virginia,"Buchanan County, Virginia",29821
+2012,Virginia,"Newport News city, Virginia",50744
+2012,Virginia,"Stafford County, Virginia",96355
+2012,Virginia,"Lynchburg city, Virginia",37774
+2012,Virginia,"Richmond city, Virginia",39445
+2012,Virginia,"Martinsville city, Virginia",28840
+2012,Virginia,"Essex County, Virginia",42446
+2012,Virginia,"Tazewell County, Virginia",36080
+2012,Virginia,"Buena Vista city, Virginia",35921
+2012,Virginia,"Manassas Park city, Virginia",71810
+2012,Virginia,"Petersburg city, Virginia",35126
+2012,Virginia,"Sussex County, Virginia",39603
+2012,Virginia,"Fairfax city, Virginia",98563
+2012,Virginia,"Manassas city, Virginia",70634
+2012,Virginia,"Roanoke city, Virginia",38265
+2012,Virginia,"Suffolk city, Virginia",66479
+2012,Virginia,"Charlotte County, Virginia",33562
+2012,Virginia,"Chesterfield County, Virginia",72363
+2012,Virginia,"Greensville County, Virginia",38423
+2012,Virginia,"Isle of Wight County, Virginia",64491
+2012,Virginia,"Franklin city, Virginia",33447
+2012,Virginia,"Charlottesville city, Virginia",44535
+2012,Virginia,"Henrico County, Virginia",61300
+2012,Virginia,"King William County, Virginia",63151
+2012,Virginia,"Louisa County, Virginia",55765
+2012,Virginia,"Middlesex County, Virginia",55625
+2012,Virginia,"Richmond County, Virginia",48958
+2012,Virginia,"Spotsylvania County, Virginia",79402
+2012,Virginia,"Clarke County, Virginia",80186
+2012,Virginia,"King and Queen County, Virginia",49410
+2012,Virginia,"New Kent County, Virginia",70978
+2012,Virginia,"Dickenson County, Virginia",32622
+2012,Virginia,"Loudoun County, Virginia",122068
+2012,Virginia,"Roanoke County, Virginia",61686
+2012,Virginia,"Highland County, Virginia",50136
+2012,Virginia,"Gloucester County, Virginia",60752
+2012,Virginia,"Powhatan County, Virginia",76495
+2012,Virginia,"Fauquier County, Virginia",88687
+2012,District of Columbia,"District of Columbia, District of Columbia",64267
+2013,Maryland,"Calvert County, Maryland",95477
+2013,Maryland,"Montgomery County, Maryland",98221
+2013,Maryland,"St. Mary's County, Maryland",85672
+2013,Maryland,"Dorchester County, Maryland",46361
+2013,Maryland,"Cecil County, Maryland",66689
+2013,Maryland,"Worcester County, Maryland",57952
+2013,Maryland,"Baltimore city, Maryland",41385
+2013,Maryland,"Somerset County, Maryland",38447
+2013,Maryland,"Talbot County, Maryland",61597
+2013,Maryland,"Harford County, Maryland",80622
+2013,Maryland,"Howard County, Maryland",109865
+2013,Maryland,"Prince George's County, Maryland",73623
+2013,Maryland,"Baltimore County, Maryland",66486
+2013,Maryland,"Frederick County, Maryland",84570
+2013,Maryland,"Garrett County, Maryland",45206
+2013,Maryland,"Kent County, Maryland",56259
+2013,Maryland,"Carroll County, Maryland",84790
+2013,Maryland,"Queen Anne's County, Maryland",87256
+2013,Maryland,"Charles County, Maryland",93160
+2013,Maryland,"Washington County, Maryland",55609
+2013,Maryland,"Wicomico County, Maryland",51092
+2013,Maryland,"Caroline County, Maryland",58632
+2013,Maryland,"Allegany County, Maryland",39293
+2013,Maryland,"Anne Arundel County, Maryland",87430
+2013,Virginia,"James City County, Virginia",76960
+2013,Virginia,"Russell County, Virginia",33872
+2013,Virginia,"Smyth County, Virginia",37239
+2013,Virginia,"Bedford city, Virginia",35593
+2013,Virginia,"Lexington city, Virginia",36505
+2013,Virginia,"Campbell County, Virginia",47162
+2013,Virginia,"Henry County, Virginia",34984
+2013,Virginia,"King George County, Virginia",81753
+2013,Virginia,"Lancaster County, Virginia",49248
+2013,Virginia,"Lee County, Virginia",31308
+2013,Virginia,"Mathews County, Virginia",55192
+2013,Virginia,"Prince Edward County, Virginia",37436
+2013,Virginia,"Prince George County, Virginia",63074
+2013,Virginia,"Rockingham County, Virginia",52195
+2013,Virginia,"Scott County, Virginia",38355
+2013,Virginia,"Surry County, Virginia",47292
+2013,Virginia,"Appomattox County, Virginia",50167
+2013,Virginia,"Franklin County, Virginia",45624
+2013,Virginia,"Mecklenburg County, Virginia",36261
+2013,Virginia,"Montgomery County, Virginia",45543
+2013,Virginia,"Augusta County, Virginia",52027
+2013,Virginia,"Cumberland County, Virginia",40557
+2013,Virginia,"Goochland County, Virginia",80976
+2013,Virginia,"Halifax County, Virginia",34659
+2013,Virginia,"Madison County, Virginia",53459
+2013,Virginia,"Prince William County, Virginia",98071
+2013,Virginia,"Southampton County, Virginia",46150
+2013,Virginia,"Brunswick County, Virginia",36293
+2013,Virginia,"Caroline County, Virginia",57218
+2013,Virginia,"Northampton County, Virginia",33635
+2013,Virginia,"Patrick County, Virginia",34864
+2013,Virginia,"Rockbridge County, Virginia",48313
+2013,Virginia,"Shenandoah County, Virginia",49625
+2013,Virginia,"Norton city, Virginia",39416
+2013,Virginia,"Staunton city, Virginia",38501
+2013,Virginia,"Fluvanna County, Virginia",68288
+2013,Virginia,"Amelia County, Virginia",52885
+2013,Virginia,"Radford city, Virginia",30714
+2013,Virginia,"Winchester city, Virginia",44200
+2013,Virginia,"Accomack County, Virginia",39328
+2013,Virginia,"Craig County, Virginia",47806
+2013,Virginia,"Floyd County, Virginia",44618
+2013,Virginia,"Giles County, Virginia",45141
+2013,Virginia,"Grayson County, Virginia",30710
+2013,Virginia,"Nottoway County, Virginia",36607
+2013,Virginia,"Rappahannock County, Virginia",56438
+2013,Virginia,"Charles City County, Virginia",48428
+2013,Virginia,"Culpeper County, Virginia",64423
+2013,Virginia,"Dinwiddie County, Virginia",52027
+2013,Virginia,"Greene County, Virginia",59358
+2013,Virginia,"Hanover County, Virginia",75070
+2013,Virginia,"Lunenburg County, Virginia",35237
+2013,Virginia,"Orange County, Virginia",60287
+2013,Virginia,"Emporia city, Virginia",32155
+2013,Virginia,"Wythe County, Virginia",41275
+2013,Virginia,"Colonial Heights city, Virginia",50835
+2013,Virginia,"Harrisonburg city, Virginia",38048
+2013,Virginia,"Bland County, Virginia",42139
+2013,Virginia,"Botetourt County, Virginia",65935
+2013,Virginia,"Buckingham County, Virginia",38648
+2013,Virginia,"Bristol city, Virginia",32221
+2013,Virginia,"Covington city, Virginia",34319
+2013,Virginia,"Williamsburg city, Virginia",48616
+2013,Virginia,"Virginia Beach city, Virginia",65219
+2013,Virginia,"Carroll County, Virginia",32853
+2013,Virginia,"Washington County, Virginia",41897
+2013,Virginia,"Westmoreland County, Virginia",49157
+2013,Virginia,"Page County, Virginia",42906
+2013,Virginia,"Pulaski County, Virginia",44312
+2013,Virginia,"Alexandria city, Virginia",85706
+2013,Virginia,"Danville city, Virginia",30786
+2013,Virginia,"Hampton city, Virginia",50705
+2013,Virginia,"Amherst County, Virginia",44945
+2013,Virginia,"Bath County, Virginia",51365
+2013,Virginia,"Buchanan County, Virginia",29848
+2013,Virginia,"Newport News city, Virginia",51027
+2013,Virginia,"Stafford County, Virginia",97110
+2013,Virginia,"Lynchburg city, Virginia",38138
+2013,Virginia,"Richmond city, Virginia",40496
+2013,Virginia,"Martinsville city, Virginia",28116
+2013,Virginia,"Essex County, Virginia",44885
+2013,Virginia,"Tazewell County, Virginia",35693
+2013,Virginia,"Buena Vista city, Virginia",36591
+2013,Virginia,"Manassas Park city, Virginia",71227
+2013,Virginia,"Petersburg city, Virginia",34424
+2013,Virginia,"Sussex County, Virginia",39635
+2013,Virginia,"Fairfax city, Virginia",97242
+2013,Virginia,"Manassas city, Virginia",71036
+2013,Virginia,"Roanoke city, Virginia",38145
+2013,Virginia,"Suffolk city, Virginia",66085
+2013,Virginia,"Charlotte County, Virginia",33015
+2013,Virginia,"Chesterfield County, Virginia",72088
+2013,Virginia,"Greensville County, Virginia",39697
+2013,Virginia,"Isle of Wight County, Virginia",63942
+2013,Virginia,"Franklin city, Virginia",31928
+2013,Virginia,"Charlottesville city, Virginia",44601
+2013,Virginia,"Henrico County, Virginia",61048
+2013,Virginia,"King William County, Virginia",62670
+2013,Virginia,"Louisa County, Virginia",54518
+2013,Virginia,"Middlesex County, Virginia",53309
+2013,Virginia,"Richmond County, Virginia",47083
+2013,Virginia,"Spotsylvania County, Virginia",78345
+2013,Virginia,"Clarke County, Virginia",77597
+2013,Virginia,"King and Queen County, Virginia",48372
+2013,Virginia,"New Kent County, Virginia",70618
+2013,Virginia,"Dickenson County, Virginia",33318
+2013,Virginia,"Loudoun County, Virginia",122238
+2013,Virginia,"Roanoke County, Virginia",60795
+2013,Virginia,"Highland County, Virginia",49625
+2013,Virginia,"Gloucester County, Virginia",60519
+2013,Virginia,"Powhatan County, Virginia",76548
+2013,Virginia,"Fauquier County, Virginia",88409
+2013,Virginia,"Chesapeake city, Virginia",69743
+2013,Virginia,"Albemarle County, Virginia",67725
+2013,Virginia,"Bedford County, Virginia",57596
+2013,Virginia,"Wise County, Virginia",36218
+2013,Virginia,"Portsmouth city, Virginia",46166
+2013,Virginia,"Alleghany County, Virginia",44848
+2013,Virginia,"Galax city, Virginia",30325
+2013,Virginia,"Northumberland County, Virginia",51342
+2013,Virginia,"Warren County, Virginia",61610
+2013,Virginia,"Fredericksburg city, Virginia",47040
+2013,Virginia,"Arlington County, Virginia",103208
+2013,Virginia,"Hopewell city, Virginia",37933
+2013,Virginia,"Frederick County, Virginia",68424
+2013,Virginia,"York County, Virginia",82073
+2013,Virginia,"Nelson County, Virginia",48789
+2013,Virginia,"Pittsylvania County, Virginia",42143
+2013,Virginia,"Falls Church city, Virginia",120000
+2013,Virginia,"Poquoson city, Virginia",81892
+2013,Virginia,"Waynesboro city, Virginia",44847
+2013,Virginia,"Salem city, Virginia",48733
+2013,Virginia,"Norfolk city, Virginia",44747
+2013,Virginia,"Fairfax County, Virginia",110292
+2013,District of Columbia,"District of Columbia, District of Columbia",65830
+2014,Maryland,"Allegany County, Maryland",39794
+2014,Maryland,"Anne Arundel County, Maryland",89031
+2014,Maryland,"Calvert County, Maryland",95425
+2014,Maryland,"Montgomery County, Maryland",98704
+2014,Maryland,"St. Mary's County, Maryland",88190
+2014,Maryland,"Dorchester County, Maryland",45628
+2014,Maryland,"Cecil County, Maryland",65124
+2014,Maryland,"Worcester County, Maryland",58820
+2014,Maryland,"Baltimore city, Maryland",41819
+2014,Maryland,"Somerset County, Maryland",36716
+2014,Maryland,"Talbot County, Maryland",58495
+2014,Maryland,"Harford County, Maryland",81016
+2014,Maryland,"Howard County, Maryland",110133
+2014,Maryland,"Prince George's County, Maryland",73856
+2014,Maryland,"Baltimore County, Maryland",66940
+2014,Maryland,"Frederick County, Maryland",84480
+2014,Maryland,"Garrett County, Maryland",46096
+2014,Maryland,"Kent County, Maryland",58201
+2014,Maryland,"Carroll County, Maryland",85532
+2014,Maryland,"Queen Anne's County, Maryland",86406
+2014,Maryland,"Charles County, Maryland",91910
+2014,Maryland,"Washington County, Maryland",56477
+2014,Maryland,"Wicomico County, Maryland",52301
+2014,Maryland,"Caroline County, Maryland",55605
+2014,Virginia,"James City County, Virginia",76705
+2014,Virginia,"Russell County, Virginia",34768
+2014,Virginia,"Smyth County, Virginia",37880
+2014,Virginia,"Charlottesville city, Virginia",47218
+2014,Virginia,"Campbell County, Virginia",47055
+2014,Virginia,"Henrico County, Virginia",61438
+2014,Virginia,"King George County, Virginia",83071
+2014,Virginia,"Lancaster County, Virginia",49456
+2014,Virginia,"Lee County, Virginia",31264
+2014,Virginia,"Mathews County, Virginia",63157
+2014,Virginia,"Middlesex County, Virginia",54452
+2014,Virginia,"Prince George County, Virginia",61071
+2014,Virginia,"Richmond County, Virginia",47199
+2014,Virginia,"Scott County, Virginia",36579
+2014,Virginia,"Spotsylvania County, Virginia",78505
+2014,Virginia,"Appomattox County, Virginia",47927
+2014,Virginia,"Franklin County, Virginia",44827
+2014,Virginia,"Cumberland County, Virginia",41484
+2014,Virginia,"King and Queen County, Virginia",47804
+2014,Virginia,"Montgomery County, Virginia",44810
+2014,Virginia,"New Kent County, Virginia",73030
+2014,Virginia,"Dickenson County, Virginia",33106
+2014,Virginia,"Halifax County, Virginia",35093
+2014,Virginia,"Loudoun County, Virginia",123966
+2014,Virginia,"Prince William County, Virginia",98514
+2014,Virginia,"Southampton County, Virginia",49690
+2014,Virginia,"Highland County, Virginia",44132
+2014,Virginia,"Caroline County, Virginia",58417
+2014,Virginia,"Gloucester County, Virginia",60980
+2014,Virginia,"Patrick County, Virginia",34753
+2014,Virginia,"Powhatan County, Virginia",75447
+2014,Virginia,"Shenandoah County, Virginia",47936
+2014,Virginia,"Fauquier County, Virginia",92078
+2014,Virginia,"Staunton city, Virginia",39982
+2014,Virginia,"Fluvanna County, Virginia",64641
+2014,Virginia,"Amelia County, Virginia",55870
+2014,Virginia,"Radford city, Virginia",30284
+2014,Virginia,"Winchester city, Virginia",44731
+2014,Virginia,"Accomack County, Virginia",39389
+2014,Virginia,"Craig County, Virginia",46658
+2014,Virginia,"Floyd County, Virginia",47543
+2014,Virginia,"Giles County, Virginia",45919
+2014,Virginia,"Grayson County, Virginia",28892
+2014,Virginia,"Nottoway County, Virginia",35911
+2014,Virginia,"Rappahannock County, Virginia",59753
+2014,Virginia,"Charles City County, Virginia",48088
+2014,Virginia,"Culpeper County, Virginia",65235
+2014,Virginia,"Dinwiddie County, Virginia",52328
+2014,Virginia,"Greene County, Virginia",63739
+2014,Virginia,"Hanover County, Virginia",77550
+2014,Virginia,"Lunenburg County, Virginia",37881
+2014,Virginia,"Orange County, Virginia",63538
+2014,Virginia,"Emporia city, Virginia",30240
+2014,Virginia,"Wythe County, Virginia",40185
+2014,Virginia,"Chesapeake city, Virginia",70176
+2014,Virginia,"Harrisonburg city, Virginia",38807
+2014,Virginia,"Albemarle County, Virginia",67958
+2014,Virginia,"Bedford County, Virginia",56043
+2014,Virginia,"Buckingham County, Virginia",38484
+2014,Virginia,"Wise County, Virginia",37357
+2014,Virginia,"Covington city, Virginia",38176
+2014,Virginia,"Portsmouth city, Virginia",46239
+2014,Virginia,"Virginia Beach city, Virginia",67001
+2014,Virginia,"Alleghany County, Virginia",45183
+2014,Virginia,"Galax city, Virginia",30430
+2014,Virginia,"Westmoreland County, Virginia",48750
+2014,Virginia,"Northumberland County, Virginia",50774
+2014,Virginia,"Pulaski County, Virginia",45635
+2014,Virginia,"Warren County, Virginia",60560
+2014,Virginia,"Bath County, Virginia",46153
+2014,Virginia,"Danville city, Virginia",32173
+2014,Virginia,"Fredericksburg city, Virginia",49454
+2014,Virginia,"Amherst County, Virginia",44765
+2014,Virginia,"Hopewell city, Virginia",39156
+2014,Virginia,"Newport News city, Virginia",51000
+2014,Virginia,"Frederick County, Virginia",68719
+2014,Virginia,"Lynchburg city, Virginia",39391
+2014,Virginia,"York County, Virginia",80900
+2014,Virginia,"Martinsville city, Virginia",27746
+2014,Virginia,"Nelson County, Virginia",50131
+2014,Virginia,"Pittsylvania County, Virginia",42311
+2014,Virginia,"Buena Vista city, Virginia",32789
+2014,Virginia,"Falls Church city, Virginia",120500
+2014,Virginia,"Petersburg city, Virginia",33927
+2014,Virginia,"Poquoson city, Virginia",83460
+2014,Virginia,"Fairfax city, Virginia",100584
+2014,Virginia,"Waynesboro city, Virginia",45499
+2014,Virginia,"Roanoke city, Virginia",39530
+2014,Virginia,"Suffolk city, Virginia",66822
+2014,Virginia,"Norfolk city, Virginia",44150
+2014,Virginia,"Chesterfield County, Virginia",72514
+2014,Virginia,"Fairfax County, Virginia",112102
+2014,Virginia,"Isle of Wight County, Virginia",65910
+2014,Virginia,"Franklin city, Virginia",33133
+2014,Virginia,"Lexington city, Virginia",36840
+2014,Virginia,"Henry County, Virginia",34344
+2014,Virginia,"King William County, Virginia",63560
+2014,Virginia,"Louisa County, Virginia",57126
+2014,Virginia,"Prince Edward County, Virginia",37238
+2014,Virginia,"Rockingham County, Virginia",53728
+2014,Virginia,"Surry County, Virginia",51527
+2014,Virginia,"Clarke County, Virginia",75508
+2014,Virginia,"Mecklenburg County, Virginia",37756
+2014,Virginia,"Augusta County, Virginia",54018
+2014,Virginia,"Goochland County, Virginia",82460
+2014,Virginia,"Madison County, Virginia",51641
+2014,Virginia,"Roanoke County, Virginia",60950
+2014,Virginia,"Brunswick County, Virginia",37028
+2014,Virginia,"Northampton County, Virginia",34656
+2014,Virginia,"Rockbridge County, Virginia",48550
+2014,Virginia,"Norton city, Virginia",36148
+2014,Virginia,"Colonial Heights city, Virginia",52529
+2014,Virginia,"Bland County, Virginia",43508
+2014,Virginia,"Botetourt County, Virginia",63011
+2014,Virginia,"Bristol city, Virginia",33616
+2014,Virginia,"Williamsburg city, Virginia",48057
+2014,Virginia,"Carroll County, Virginia",33495
+2014,Virginia,"Washington County, Virginia",42458
+2014,Virginia,"Page County, Virginia",43063
+2014,Virginia,"Alexandria city, Virginia",87319
+2014,Virginia,"Hampton city, Virginia",49879
+2014,Virginia,"Arlington County, Virginia",105120
+2014,Virginia,"Buchanan County, Virginia",29678
+2014,Virginia,"Stafford County, Virginia",98721
+2014,Virginia,"Richmond city, Virginia",41331
+2014,Virginia,"Essex County, Virginia",42143
+2014,Virginia,"Tazewell County, Virginia",36248
+2014,Virginia,"Manassas Park city, Virginia",73460
+2014,Virginia,"Sussex County, Virginia",36972
+2014,Virginia,"Manassas city, Virginia",71215
+2014,Virginia,"Salem city, Virginia",50590
+2014,Virginia,"Charlotte County, Virginia",34820
+2014,Virginia,"Greensville County, Virginia",38933
+2014,District of Columbia,"District of Columbia, District of Columbia",69235
+2015,Maryland,"Allegany County, Maryland",40551
+2015,Maryland,"Anne Arundel County, Maryland",89860
+2015,Maryland,"Calvert County, Maryland",95828
+2015,Maryland,"Montgomery County, Maryland",99435
+2015,Maryland,"St. Mary's County, Maryland",86987
+2015,Maryland,"Dorchester County, Maryland",47093
+2015,Maryland,"Cecil County, Maryland",66396
+2015,Maryland,"Worcester County, Maryland",56773
+2015,Maryland,"Baltimore city, Maryland",42241
+2015,Maryland,"Somerset County, Maryland",35154
+2015,Maryland,"Talbot County, Maryland",58228
+2015,Maryland,"Harford County, Maryland",80465
+2015,Maryland,"Howard County, Maryland",110238
+2015,Maryland,"Prince George's County, Maryland",74260
+2015,Maryland,"Baltimore County, Maryland",67095
+2015,Maryland,"Frederick County, Maryland",83700
+2015,Maryland,"Garrett County, Maryland",45432
+2015,Maryland,"Kent County, Maryland",58147
+2015,Maryland,"Carroll County, Maryland",85385
+2015,Maryland,"Queen Anne's County, Maryland",85963
+2015,Maryland,"Charles County, Maryland",90607
+2015,Maryland,"Washington County, Maryland",56228
+2015,Maryland,"Wicomico County, Maryland",52278
+2015,Maryland,"Caroline County, Maryland",52465
+2015,Virginia,"James City County, Virginia",75710
+2015,Virginia,"Russell County, Virginia",35045
+2015,Virginia,"Smyth County, Virginia",37983
+2015,Virginia,"Charlottesville city, Virginia",49775
+2015,Virginia,"Campbell County, Virginia",47699
+2015,Virginia,"Henrico County, Virginia",61934
+2015,Virginia,"King George County, Virginia",81688
+2015,Virginia,"Lancaster County, Virginia",50374
+2015,Virginia,"Lee County, Virginia",31086
+2015,Virginia,"Mathews County, Virginia",63845
+2015,Virginia,"Middlesex County, Virginia",54654
+2015,Virginia,"Prince George County, Virginia",61857
+2015,Virginia,"Richmond County, Virginia",47288
+2015,Virginia,"Scott County, Virginia",37240
+2015,Virginia,"Spotsylvania County, Virginia",78125
+2015,Virginia,"Appomattox County, Virginia",48823
+2015,Virginia,"Franklin County, Virginia",46870
+2015,Virginia,"King and Queen County, Virginia",48292
+2015,Virginia,"Montgomery County, Virginia",46663
+2015,Virginia,"New Kent County, Virginia",73041
+2015,Virginia,"Halifax County, Virginia",35240
+2015,Virginia,"Loudoun County, Virginia",123453
+2015,Virginia,"Prince William County, Virginia",98657
+2015,Virginia,"Southampton County, Virginia",48962
+2015,Virginia,"Highland County, Virginia",43914
+2015,Virginia,"Caroline County, Virginia",59227
+2015,Virginia,"Gloucester County, Virginia",61121
+2015,Virginia,"Patrick County, Virginia",33982
+2015,Virginia,"Powhatan County, Virginia",77896
+2015,Virginia,"Shenandoah County, Virginia",49406
+2015,Virginia,"Fauquier County, Virginia",91609
+2015,Virginia,"Staunton city, Virginia",40842
+2015,Virginia,"Fluvanna County, Virginia",63938
+2015,Virginia,"Amelia County, Virginia",56850
+2015,Virginia,"Radford city, Virginia",29912
+2015,Virginia,"Winchester city, Virginia",45363
+2015,Virginia,"Accomack County, Virginia",39412
+2015,Virginia,"Craig County, Virginia",44330
+2015,Virginia,"Floyd County, Virginia",48005
+2015,Virginia,"Giles County, Virginia",46390
+2015,Virginia,"Grayson County, Virginia",29942
+2015,Virginia,"Nottoway County, Virginia",36284
+2015,Virginia,"Rappahannock County, Virginia",57210
+2015,Virginia,"Charles City County, Virginia",49563
+2015,Virginia,"Culpeper County, Virginia",66697
+2015,Virginia,"Dinwiddie County, Virginia",51397
+2015,Virginia,"Greene County, Virginia",61550
+2015,Virginia,"Hanover County, Virginia",78645
+2015,Virginia,"Lunenburg County, Virginia",39506
+2015,Virginia,"Orange County, Virginia",65166
+2015,Virginia,"Emporia city, Virginia",28601
+2015,Virginia,"Wythe County, Virginia",41360
+2015,Virginia,"Chesapeake city, Virginia",68620
+2015,Virginia,"Harrisonburg city, Virginia",38750
+2015,Virginia,"Albemarle County, Virginia",68449
+2015,Virginia,"Bedford County, Virginia",56316
+2015,Virginia,"Buckingham County, Virginia",40331
+2015,Virginia,"Wise County, Virginia",37407
+2015,Virginia,"Covington city, Virginia",34746
+2015,Virginia,"Cumberland County, Virginia",39301
+2015,Virginia,"Dickenson County, Virginia",33624
+2015,Virginia,"Portsmouth city, Virginia",45676
+2015,Virginia,"Virginia Beach city, Virginia",66634
+2015,Virginia,"Alleghany County, Virginia",45007
+2015,Virginia,"Galax city, Virginia",30604
+2015,Virginia,"Westmoreland County, Virginia",47911
+2015,Virginia,"Northumberland County, Virginia",51885
+2015,Virginia,"Pulaski County, Virginia",47495
+2015,Virginia,"Warren County, Virginia",61454
+2015,Virginia,"Danville city, Virginia",32315
+2015,Virginia,"Fredericksburg city, Virginia",51762
+2015,Virginia,"Amherst County, Virginia",47558
+2015,Virginia,"Bath County, Virginia",43646
+2015,Virginia,"Hopewell city, Virginia",39064
+2015,Virginia,"Newport News city, Virginia",50077
+2015,Virginia,"Frederick County, Virginia",69098
+2015,Virginia,"Lynchburg city, Virginia",39589
+2015,Virginia,"York County, Virginia",81749
+2015,Virginia,"Martinsville city, Virginia",29587
+2015,Virginia,"Pittsylvania County, Virginia",41824
+2015,Virginia,"Buena Vista city, Virginia",29097
+2015,Virginia,"Falls Church city, Virginia",120522
+2015,Virginia,"Petersburg city, Virginia",31798
+2015,Virginia,"Poquoson city, Virginia",83735
+2015,Virginia,"Fairfax city, Virginia",105297
+2015,Virginia,"Waynesboro city, Virginia",45643
+2015,Virginia,"Roanoke city, Virginia",39930
+2015,Virginia,"Suffolk city, Virginia",65499
+2015,Virginia,"Norfolk city, Virginia",44480
+2015,Virginia,"Chesterfield County, Virginia",72609
+2015,Virginia,"Fairfax County, Virginia",112552
+2015,Virginia,"Nelson County, Virginia",47118
+2015,Virginia,"Isle of Wight County, Virginia",65741
+2015,Virginia,"Franklin city, Virginia",32399
+2015,Virginia,"Lexington city, Virginia",34017
+2015,Virginia,"Henry County, Virginia",35293
+2015,Virginia,"King William County, Virginia",62031
+2015,Virginia,"Louisa County, Virginia",57829
+2015,Virginia,"Prince Edward County, Virginia",41697
+2015,Virginia,"Rockingham County, Virginia",53744
+2015,Virginia,"Surry County, Virginia",53673
+2015,Virginia,"Clarke County, Virginia",71295
+2015,Virginia,"Mecklenburg County, Virginia",37356
+2015,Virginia,"Augusta County, Virginia",54558
+2015,Virginia,"Goochland County, Virginia",79330
+2015,Virginia,"Madison County, Virginia",47736
+2015,Virginia,"Roanoke County, Virginia",60519
+2015,Virginia,"Brunswick County, Virginia",36919
+2015,Virginia,"Northampton County, Virginia",35055
+2015,Virginia,"Rockbridge County, Virginia",48901
+2015,Virginia,"Norton city, Virginia",27731
+2015,Virginia,"Colonial Heights city, Virginia",50304
+2015,Virginia,"Bland County, Virginia",45294
+2015,Virginia,"Botetourt County, Virginia",60454
+2015,Virginia,"Bristol city, Virginia",35368
+2015,Virginia,"Williamsburg city, Virginia",48639
+2015,Virginia,"Carroll County, Virginia",35000
+2015,Virginia,"Washington County, Virginia",43310
+2015,Virginia,"Page County, Virginia",43895
+2015,Virginia,"Alexandria city, Virginia",89134
+2015,Virginia,"Hampton city, Virginia",49190
+2015,Virginia,"Arlington County, Virginia",105763
+2015,Virginia,"Buchanan County, Virginia",29679
+2015,Virginia,"Stafford County, Virginia",97144
+2015,Virginia,"Richmond city, Virginia",40758
+2015,Virginia,"Essex County, Virginia",42760
+2015,Virginia,"Tazewell County, Virginia",37664
+2015,Virginia,"Manassas Park city, Virginia",73528
+2015,Virginia,"Sussex County, Virginia",39194
+2015,Virginia,"Manassas city, Virginia",72890
+2015,Virginia,"Salem city, Virginia",50068
+2015,Virginia,"Charlotte County, Virginia",35079
+2015,Virginia,"Greensville County, Virginia",38012
+2015,District of Columbia,"District of Columbia, District of Columbia",70848
+2016,Maryland,"Allegany County, Maryland",41559
+2016,Maryland,"Anne Arundel County, Maryland",91918
+2016,Maryland,"Calvert County, Maryland",96808
+2016,Maryland,"Montgomery County, Maryland",100352
+2016,Maryland,"St. Mary's County, Maryland",86810
+2016,Maryland,"Dorchester County, Maryland",47907
+2016,Maryland,"Cecil County, Maryland",67938
+2016,Maryland,"Worcester County, Maryland",57227
+2016,Maryland,"Baltimore city, Maryland",44262
+2016,Maryland,"Somerset County, Maryland",35886
+2016,Maryland,"Talbot County, Maryland",61395
+2016,Maryland,"Harford County, Maryland",81052
+2016,Maryland,"Howard County, Maryland",113800
+2016,Maryland,"Prince George's County, Maryland",75925
+2016,Maryland,"Baltimore County, Maryland",68989
+2016,Maryland,"Frederick County, Maryland",85715
+2016,Maryland,"Garrett County, Maryland",46277
+2016,Maryland,"Kent County, Maryland",55028
+2016,Maryland,"Carroll County, Maryland",87060
+2016,Maryland,"Queen Anne's County, Maryland",85891
+2016,Maryland,"Charles County, Maryland",91373
+2016,Maryland,"Washington County, Maryland",56316
+2016,Maryland,"Wicomico County, Maryland",53508
+2016,Maryland,"Caroline County, Maryland",50830
+2016,Virginia,"Virginia Beach city, Virginia",67719
+2016,Virginia,"Alleghany County, Virginia",45538
+2016,Virginia,"Galax city, Virginia",31110
+2016,Virginia,"Westmoreland County, Virginia",51566
+2016,Virginia,"Northumberland County, Virginia",54440
+2016,Virginia,"Pulaski County, Virginia",49469
+2016,Virginia,"Warren County, Virginia",63734
+2016,Virginia,"Danville city, Virginia",33721
+2016,Virginia,"Fredericksburg city, Virginia",53980
+2016,Virginia,"Amherst County, Virginia",47002
+2016,Virginia,"Bath County, Virginia",44985
+2016,Virginia,"Hopewell city, Virginia",40814
+2016,Virginia,"Newport News city, Virginia",50089
+2016,Virginia,"Frederick County, Virginia",68929
+2016,Virginia,"Lynchburg city, Virginia",40728
+2016,Virginia,"York County, Virginia",83410
+2016,Virginia,"Martinsville city, Virginia",31719
+2016,Virginia,"Nelson County, Virginia",50994
+2016,Virginia,"Pittsylvania County, Virginia",43087
+2016,Virginia,"Buena Vista city, Virginia",29109
+2016,Virginia,"Falls Church city, Virginia",115244
+2016,Virginia,"Petersburg city, Virginia",32169
+2016,Virginia,"Poquoson city, Virginia",84643
+2016,Virginia,"Fairfax city, Virginia",104065
+2016,Virginia,"Waynesboro city, Virginia",45097
+2016,Virginia,"Roanoke city, Virginia",39201
+2016,Virginia,"Suffolk city, Virginia",65435
+2016,Virginia,"Norfolk city, Virginia",45268
+2016,Virginia,"Chesterfield County, Virginia",73869
+2016,Virginia,"Fairfax County, Virginia",114329
+2016,Virginia,"Botetourt County, Virginia",61470
+2016,Virginia,"Bristol city, Virginia",35801
+2016,Virginia,"Williamsburg city, Virginia",50091
+2016,Virginia,"Carroll County, Virginia",37048
+2016,Virginia,"Washington County, Virginia",43835
+2016,Virginia,"Page County, Virginia",45030
+2016,Virginia,"Alexandria city, Virginia",89200
+2016,Virginia,"Hampton city, Virginia",49890
+2016,Virginia,"Arlington County, Virginia",108706
+2016,Virginia,"Buchanan County, Virginia",30335
+2016,Virginia,"Stafford County, Virginia",97528
+2016,Virginia,"Richmond city, Virginia",41187
+2016,Virginia,"Essex County, Virginia",47527
+2016,Virginia,"Tazewell County, Virginia",38238
+2016,Virginia,"Manassas Park city, Virginia",75027
+2016,Virginia,"Sussex County, Virginia",37917
+2016,Virginia,"Manassas city, Virginia",74371
+2016,Virginia,"Salem city, Virginia",52351
+2016,Virginia,"Charlotte County, Virginia",33837
+2016,Virginia,"Greensville County, Virginia",40559
+2016,Virginia,"James City County, Virginia",80226
+2016,Virginia,"Russell County, Virginia",38370
+2016,Virginia,"Smyth County, Virginia",38906
+2016,Virginia,"Charlottesville city, Virginia",50727
+2016,Virginia,"Isle of Wight County, Virginia",66835
+2016,Virginia,"Franklin city, Virginia",38333
+2016,Virginia,"Lexington city, Virginia",34464
+2016,Virginia,"Henry County, Virginia",34992
+2016,Virginia,"King William County, Virginia",64297
+2016,Virginia,"Louisa County, Virginia",54662
+2016,Virginia,"Prince Edward County, Virginia",42283
+2016,Virginia,"Rockingham County, Virginia",55029
+2016,Virginia,"Surry County, Virginia",56632
+2016,Virginia,"Clarke County, Virginia",71986
+2016,Virginia,"Mecklenburg County, Virginia",40040
+2016,Virginia,"Augusta County, Virginia",56802
+2016,Virginia,"Goochland County, Virginia",82326
+2016,Virginia,"Madison County, Virginia",48271
+2016,Virginia,"Roanoke County, Virginia",60380
+2016,Virginia,"Brunswick County, Virginia",38858
+2016,Virginia,"Northampton County, Virginia",37011
+2016,Virginia,"Rockbridge County, Virginia",52478
+2016,Virginia,"Norton city, Virginia",26000
+2016,Virginia,"Colonial Heights city, Virginia",49639
+2016,Virginia,"Bland County, Virginia",47800
+2016,Virginia,"Campbell County, Virginia",47005
+2016,Virginia,"Henrico County, Virginia",63699
+2016,Virginia,"King George County, Virginia",84342
+2016,Virginia,"Lancaster County, Virginia",50118
+2016,Virginia,"Lee County, Virginia",31577
+2016,Virginia,"Mathews County, Virginia",64049
+2016,Virginia,"Middlesex County, Virginia",53093
+2016,Virginia,"Prince George County, Virginia",64805
+2016,Virginia,"Richmond County, Virginia",44919
+2016,Virginia,"Scott County, Virginia",38017
+2016,Virginia,"Spotsylvania County, Virginia",79742
+2016,Virginia,"Appomattox County, Virginia",52134
+2016,Virginia,"Franklin County, Virginia",48720
+2016,Virginia,"King and Queen County, Virginia",48852
+2016,Virginia,"Montgomery County, Virginia",49712
+2016,Virginia,"New Kent County, Virginia",75303
+2016,Virginia,"Cumberland County, Virginia",37489
+2016,Virginia,"Dickenson County, Virginia",31226
+2016,Virginia,"Halifax County, Virginia",37001
+2016,Virginia,"Loudoun County, Virginia",125672
+2016,Virginia,"Prince William County, Virginia",98546
+2016,Virginia,"Southampton County, Virginia",51032
+2016,Virginia,"Highland County, Virginia",44877
+2016,Virginia,"Caroline County, Virginia",57294
+2016,Virginia,"Gloucester County, Virginia",62878
+2016,Virginia,"Patrick County, Virginia",35999
+2016,Virginia,"Powhatan County, Virginia",77684
+2016,Virginia,"Shenandoah County, Virginia",50450
+2016,Virginia,"Fauquier County, Virginia",91221
+2016,Virginia,"Staunton city, Virginia",42948
+2016,Virginia,"Fluvanna County, Virginia",66425
+2016,Virginia,"Amelia County, Virginia",58269
+2016,Virginia,"Radford city, Virginia",31457
+2016,Virginia,"Winchester city, Virginia",46466
+2016,Virginia,"Accomack County, Virginia",38503
+2016,Virginia,"Craig County, Virginia",40500
+2016,Virginia,"Floyd County, Virginia",47288
+2016,Virginia,"Giles County, Virginia",47675
+2016,Virginia,"Grayson County, Virginia",31002
+2016,Virginia,"Nottoway County, Virginia",36849
+2016,Virginia,"Rappahannock County, Virginia",58026
+2016,Virginia,"Charles City County, Virginia",54167
+2016,Virginia,"Culpeper County, Virginia",66160
+2016,Virginia,"Dinwiddie County, Virginia",51579
+2016,Virginia,"Greene County, Virginia",61615
+2016,Virginia,"Hanover County, Virginia",81170
+2016,Virginia,"Lunenburg County, Virginia",39911
+2016,Virginia,"Orange County, Virginia",66990
+2016,Virginia,"Emporia city, Virginia",27169
+2016,Virginia,"Wythe County, Virginia",42888
+2016,Virginia,"Chesapeake city, Virginia",69978
+2016,Virginia,"Harrisonburg city, Virginia",40494
+2016,Virginia,"Albemarle County, Virginia",70342
+2016,Virginia,"Bedford County, Virginia",56725
+2016,Virginia,"Buckingham County, Virginia",43514
+2016,Virginia,"Wise County, Virginia",36352
+2016,Virginia,"Covington city, Virginia",34703
+2016,Virginia,"Portsmouth city, Virginia",47050
+2016,District of Columbia,"District of Columbia, District of Columbia",72935
+2017,Maryland,"Worcester County, Maryland",59458
+2017,Maryland,"Baltimore city, Maryland",46641
+2017,Maryland,"Somerset County, Maryland",39239
+2017,Maryland,"Talbot County, Maryland",65595
+2017,Maryland,"Harford County, Maryland",83445
+2017,Maryland,"Allegany County, Maryland",42771
+2017,Maryland,"Howard County, Maryland",115576
+2017,Maryland,"Prince George's County, Maryland",78607
+2017,Maryland,"Anne Arundel County, Maryland",94502
+2017,Maryland,"Baltimore County, Maryland",71810
+2017,Maryland,"Frederick County, Maryland",88502
+2017,Maryland,"Calvert County, Maryland",100350
+2017,Maryland,"Garrett County, Maryland",48174
+2017,Maryland,"Kent County, Maryland",56638
+2017,Maryland,"Montgomery County, Maryland",103178
+2017,Maryland,"Carroll County, Maryland",90510
+2017,Maryland,"Queen Anne's County, Maryland",89241
+2017,Maryland,"St. Mary's County, Maryland",86508
+2017,Maryland,"Charles County, Maryland",93973
+2017,Maryland,"Dorchester County, Maryland",50532
+2017,Maryland,"Washington County, Maryland",58260
+2017,Maryland,"Wicomico County, Maryland",54493
+2017,Maryland,"Cecil County, Maryland",70516
+2017,Maryland,"Caroline County, Maryland",52469
+2017,Virginia,"Isle of Wight County, Virginia",67767
+2017,Virginia,"James City County, Virginia",80772
+2017,Virginia,"Russell County, Virginia",40083
+2017,Virginia,"Franklin city, Virginia",38760
+2017,Virginia,"Smyth County, Virginia",40544
+2017,Virginia,"Charlottesville city, Virginia",54739
+2017,Virginia,"Lexington city, Virginia",37309
+2017,Virginia,"Campbell County, Virginia",48823
+2017,Virginia,"Henrico County, Virginia",66447
+2017,Virginia,"Henry County, Virginia",36779
+2017,Virginia,"King George County, Virginia",84770
+2017,Virginia,"King William County, Virginia",67423
+2017,Virginia,"Lancaster County, Virginia",51495
+2017,Virginia,"Lee County, Virginia",32590
+2017,Virginia,"Louisa County, Virginia",56946
+2017,Virginia,"Mathews County, Virginia",63622
+2017,Virginia,"Middlesex County, Virginia",50483
+2017,Virginia,"Prince Edward County, Virginia",44147
+2017,Virginia,"Prince George County, Virginia",68461
+2017,Virginia,"Richmond County, Virginia",47341
+2017,Virginia,"Rockingham County, Virginia",57651
+2017,Virginia,"Scott County, Virginia",38725
+2017,Virginia,"Spotsylvania County, Virginia",81434
+2017,Virginia,"Surry County, Virginia",54656
+2017,Virginia,"Appomattox County, Virginia",54875
+2017,Virginia,"Clarke County, Virginia",72129
+2017,Virginia,"Franklin County, Virginia",51208
+2017,Virginia,"King and Queen County, Virginia",51495
+2017,Virginia,"Mecklenburg County, Virginia",41126
+2017,Virginia,"Montgomery County, Virginia",53424
+2017,Virginia,"New Kent County, Virginia",78429
+2017,Virginia,"Augusta County, Virginia",59544
+2017,Virginia,"Cumberland County, Virginia",43020
+2017,Virginia,"Dickenson County, Virginia",29916
+2017,Virginia,"Goochland County, Virginia",86652
+2017,Virginia,"Halifax County, Virginia",39233
+2017,Virginia,"Loudoun County, Virginia",129588
+2017,Virginia,"Madison County, Virginia",52287
+2017,Virginia,"Prince William County, Virginia",101059
+2017,Virginia,"Roanoke County, Virginia",62134
+2017,Virginia,"Southampton County, Virginia",53681
+2017,Virginia,"Highland County, Virginia",45094
+2017,Virginia,"Brunswick County, Virginia",40871
+2017,Virginia,"Caroline County, Virginia",60925
+2017,Virginia,"Gloucester County, Virginia",63881
+2017,Virginia,"Northampton County, Virginia",41468
+2017,Virginia,"Patrick County, Virginia",37757
+2017,Virginia,"Powhatan County, Virginia",80441
+2017,Virginia,"Rockbridge County, Virginia",53918
+2017,Virginia,"Shenandoah County, Virginia",53934
+2017,Virginia,"Fauquier County, Virginia",94775
+2017,Virginia,"Norton city, Virginia",26971
+2017,Virginia,"Staunton city, Virginia",46435
+2017,Virginia,"Fluvanna County, Virginia",67964
+2017,Virginia,"Amelia County, Virginia",58535
+2017,Virginia,"Radford city, Virginia",36082
+2017,Virginia,"Winchester city, Virginia",49330
+2017,Virginia,"Accomack County, Virginia",42260
+2017,Virginia,"Craig County, Virginia",53526
+2017,Virginia,"Floyd County, Virginia",48396
+2017,Virginia,"Giles County, Virginia",49734
+2017,Virginia,"Grayson County, Virginia",32048
+2017,Virginia,"Nottoway County, Virginia",38410
+2017,Virginia,"Rappahannock County, Virginia",62541
+2017,Virginia,"Charles City County, Virginia",55069
+2017,Virginia,"Culpeper County, Virginia",69693
+2017,Virginia,"Dinwiddie County, Virginia",54640
+2017,Virginia,"Greene County, Virginia",62952
+2017,Virginia,"Hanover County, Virginia",84955
+2017,Virginia,"Lunenburg County, Virginia",39537
+2017,Virginia,"Orange County, Virginia",67196
+2017,Virginia,"Emporia city, Virginia",27426
+2017,Virginia,"Wythe County, Virginia",46119
+2017,Virginia,"Chesapeake city, Virginia",72214
+2017,Virginia,"Colonial Heights city, Virginia",50952
+2017,Virginia,"Harrisonburg city, Virginia",43009
+2017,Virginia,"Albemarle County, Virginia",72265
+2017,Virginia,"Bland County, Virginia",46927
+2017,Virginia,"Bedford County, Virginia",59405
+2017,Virginia,"Botetourt County, Virginia",64733
+2017,Virginia,"Buckingham County, Virginia",46610
+2017,Virginia,"Wise County, Virginia",38255
+2017,Virginia,"Bristol city, Virginia",37844
+2017,Virginia,"Covington city, Virginia",35546
+2017,Virginia,"Portsmouth city, Virginia",48727
+2017,Virginia,"Williamsburg city, Virginia",54606
+2017,Virginia,"Virginia Beach city, Virginia",70500
+2017,Virginia,"Alleghany County, Virginia",46020
+2017,Virginia,"Carroll County, Virginia",41145
+2017,Virginia,"Galax city, Virginia",31311
+2017,Virginia,"Washington County, Virginia",44844
+2017,Virginia,"Westmoreland County, Virginia",55688
+2017,Virginia,"Northumberland County, Virginia",56677
+2017,Virginia,"Page County, Virginia",46140
+2017,Virginia,"Pulaski County, Virginia",49691
+2017,Virginia,"Warren County, Virginia",65353
+2017,Virginia,"Alexandria city, Virginia",93370
+2017,Virginia,"Danville city, Virginia",34951
+2017,Virginia,"Fredericksburg city, Virginia",57258
+2017,Virginia,"Hampton city, Virginia",52021
+2017,Virginia,"Amherst County, Virginia",49677
+2017,Virginia,"Arlington County, Virginia",112138
+2017,Virginia,"Bath County, Virginia",44483
+2017,Virginia,"Hopewell city, Virginia",40712
+2017,Virginia,"Buchanan County, Virginia",30828
+2017,Virginia,"Newport News city, Virginia",51082
+2017,Virginia,"Frederick County, Virginia",71037
+2017,Virginia,"Stafford County, Virginia",103005
+2017,Virginia,"Lynchburg city, Virginia",41971
+2017,Virginia,"York County, Virginia",86781
+2017,Virginia,"Richmond city, Virginia",42356
+2017,Virginia,"Martinsville city, Virginia",33545
+2017,Virginia,"Nelson County, Virginia",53834
+2017,Virginia,"Essex County, Virginia",50629
+2017,Virginia,"Pittsylvania County, Virginia",44356
+2017,Virginia,"Tazewell County, Virginia",40309
+2017,Virginia,"Buena Vista city, Virginia",33672
+2017,Virginia,"Falls Church city, Virginia",114795
+2017,Virginia,"Manassas Park city, Virginia",79131
+2017,Virginia,"Petersburg city, Virginia",33939
+2017,Virginia,"Poquoson city, Virginia",88328
+2017,Virginia,"Sussex County, Virginia",44608
+2017,Virginia,"Fairfax city, Virginia",106870
+2017,Virginia,"Waynesboro city, Virginia",42112
+2017,Virginia,"Manassas city, Virginia",77551
+2017,Virginia,"Roanoke city, Virginia",41483
+2017,Virginia,"Salem city, Virginia",53990
+2017,Virginia,"Suffolk city, Virginia",68089
+2017,Virginia,"Norfolk city, Virginia",47137
+2017,Virginia,"Charlotte County, Virginia",38350
+2017,Virginia,"Chesterfield County, Virginia",76969
+2017,Virginia,"Fairfax County, Virginia",117515
+2017,Virginia,"Greensville County, Virginia",42121
+2017,District of Columbia,"District of Columbia, District of Columbia",77649
+2018,Maryland,"Howard County, Maryland",117730
+2018,Maryland,"Prince George's County, Maryland",81969
+2018,Maryland,"Anne Arundel County, Maryland",97810
+2018,Maryland,"Baltimore County, Maryland",74127
+2018,Maryland,"Frederick County, Maryland",91999
+2018,Maryland,"Calvert County, Maryland",104301
+2018,Maryland,"Garrett County, Maryland",49619
+2018,Maryland,"Kent County, Maryland",56009
+2018,Maryland,"Montgomery County, Maryland",106287
+2018,Maryland,"Carroll County, Maryland",93363
+2018,Maryland,"Queen Anne's County, Maryland",92167
+2018,Maryland,"St. Mary's County, Maryland",90438
+2018,Maryland,"Charles County, Maryland",95924
+2018,Maryland,"Dorchester County, Maryland",52145
+2018,Maryland,"Washington County, Maryland",59719
+2018,Maryland,"Wicomico County, Maryland",56608
+2018,Maryland,"Cecil County, Maryland",72845
+2018,Maryland,"Caroline County, Maryland",54956
+2018,Maryland,"Worcester County, Maryland",61145
+2018,Maryland,"Talbot County, Maryland",67204
+2018,Maryland,"Baltimore city, Maryland",48840
+2018,Maryland,"Somerset County, Maryland",42165
+2018,Maryland,"Harford County, Maryland",85942
+2018,Maryland,"Allegany County, Maryland",44065
+2018,Virginia,"James City County, Virginia",83048
+2018,Virginia,"Russell County, Virginia",39482
+2018,Virginia,"Smyth County, Virginia",40425
+2018,Virginia,"Charlottesville city, Virginia",58933
+2018,Virginia,"Campbell County, Virginia",50258
+2018,Virginia,"Henrico County, Virginia",68572
+2018,Virginia,"King George County, Virginia",87321
+2018,Virginia,"Lancaster County, Virginia",50739
+2018,Virginia,"Lee County, Virginia",32718
+2018,Virginia,"Mathews County, Virginia",67009
+2018,Virginia,"Middlesex County, Virginia",51917
+2018,Virginia,"Prince George County, Virginia",67001
+2018,Virginia,"Richmond County, Virginia",49831
+2018,Virginia,"Scott County, Virginia",39144
+2018,Virginia,"Spotsylvania County, Virginia",85330
+2018,Virginia,"Appomattox County, Virginia",56176
+2018,Virginia,"Franklin County, Virginia",52639
+2018,Virginia,"King and Queen County, Virginia",54516
+2018,Virginia,"Montgomery County, Virginia",54641
+2018,Virginia,"New Kent County, Virginia",79698
+2018,Virginia,"Cumberland County, Virginia",46221
+2018,Virginia,"Dickenson County, Virginia",29226
+2018,Virginia,"Halifax County, Virginia",42289
+2018,Virginia,"Loudoun County, Virginia",136268
+2018,Virginia,"Prince William County, Virginia",103445
+2018,Virginia,"Southampton County, Virginia",54611
+2018,Virginia,"Highland County, Virginia",46147
+2018,Virginia,"Caroline County, Virginia",64715
+2018,Virginia,"Gloucester County, Virginia",66701
+2018,Virginia,"Patrick County, Virginia",40486
+2018,Virginia,"Powhatan County, Virginia",83914
+2018,Virginia,"Shenandoah County, Virginia",54921
+2018,Virginia,"Fauquier County, Virginia",97469
+2018,Virginia,"Staunton city, Virginia",48049
+2018,Virginia,"Fluvanna County, Virginia",74931
+2018,Virginia,"Amelia County, Virginia",58526
+2018,Virginia,"Radford city, Virginia",36743
+2018,Virginia,"Winchester city, Virginia",53797
+2018,Virginia,"Accomack County, Virginia",43210
+2018,Virginia,"Craig County, Virginia",55484
+2018,Virginia,"Floyd County, Virginia",49729
+2018,Virginia,"Giles County, Virginia",52478
+2018,Virginia,"Grayson County, Virginia",33969
+2018,Virginia,"Nottoway County, Virginia",42869
+2018,Virginia,"Rappahannock County, Virginia",68438
+2018,Virginia,"Charles City County, Virginia",59192
+2018,Virginia,"Culpeper County, Virginia",73116
+2018,Virginia,"Dinwiddie County, Virginia",55880
+2018,Virginia,"Greene County, Virginia",64979
+2018,Virginia,"Hanover County, Virginia",88652
+2018,Virginia,"Lunenburg County, Virginia",41868
+2018,Virginia,"Orange County, Virginia",68481
+2018,Virginia,"Emporia city, Virginia",30857
+2018,Virginia,"Wythe County, Virginia",48043
+2018,Virginia,"Chesapeake city, Virginia",75790
+2018,Virginia,"Harrisonburg city, Virginia",43893
+2018,Virginia,"Albemarle County, Virginia",75394
+2018,Virginia,"Bedford County, Virginia",61541
+2018,Virginia,"Buckingham County, Virginia",46261
+2018,Virginia,"Wise County, Virginia",38345
+2018,Virginia,"Covington city, Virginia",39432
+2018,Virginia,"Portsmouth city, Virginia",50224
+2018,Virginia,"Virginia Beach city, Virginia",74186
+2018,Virginia,"Alleghany County, Virginia",47794
+2018,Virginia,"Galax city, Virginia",31938
+2018,Virginia,"Westmoreland County, Virginia",54268
+2018,Virginia,"Northumberland County, Virginia",58677
+2018,Virginia,"Pulaski County, Virginia",52638
+2018,Virginia,"Warren County, Virginia",68189
+2018,Virginia,"Danville city, Virginia",36301
+2018,Virginia,"Fredericksburg city, Virginia",63274
+2018,Virginia,"Amherst County, Virginia",49170
+2018,Virginia,"Bath County, Virginia",46137
+2018,Virginia,"Hopewell city, Virginia",40497
+2018,Virginia,"Newport News city, Virginia",51884
+2018,Virginia,"Frederick County, Virginia",73250
+2018,Virginia,"Lynchburg city, Virginia",43374
+2018,Virginia,"York County, Virginia",90367
+2018,Virginia,"Martinsville city, Virginia",33224
+2018,Virginia,"Nelson County, Virginia",62446
+2018,Virginia,"Pittsylvania County, Virginia",45382
+2018,Virginia,"Buena Vista city, Virginia",34273
+2018,Virginia,"Falls Church city, Virginia",124796
+2018,Virginia,"Petersburg city, Virginia",36135
+2018,Virginia,"Poquoson city, Virginia",96831
+2018,Virginia,"Fairfax city, Virginia",111574
+2018,Virginia,"Waynesboro city, Virginia",45738
+2018,Virginia,"Roanoke city, Virginia",43028
+2018,Virginia,"Suffolk city, Virginia",70664
+2018,Virginia,"Norfolk city, Virginia",49146
+2018,Virginia,"Chesterfield County, Virginia",80214
+2018,Virginia,"Fairfax County, Virginia",121133
+2018,Virginia,"Isle of Wight County, Virginia",71376
+2018,Virginia,"Franklin city, Virginia",40375
+2018,Virginia,"Lexington city, Virginia",36466
+2018,Virginia,"Henry County, Virginia",36683
+2018,Virginia,"King William County, Virginia",68720
+2018,Virginia,"Louisa County, Virginia",59343
+2018,Virginia,"Prince Edward County, Virginia",46189
+2018,Virginia,"Rockingham County, Virginia",59817
+2018,Virginia,"Surry County, Virginia",54844
+2018,Virginia,"Clarke County, Virginia",77936
+2018,Virginia,"Mecklenburg County, Virginia",42025
+2018,Virginia,"Augusta County, Virginia",61305
+2018,Virginia,"Goochland County, Virginia",89741
+2018,Virginia,"Madison County, Virginia",54197
+2018,Virginia,"Roanoke County, Virginia",65467
+2018,Virginia,"Brunswick County, Virginia",41927
+2018,Virginia,"Northampton County, Virginia",43553
+2018,Virginia,"Rockbridge County, Virginia",54805
+2018,Virginia,"Norton city, Virginia",28071
+2018,Virginia,"Colonial Heights city, Virginia",53716
+2018,Virginia,"Bland County, Virginia",50511
+2018,Virginia,"Botetourt County, Virginia",68410
+2018,Virginia,"Bristol city, Virginia",37904
+2018,Virginia,"Williamsburg city, Virginia",56163
+2018,Virginia,"Carroll County, Virginia",43532
+2018,Virginia,"Washington County, Virginia",46262
+2018,Virginia,"Page County, Virginia",47951
+2018,Virginia,"Alexandria city, Virginia",96733
+2018,Virginia,"Hampton city, Virginia",54550
+2018,Virginia,"Arlington County, Virginia",117374
+2018,Virginia,"Buchanan County, Virginia",30806
+2018,Virginia,"Stafford County, Virginia",106773
+2018,Virginia,"Richmond city, Virginia",45117
+2018,Virginia,"Essex County, Virginia",52681
+2018,Virginia,"Tazewell County, Virginia",40978
+2018,Virginia,"Manassas Park city, Virginia",80667
+2018,Virginia,"Sussex County, Virginia",45801
+2018,Virginia,"Manassas city, Virginia",78462
+2018,Virginia,"Salem city, Virginia",57185
+2018,Virginia,"Charlotte County, Virginia",39212
+2018,Virginia,"Greensville County, Virginia",44534
+2018,District of Columbia,"District of Columbia, District of Columbia",82604
+2019,Maryland,"Worcester County, Maryland",63499
+2019,Maryland,"Talbot County, Maryland",73547
+2019,Maryland,"Howard County, Maryland",121160
+2019,Maryland,"Prince George's County, Maryland",84920
+2019,Maryland,"Anne Arundel County, Maryland",100798
+2019,Maryland,"Baltimore County, Maryland",76866
+2019,Maryland,"Frederick County, Maryland",97730
+2019,Maryland,"Calvert County, Maryland",109313
+2019,Maryland,"Garrett County, Maryland",52617
+2019,Maryland,"Kent County, Maryland",58598
+2019,Maryland,"Montgomery County, Maryland",108820
+2019,Maryland,"Carroll County, Maryland",96769
+2019,Maryland,"Queen Anne's County, Maryland",97034
+2019,Maryland,"St. Mary's County, Maryland",89845
+2019,Maryland,"Charles County, Maryland",100003
+2019,Maryland,"Dorchester County, Maryland",52917
+2019,Maryland,"Washington County, Maryland",60860
+2019,Maryland,"Wicomico County, Maryland",56956
+2019,Maryland,"Cecil County, Maryland",76887
+2019,Maryland,"Caroline County, Maryland",58638
+2019,Maryland,"Baltimore city, Maryland",50379
+2019,Maryland,"Somerset County, Maryland",37803
+2019,Maryland,"Harford County, Maryland",89147
+2019,Maryland,"Allegany County, Maryland",45893
+2019,Virginia,"Surry County, Virginia",57962
+2019,Virginia,"Clarke County, Virginia",80026
+2019,Virginia,"Mecklenburg County, Virginia",43207
+2019,Virginia,"Augusta County, Virginia",62711
+2019,Virginia,"Goochland County, Virginia",93994
+2019,Virginia,"Madison County, Virginia",57895
+2019,Virginia,"Roanoke County, Virginia",68948
+2019,Virginia,"Brunswick County, Virginia",44434
+2019,Virginia,"Northampton County, Virginia",47227
+2019,Virginia,"Rockbridge County, Virginia",54600
+2019,Virginia,"Norton city, Virginia",29000
+2019,Virginia,"Colonial Heights city, Virginia",54550
+2019,Virginia,"Bland County, Virginia",48531
+2019,Virginia,"Botetourt County, Virginia",71110
+2019,Virginia,"Bristol city, Virginia",37500
+2019,Virginia,"Williamsburg city, Virginia",57463
+2019,Virginia,"Carroll County, Virginia",44835
+2019,Virginia,"Washington County, Virginia",48495
+2019,Virginia,"Page County, Virginia",51792
+2019,Virginia,"Alexandria city, Virginia",100939
+2019,Virginia,"Hampton city, Virginia",56287
+2019,Virginia,"Arlington County, Virginia",120071
+2019,Virginia,"Buchanan County, Virginia",31956
+2019,Virginia,"Stafford County, Virginia",111108
+2019,Virginia,"Richmond city, Virginia",47250
+2019,Virginia,"Essex County, Virginia",51954
+2019,Virginia,"Tazewell County, Virginia",42099
+2019,Virginia,"Manassas Park city, Virginia",88046
+2019,Virginia,"Sussex County, Virginia",49487
+2019,Virginia,"Manassas city, Virginia",81493
+2019,Virginia,"Salem city, Virginia",57165
+2019,Virginia,"Charlotte County, Virginia",40573
+2019,Virginia,"Greensville County, Virginia",50300
+2019,Virginia,"Isle of Wight County, Virginia",73991
+2019,Virginia,"Franklin city, Virginia",40417
+2019,Virginia,"Lexington city, Virginia",42632
+2019,Virginia,"Henry County, Virginia",37952
+2019,Virginia,"King William County, Virginia",66987
+2019,Virginia,"Louisa County, Virginia",60975
+2019,Virginia,"Prince Edward County, Virginia",47202
+2019,Virginia,"Rockingham County, Virginia",61864
+2019,Virginia,"James City County, Virginia",87678
+2019,Virginia,"Russell County, Virginia",39758
+2019,Virginia,"Smyth County, Virginia",40932
+2019,Virginia,"Charlottesville city, Virginia",59471
+2019,Virginia,"Campbell County, Virginia",49664
+2019,Virginia,"Henrico County, Virginia",70307
+2019,Virginia,"King George County, Virginia",94274
+2019,Virginia,"Lancaster County, Virginia",53711
+2019,Virginia,"Lee County, Virginia",32888
+2019,Virginia,"Mathews County, Virginia",64237
+2019,Virginia,"Middlesex County, Virginia",57438
+2019,Virginia,"Prince George County, Virginia",71912
+2019,Virginia,"Richmond County, Virginia",49517
+2019,Virginia,"Scott County, Virginia",39820
+2019,Virginia,"Spotsylvania County, Virginia",88628
+2019,Virginia,"Appomattox County, Virginia",58696
+2019,Virginia,"Franklin County, Virginia",56254
+2019,Virginia,"King and Queen County, Virginia",63982
+2019,Virginia,"Montgomery County, Virginia",57977
+2019,Virginia,"New Kent County, Virginia",87904
+2019,Virginia,"Cumberland County, Virginia",47469
+2019,Virginia,"Dickenson County, Virginia",29932
+2019,Virginia,"Halifax County, Virginia",42669
+2019,Virginia,"Loudoun County, Virginia",142299
+2019,Virginia,"Prince William County, Virginia",107132
+2019,Virginia,"Southampton County, Virginia",61348
+2019,Virginia,"Highland County, Virginia",48587
+2019,Virginia,"Caroline County, Virginia",65103
+2019,Virginia,"Gloucester County, Virginia",70537
+2019,Virginia,"Patrick County, Virginia",43073
+2019,Virginia,"Powhatan County, Virginia",89090
+2019,Virginia,"Shenandoah County, Virginia",57252
+2019,Virginia,"Fauquier County, Virginia",100783
+2019,Virginia,"Staunton city, Virginia",52611
+2019,Virginia,"Fluvanna County, Virginia",76873
+2019,Virginia,"Radford city, Virginia",36297
+2019,Virginia,"Winchester city, Virginia",58818
+2019,Virginia,"Accomack County, Virginia",46073
+2019,Virginia,"Craig County, Virginia",55708
+2019,Virginia,"Floyd County, Virginia",51521
+2019,Virginia,"Giles County, Virginia",54520
+2019,Virginia,"Grayson County, Virginia",36544
+2019,Virginia,"Nottoway County, Virginia",45535
+2019,Virginia,"Rappahannock County, Virginia",74284
+2019,Virginia,"Charles City County, Virginia",57198
+2019,Virginia,"Culpeper County, Virginia",77935
+2019,Virginia,"Dinwiddie County, Virginia",60346
+2019,Virginia,"Greene County, Virginia",67398
+2019,Virginia,"Hanover County, Virginia",89390
+2019,Virginia,"Lunenburg County, Virginia",44303
+2019,Virginia,"Orange County, Virginia",71548
+2019,Virginia,"Emporia city, Virginia",27063
+2019,Virginia,"Wythe County, Virginia",49364
+2019,Virginia,"Chesapeake city, Virginia",78640
+2019,Virginia,"Harrisonburg city, Virginia",46679
+2019,Virginia,"Albemarle County, Virginia",79880
+2019,Virginia,"Bedford County, Virginia",64199
+2019,Virginia,"Buckingham County, Virginia",49025
+2019,Virginia,"Wise County, Virginia",38888
+2019,Virginia,"Covington city, Virginia",40655
+2019,Virginia,"Portsmouth city, Virginia",52175
+2019,Virginia,"Virginia Beach city, Virginia",76610
+2019,Virginia,"Alleghany County, Virginia",47673
+2019,Virginia,"Galax city, Virginia",33575
+2019,Virginia,"Westmoreland County, Virginia",53853
+2019,Virginia,"Northumberland County, Virginia",62632
+2019,Virginia,"Pulaski County, Virginia",53866
+2019,Virginia,"Warren County, Virginia",69116
+2019,Virginia,"Danville city, Virginia",37203
+2019,Virginia,"Fredericksburg city, Virginia",65641
+2019,Virginia,"Amherst County, Virginia",52888
+2019,Virginia,"Bath County, Virginia",49738
+2019,Virginia,"Hopewell city, Virginia",39030
+2019,Virginia,"Newport News city, Virginia",53215
+2019,Virginia,"Frederick County, Virginia",78002
+2019,Virginia,"Lynchburg city, Virginia",46409
+2019,Virginia,"York County, Virginia",92069
+2019,Virginia,"Martinsville city, Virginia",34371
+2019,Virginia,"Nelson County, Virginia",64313
+2019,Virginia,"Pittsylvania County, Virginia",47690
+2019,Virginia,"Buena Vista city, Virginia",32455
+2019,Virginia,"Falls Church city, Virginia",127610
+2019,Virginia,"Petersburg city, Virginia",38679
+2019,Virginia,"Poquoson city, Virginia",97118
+2019,Virginia,"Fairfax city, Virginia",116979
+2019,Virginia,"Waynesboro city, Virginia",45011
+2019,Virginia,"Roanoke city, Virginia",44230
+2019,Virginia,"Suffolk city, Virginia",74884
+2019,Virginia,"Norfolk city, Virginia",51590
+2019,Virginia,"Amelia County, Virginia",57946
+2019,Virginia,"Chesterfield County, Virginia",82599
+2019,Virginia,"Fairfax County, Virginia",124831
+2019,District of Columbia,"District of Columbia, District of Columbia",86420
+2020,Maryland,"Allegany County, Maryland",49449
+2020,Maryland,"Baltimore County, Maryland",78724
+2020,Maryland,"Caroline County, Maryland",59042
+2020,Maryland,"Carroll County, Maryland",99569
+2020,Maryland,"Charles County, Maryland",103678
+2020,Maryland,"Dorchester County, Maryland",52799
+2020,Maryland,"Garrett County, Maryland",54542
+2020,Maryland,"Harford County, Maryland",94003
+2020,Maryland,"Kent County, Maryland",60208
+2020,Maryland,"Prince George's County, Maryland",86994
+2020,Maryland,"Queen Anne's County, Maryland",96467
+2020,Maryland,"Somerset County, Maryland",44980
+2020,Maryland,"Talbot County, Maryland",73102
+2020,Maryland,"Washington County, Maryland",63510
+2020,Maryland,"Wicomico County, Maryland",60366
+2020,Maryland,"Worcester County, Maryland",65396
+2020,Maryland,"Baltimore city, Maryland",52164
+2020,Maryland,"Anne Arundel County, Maryland",103225
+2020,Maryland,"Calvert County, Maryland",112696
+2020,Maryland,"Cecil County, Maryland",79415
+2020,Maryland,"Frederick County, Maryland",100685
+2020,Maryland,"Howard County, Maryland",124042
+2020,Maryland,"Montgomery County, Maryland",111812
+2020,Maryland,"St. Mary's County, Maryland",95864
+2020,Virginia,"Accomack County, Virginia",46178
+2020,Virginia,"Alleghany County, Virginia",48513
+2020,Virginia,"Amelia County, Virginia",63918
+2020,Virginia,"Appomattox County, Virginia",55457
+2020,Virginia,"Arlington County, Virginia",122604
+2020,Virginia,"Bath County, Virginia",55481
+2020,Virginia,"Bedford County, Virginia",67136
+2020,Virginia,"Botetourt County, Virginia",72719
+2020,Virginia,"Brunswick County, Virginia",46111
+2020,Virginia,"Buckingham County, Virginia",48603
+2020,Virginia,"Campbell County, Virginia",52319
+2020,Virginia,"Carroll County, Virginia",44518
+2020,Virginia,"Charles City County, Virginia",60096
+2020,Virginia,"Charlotte County, Virginia",40924
+2020,Virginia,"Clarke County, Virginia",86154
+2020,Virginia,"Craig County, Virginia",57792
+2020,Virginia,"Cumberland County, Virginia",50565
+2020,Virginia,"Dickenson County, Virginia",30116
+2020,Virginia,"Essex County, Virginia",51125
+2020,Virginia,"Fairfax County, Virginia",127866
+2020,Virginia,"Floyd County, Virginia",51250
+2020,Virginia,"Fluvanna County, Virginia",78885
+2020,Virginia,"Frederick County, Virginia",80011
+2020,Virginia,"Giles County, Virginia",57279
+2020,Virginia,"Goochland County, Virginia",97146
+2020,Virginia,"Grayson County, Virginia",41558
+2020,Virginia,"Greensville County, Virginia",49756
+2020,Virginia,"Halifax County, Virginia",43714
+2020,Virginia,"Henrico County, Virginia",72295
+2020,Virginia,"Henry County, Virginia",38511
+2020,Virginia,"Isle of Wight County, Virginia",77870
+2020,Virginia,"James City County, Virginia",91675
+2020,Virginia,"King and Queen County, Virginia",65385
+2020,Virginia,"King George County, Virginia",96711
+2020,Virginia,"King William County, Virginia",73284
+2020,Virginia,"Lancaster County, Virginia",59736
+2020,Virginia,"Lee County, Virginia",35006
+2020,Virginia,"Loudoun County, Virginia",147111
+2020,Virginia,"Louisa County, Virginia",67027
+2020,Virginia,"Lunenburg County, Virginia",45884
+2020,Virginia,"Madison County, Virginia",63482
+2020,Virginia,"Mathews County, Virginia",74489
+2020,Virginia,"Mecklenburg County, Virginia",50224
+2020,Virginia,"Middlesex County, Virginia",57060
+2020,Virginia,"Montgomery County, Virginia",59126
+2020,Virginia,"Nelson County, Virginia",62203
+2020,Virginia,"New Kent County, Virginia",97688
+2020,Virginia,"Northampton County, Virginia",50819
+2020,Virginia,"Northumberland County, Virginia",59437
+2020,Virginia,"Nottoway County, Virginia",49983
+2020,Virginia,"Orange County, Virginia",74446
+2020,Virginia,"Page County, Virginia",51878
+2020,Virginia,"Patrick County, Virginia",46941
+2020,Virginia,"Powhatan County, Virginia",93833
+2020,Virginia,"Prince Edward County, Virginia",44253
+2020,Virginia,"Prince George County, Virginia",75123
+2020,Virginia,"Pulaski County, Virginia",53689
+2020,Virginia,"Rappahannock County, Virginia",82077
+2020,Virginia,"Roanoke County, Virginia",70076
+2020,Virginia,"Rockbridge County, Virginia",54133
+2020,Virginia,"Russell County, Virginia",38564
+2020,Virginia,"Scott County, Virginia",41540
+2020,Virginia,"Smyth County, Virginia",41088
+2020,Virginia,"Southampton County, Virginia",63034
+2020,Virginia,"Stafford County, Virginia",112247
+2020,Virginia,"Surry County, Virginia",56525
+2020,Virginia,"Tazewell County, Virginia",42207
+2020,Virginia,"Warren County, Virginia",70109
+2020,Virginia,"Westmoreland County, Virginia",53790
+2020,Virginia,"Wise County, Virginia",41285
+2020,Virginia,"York County, Virginia",93356
+2020,Virginia,"Alexandria city, Virginia",102227
+2020,Virginia,"Buena Vista city, Virginia",36634
+2020,Virginia,"Charlottesville city, Virginia",59598
+2020,Virginia,"Colonial Heights city, Virginia",60522
+2020,Virginia,"Covington city, Virginia",41024
+2020,Virginia,"Danville city, Virginia",37147
+2020,Virginia,"Fairfax city, Virginia",109708
+2020,Virginia,"Falls Church city, Virginia",146922
+2020,Virginia,"Fredericksburg city, Virginia",69528
+2020,Virginia,"Galax city, Virginia",35184
+2020,Virginia,"Harrisonburg city, Virginia",49117
+2020,Virginia,"Hopewell city, Virginia",43262
+2020,Virginia,"Lynchburg city, Virginia",49201
+2020,Virginia,"Manassas city, Virginia",86227
+2020,Virginia,"Martinsville city, Virginia",36166
+2020,Virginia,"Newport News city, Virginia",54511
+2020,Virginia,"Norton city, Virginia",30518
+2020,Virginia,"Petersburg city, Virginia",43029
+2020,Virginia,"Portsmouth city, Virginia",53213
+2020,Virginia,"Radford city, Virginia",34576
+2020,Virginia,"Roanoke city, Virginia",45664
+2020,Virginia,"Salem city, Virginia",63411
+2020,Virginia,"Staunton city, Virginia",52292
+2020,Virginia,"Suffolk city, Virginia",79899
+2020,Virginia,"Virginia Beach city, Virginia",78136
+2020,Virginia,"Waynesboro city, Virginia",43480
+2020,Virginia,"Williamsburg city, Virginia",59288
+2020,Virginia,"Winchester city, Virginia",61102
+2020,Virginia,"Albemarle County, Virginia",84643
+2020,Virginia,"Amherst County, Virginia",57368
+2020,Virginia,"Augusta County, Virginia",65076
+2020,Virginia,"Bland County, Virginia",50365
+2020,Virginia,"Buchanan County, Virginia",34302
+2020,Virginia,"Caroline County, Virginia",67901
+2020,Virginia,"Chesterfield County, Virginia",84645
+2020,Virginia,"Culpeper County, Virginia",80663
+2020,Virginia,"Dinwiddie County, Virginia",65485
+2020,Virginia,"Fauquier County, Virginia",105665
+2020,Virginia,"Franklin County, Virginia",56779
+2020,Virginia,"Gloucester County, Virginia",71649
+2020,Virginia,"Greene County, Virginia",67266
+2020,Virginia,"Hanover County, Virginia",91444
+2020,Virginia,"Highland County, Virginia",51831
+2020,Virginia,"Pittsylvania County, Virginia",49520
+2020,Virginia,"Prince William County, Virginia",107707
+2020,Virginia,"Richmond County, Virginia",53298
+2020,Virginia,"Rockingham County, Virginia",64496
+2020,Virginia,"Shenandoah County, Virginia",56114
+2020,Virginia,"Spotsylvania County, Virginia",90913
+2020,Virginia,"Sussex County, Virginia",51701
+2020,Virginia,"Washington County, Virginia",50928
+2020,Virginia,"Wythe County, Virginia",51639
+2020,Virginia,"Bristol city, Virginia",39679
+2020,Virginia,"Chesapeake city, Virginia",81261
+2020,Virginia,"Emporia city, Virginia",30058
+2020,Virginia,"Franklin city, Virginia",49811
+2020,Virginia,"Hampton city, Virginia",57041
+2020,Virginia,"Lexington city, Virginia",50714
+2020,Virginia,"Manassas Park city, Virginia",81639
+2020,Virginia,"Norfolk city, Virginia",53026
+2020,Virginia,"Poquoson city, Virginia",100696
+2020,Virginia,"Richmond city, Virginia",51421
+2020,District of Columbia,"District of Columbia, District of Columbia",90842
+2021,Maryland,"Allegany County, Maryland",51090
+2021,Maryland,"Anne Arundel County, Maryland",108048
+2021,Maryland,"Baltimore County, Maryland",81846
+2021,Maryland,"Calvert County, Maryland",120295
+2021,Maryland,"Caroline County, Maryland",63027
+2021,Maryland,"Carroll County, Maryland",104708
+2021,Maryland,"Cecil County, Maryland",81817
+2021,Maryland,"Charles County, Maryland",107808
+2021,Maryland,"Dorchester County, Maryland",55652
+2021,Maryland,"Frederick County, Maryland",106129
+2021,Maryland,"Garrett County, Maryland",58011
+2021,Maryland,"Harford County, Maryland",98495
+2021,Maryland,"Howard County, Maryland",129549
+2021,Maryland,"Kent County, Maryland",64451
+2021,Maryland,"Montgomery County, Maryland",117345
+2021,Maryland,"Prince George's County, Maryland",91124
+2021,Maryland,"Queen Anne's County, Maryland",99597
+2021,Maryland,"St. Mary's County, Maryland",102859
+2021,Maryland,"Somerset County, Maryland",48661
+2021,Maryland,"Talbot County, Maryland",79349
+2021,Maryland,"Washington County, Maryland",67349
+2021,Maryland,"Wicomico County, Maryland",63610
+2021,Maryland,"Worcester County, Maryland",71262
+2021,Maryland,"Baltimore city, Maryland",54124
+2021,Virginia,"Accomack County, Virginia",50601
+2021,Virginia,"Albemarle County, Virginia",90568
+2021,Virginia,"Alleghany County, Virginia",49705
+2021,Virginia,"Amelia County, Virginia",57420
+2021,Virginia,"Amherst County, Virginia",60876
+2021,Virginia,"Appomattox County, Virginia",55268
+2021,Virginia,"Arlington County, Virginia",128145
+2021,Virginia,"Augusta County, Virginia",69082
+2021,Virginia,"Bath County, Virginia",55807
+2021,Virginia,"Bedford County, Virginia",70870
+2021,Virginia,"Bland County, Virginia",54556
+2021,Virginia,"Botetourt County, Virginia",72941
+2021,Virginia,"Brunswick County, Virginia",49597
+2021,Virginia,"Buchanan County, Virginia",37093
+2021,Virginia,"Buckingham County, Virginia",49841
+2021,Virginia,"Campbell County, Virginia",53918
+2021,Virginia,"Caroline County, Virginia",76528
+2021,Virginia,"Carroll County, Virginia",45220
+2021,Virginia,"Charles City County, Virginia",59543
+2021,Virginia,"Charlotte County, Virginia",45567
+2021,Virginia,"Chesterfield County, Virginia",88315
+2021,Virginia,"Clarke County, Virginia",86633
+2021,Virginia,"Craig County, Virginia",60283
+2021,Virginia,"Culpeper County, Virginia",85274
+2021,Virginia,"Cumberland County, Virginia",57568
+2021,Virginia,"Dickenson County, Virginia",33905
+2021,Virginia,"Dinwiddie County, Virginia",68918
+2021,Virginia,"Essex County, Virginia",54375
+2021,Virginia,"Fairfax County, Virginia",133974
+2021,Virginia,"Fauquier County, Virginia",111368
+2021,Virginia,"Floyd County, Virginia",51612
+2021,Virginia,"Fluvanna County, Virginia",82983
+2021,Virginia,"Franklin County, Virginia",59667
+2021,Virginia,"Frederick County, Virginia",84317
+2021,Virginia,"Giles County, Virginia",57911
+2021,Virginia,"Gloucester County, Virginia",77733
+2021,Virginia,"Goochland County, Virginia",100517
+2021,Virginia,"Grayson County, Virginia",43022
+2021,Virginia,"Greene County, Virginia",73844
+2021,Virginia,"Greensville County, Virginia",53063
+2021,Virginia,"Halifax County, Virginia",45962
+2021,Virginia,"Hanover County, Virginia",96911
+2021,Virginia,"Henrico County, Virginia",76345
+2021,Virginia,"Henry County, Virginia",41103
+2021,Virginia,"Highland County, Virginia",52901
+2021,Virginia,"Isle of Wight County, Virginia",84673
+2021,Virginia,"James City County, Virginia",94907
+2021,Virginia,"King and Queen County, Virginia",61672
+2021,Virginia,"King George County, Virginia",101599
+2021,Virginia,"King William County, Virginia",74592
+2021,Virginia,"Lancaster County, Virginia",64460
+2021,Virginia,"Lee County, Virginia",37574
+2021,Virginia,"Loudoun County, Virginia",156821
+2021,Virginia,"Louisa County, Virginia",70974
+2021,Virginia,"Lunenburg County, Virginia",47269
+2021,Virginia,"Madison County, Virginia",72349
+2021,Virginia,"Mathews County, Virginia",73229
+2021,Virginia,"Mecklenburg County, Virginia",46378
+2021,Virginia,"Middlesex County, Virginia",63782
+2021,Virginia,"Montgomery County, Virginia",60666
+2021,Virginia,"Nelson County, Virginia",67707
+2021,Virginia,"New Kent County, Virginia",101628
+2021,Virginia,"Northampton County, Virginia",50347
+2021,Virginia,"Northumberland County, Virginia",61291
+2021,Virginia,"Nottoway County, Virginia",54614
+2021,Virginia,"Orange County, Virginia",79211
+2021,Virginia,"Page County, Virginia",53168
+2021,Virginia,"Patrick County, Virginia",47215
+2021,Virginia,"Pittsylvania County, Virginia",49486
+2021,Virginia,"Powhatan County, Virginia",101395
+2021,Virginia,"Prince Edward County, Virginia",49019
+2021,Virginia,"Prince George County, Virginia",78895
+2021,Virginia,"Prince William County, Virginia",113831
+2021,Virginia,"Pulaski County, Virginia",55446
+2021,Virginia,"Rappahannock County, Virginia",90307
+2021,Virginia,"Richmond County, Virginia",57697
+2021,Virginia,"Roanoke County, Virginia",74622
+2021,Virginia,"Rockbridge County, Virginia",57828
+2021,Virginia,"Rockingham County, Virginia",67484
+2021,Virginia,"Russell County, Virginia",41100
+2021,Virginia,"Scott County, Virginia",42561
+2021,Virginia,"Shenandoah County, Virginia",58609
+2021,Virginia,"Smyth County, Virginia",42588
+2021,Virginia,"Southampton County, Virginia",65079
+2021,Virginia,"Spotsylvania County, Virginia",98973
+2021,Virginia,"Stafford County, Virginia",119818
+2021,Virginia,"Surry County, Virginia",61105
+2021,Virginia,"Sussex County, Virginia",56968
+2021,Virginia,"Tazewell County, Virginia",42937
+2021,Virginia,"Warren County, Virginia",72840
+2021,Virginia,"Washington County, Virginia",54737
+2021,Virginia,"Westmoreland County, Virginia",53113
+2021,Virginia,"Wise County, Virginia",44884
+2021,Virginia,"Wythe County, Virginia",52726
+2021,Virginia,"York County, Virginia",96144
+2021,Virginia,"Alexandria city, Virginia",105450
+2021,Virginia,"Bristol city, Virginia",43879
+2021,Virginia,"Buena Vista city, Virginia",42156
+2021,Virginia,"Charlottesville city, Virginia",63470
+2021,Virginia,"Chesapeake city, Virginia",85563
+2021,Virginia,"Colonial Heights city, Virginia",65570
+2021,Virginia,"Covington city, Virginia",41242
+2021,Virginia,"Danville city, Virginia",38904
+2021,Virginia,"Emporia city, Virginia",36111
+2021,Virginia,"Fairfax city, Virginia",118492
+2021,Virginia,"Falls Church city, Virginia",155071
+2021,Virginia,"Franklin city, Virginia",49424
+2021,Virginia,"Fredericksburg city, Virginia",72293
+2021,Virginia,"Galax city, Virginia",39808
+2021,Virginia,"Hampton city, Virginia",59380
+2021,Virginia,"Harrisonburg city, Virginia",51055
+2021,Virginia,"Hopewell city, Virginia",44209
+2021,Virginia,"Lexington city, Virginia",66114
+2021,Virginia,"Lynchburg city, Virginia",54015
+2021,Virginia,"Manassas city, Virginia",101934
+2021,Virginia,"Manassas Park city, Virginia",90544
+2021,Virginia,"Martinsville city, Virginia",36832
+2021,Virginia,"Newport News city, Virginia",57463
+2021,Virginia,"Norfolk city, Virginia",56244
+2021,Virginia,"Norton city, Virginia",35592
+2021,Virginia,"Petersburg city, Virginia",44890
+2021,Virginia,"Poquoson city, Virginia",112026
+2021,Virginia,"Portsmouth city, Virginia",54020
+2021,Virginia,"Radford city, Virginia",44360
+2021,Virginia,"Richmond city, Virginia",54795
+2021,Virginia,"Roanoke city, Virginia",48476
+2021,Virginia,"Salem city, Virginia",66472
+2021,Virginia,"Staunton city, Virginia",53041
+2021,Virginia,"Suffolk city, Virginia",81883
+2021,Virginia,"Virginia Beach city, Virginia",81810
+2021,Virginia,"Waynesboro city, Virginia",47238
+2021,Virginia,"Williamsburg city, Virginia",65297
+2021,Virginia,"Winchester city, Virginia",61321
+2021,District of Columbia,"District of Columbia, District of Columbia",93547
+2022,Maryland,"Allegany County, Maryland",55248
+2022,Maryland,"Anne Arundel County, Maryland",116009
+2022,Maryland,"Baltimore County, Maryland",88157
+2022,Maryland,"Calvert County, Maryland",128078
+2022,Maryland,"Caroline County, Maryland",65326
+2022,Maryland,"Carroll County, Maryland",111672
+2022,Maryland,"Cecil County, Maryland",86869
+2022,Maryland,"Charles County, Maryland",116882
+2022,Maryland,"Dorchester County, Maryland",57490
+2022,Maryland,"Frederick County, Maryland",115724
+2022,Maryland,"Garrett County, Maryland",64447
+2022,Maryland,"Harford County, Maryland",106417
+2022,Maryland,"Howard County, Maryland",140971
+2022,Maryland,"Kent County, Maryland",71635
+2022,Maryland,"Montgomery County, Maryland",125583
+2022,Maryland,"Prince George's County, Maryland",97935
+2022,Maryland,"Queen Anne's County, Maryland",108332
+2022,Maryland,"St. Mary's County, Maryland",113668
+2022,Maryland,"Somerset County, Maryland",52149
+2022,Maryland,"Talbot County, Maryland",81667
+2022,Maryland,"Washington County, Maryland",73017
+2022,Maryland,"Wicomico County, Maryland",69421
+2022,Maryland,"Worcester County, Maryland",76689
+2022,Maryland,"Baltimore city, Maryland",58349
+2022,Virginia,"Accomack County, Virginia",52694
+2022,Virginia,"Albemarle County, Virginia",97708
+2022,Virginia,"Alleghany County, Virginia",52546
+2022,Virginia,"Amelia County, Virginia",63438
+2022,Virginia,"Amherst County, Virginia",64454
+2022,Virginia,"Appomattox County, Virginia",60041
+2022,Virginia,"Arlington County, Virginia",137387
+2022,Virginia,"Augusta County, Virginia",76124
+2022,Virginia,"Bath County, Virginia",55699
+2022,Virginia,"Bedford County, Virginia",74773
+2022,Virginia,"Bland County, Virginia",59901
+2022,Virginia,"Botetourt County, Virginia",77680
+2022,Virginia,"Brunswick County, Virginia",52678
+2022,Virginia,"Buchanan County, Virginia",39591
+2022,Virginia,"Buckingham County, Virginia",59894
+2022,Virginia,"Campbell County, Virginia",59022
+2022,Virginia,"Caroline County, Virginia",83562
+2022,Virginia,"Carroll County, Virginia",49113
+2022,Virginia,"Charles City County, Virginia",65573
+2022,Virginia,"Charlotte County, Virginia",51548
+2022,Virginia,"Chesterfield County, Virginia",95757
+2022,Virginia,"Clarke County, Virginia",107475
+2022,Virginia,"Craig County, Virginia",66286
+2022,Virginia,"Culpeper County, Virginia",92359
+2022,Virginia,"Cumberland County, Virginia",56497
+2022,Virginia,"Dickenson County, Virginia",40143
+2022,Virginia,"Dinwiddie County, Virginia",77225
+2022,Virginia,"Essex County, Virginia",52335
+2022,Virginia,"Fairfax County, Virginia",145165
+2022,Virginia,"Fauquier County, Virginia",122785
+2022,Virginia,"Floyd County, Virginia",57146
+2022,Virginia,"Fluvanna County, Virginia",90766
+2022,Virginia,"Franklin County, Virginia",66275
+2022,Virginia,"Frederick County, Virginia",92443
+2022,Virginia,"Giles County, Virginia",61987
+2022,Virginia,"Gloucester County, Virginia",83750
+2022,Virginia,"Goochland County, Virginia",105600
+2022,Virginia,"Grayson County, Virginia",43348
+2022,Virginia,"Greene County, Virginia",81338
+2022,Virginia,"Greensville County, Virginia",51823
+2022,Virginia,"Halifax County, Virginia",49145
+2022,Virginia,"Hanover County, Virginia",104678
+2022,Virginia,"Henrico County, Virginia",82424
+2022,Virginia,"Henry County, Virginia",43694
+2022,Virginia,"Highland County, Virginia",57070
+2022,Virginia,"Isle of Wight County, Virginia",91680
+2022,Virginia,"James City County, Virginia",100711
+2022,Virginia,"King and Queen County, Virginia",70147
+2022,Virginia,"King George County, Virginia",103264
+2022,Virginia,"King William County, Virginia",79398
+2022,Virginia,"Lancaster County, Virginia",62674
+2022,Virginia,"Lee County, Virginia",41619
+2022,Virginia,"Loudoun County, Virginia",170463
+2022,Virginia,"Louisa County, Virginia",76594
+2022,Virginia,"Lunenburg County, Virginia",54438
+2022,Virginia,"Madison County, Virginia",74586
+2022,Virginia,"Mathews County, Virginia",79054
+2022,Virginia,"Mecklenburg County, Virginia",51265
+2022,Virginia,"Middlesex County, Virginia",69389
+2022,Virginia,"Montgomery County, Virginia",65270
+2022,Virginia,"Nelson County, Virginia",64028
+2022,Virginia,"New Kent County, Virginia",113120
+2022,Virginia,"Northampton County, Virginia",54693
+2022,Virginia,"Northumberland County, Virginia",64655
+2022,Virginia,"Nottoway County, Virginia",62366
+2022,Virginia,"Orange County, Virginia",87309
+2022,Virginia,"Page County, Virginia",56760
+2022,Virginia,"Patrick County, Virginia",49180
+2022,Virginia,"Pittsylvania County, Virginia",52619
+2022,Virginia,"Powhatan County, Virginia",108089
+2022,Virginia,"Prince Edward County, Virginia",57304
+2022,Virginia,"Prince George County, Virginia",80318
+2022,Virginia,"Prince William County, Virginia",123193
+2022,Virginia,"Pulaski County, Virginia",59740
+2022,Virginia,"Rappahannock County, Virginia",98663
+2022,Virginia,"Richmond County, Virginia",62708
+2022,Virginia,"Roanoke County, Virginia",80872
+2022,Virginia,"Rockbridge County, Virginia",61903
+2022,Virginia,"Rockingham County, Virginia",73232
+2022,Virginia,"Russell County, Virginia",44088
+2022,Virginia,"Scott County, Virginia",44535
+2022,Virginia,"Shenandoah County, Virginia",62149
+2022,Virginia,"Smyth County, Virginia",45061
+2022,Virginia,"Southampton County, Virginia",67813
+2022,Virginia,"Spotsylvania County, Virginia",105068
+2022,Virginia,"Stafford County, Virginia",128036
+2022,Virginia,"Surry County, Virginia",68655
+2022,Virginia,"Sussex County, Virginia",59195
+2022,Virginia,"Tazewell County, Virginia",46508
+2022,Virginia,"Warren County, Virginia",79313
+2022,Virginia,"Washington County, Virginia",59116
+2022,Virginia,"Westmoreland County, Virginia",56647
+2022,Virginia,"Wise County, Virginia",47541
+2022,Virginia,"Wythe County, Virginia",53921
+2022,Virginia,"York County, Virginia",105154
+2022,Virginia,"Alexandria city, Virginia",113179
+2022,Virginia,"Bristol city, Virginia",45250
+2022,Virginia,"Buena Vista city, Virginia",48783
+2022,Virginia,"Charlottesville city, Virginia",67177
+2022,Virginia,"Chesapeake city, Virginia",92703
+2022,Virginia,"Colonial Heights city, Virginia",72216
+2022,Virginia,"Covington city, Virginia",45737
+2022,Virginia,"Danville city, Virginia",41484
+2022,Virginia,"Emporia city, Virginia",41442
+2022,Virginia,"Fairfax city, Virginia",128708
+2022,Virginia,"Falls Church city, Virginia",164536
+2022,Virginia,"Franklin city, Virginia",57537
+2022,Virginia,"Fredericksburg city, Virginia",83445
+2022,Virginia,"Galax city, Virginia",44612
+2022,Virginia,"Hampton city, Virginia",64430
+2022,Virginia,"Harrisonburg city, Virginia",56050
+2022,Virginia,"Hopewell city, Virginia",50661
+2022,Virginia,"Lexington city, Virginia",93651
+2022,Virginia,"Lynchburg city, Virginia",56243
+2022,Virginia,"Manassas city, Virginia",110559
+2022,Virginia,"Manassas Park city, Virginia",91673
+2022,Virginia,"Martinsville city, Virginia",39127
+2022,Virginia,"Newport News city, Virginia",63355
+2022,Virginia,"Norfolk city, Virginia",60998
+2022,Virginia,"Norton city, Virginia",36974
+2022,Virginia,"Petersburg city, Virginia",46930
+2022,Virginia,"Poquoson city, Virginia",114503
+2022,Virginia,"Portsmouth city, Virginia",57154
+2022,Virginia,"Radford city, Virginia",51039
+2022,Virginia,"Richmond city, Virginia",59606
+2022,Virginia,"Roanoke city, Virginia",51523
+2022,Virginia,"Salem city, Virginia",68402
+2022,Virginia,"Staunton city, Virginia",59731
+2022,Virginia,"Suffolk city, Virginia",87758
+2022,Virginia,"Virginia Beach city, Virginia",87544
+2022,Virginia,"Waynesboro city, Virginia",52519
+2022,Virginia,"Williamsburg city, Virginia",66815
+2022,Virginia,"Winchester city, Virginia",62495
+2022,District of Columbia,"District of Columbia, District of Columbia",101722
+2023,Maryland,"Allegany County, Maryland",57393
+2023,Maryland,"Anne Arundel County, Maryland",120324
+2023,Maryland,"Baltimore County, Maryland",90904
+2023,Maryland,"Calvert County, Maryland",132059
+2023,Maryland,"Caroline County, Maryland",66368
+2023,Maryland,"Carroll County, Maryland",115876
+2023,Maryland,"Cecil County, Maryland",91146
+2023,Maryland,"Charles County, Maryland",120592
+2023,Maryland,"Dorchester County, Maryland",60495
+2023,Maryland,"Frederick County, Maryland",120458
+2023,Maryland,"Garrett County, Maryland",69031
+2023,Maryland,"Harford County, Maryland",111317
+2023,Maryland,"Howard County, Maryland",146982
+2023,Maryland,"Kent County, Maryland",74402
+2023,Maryland,"Montgomery County, Maryland",128733
+2023,Maryland,"Prince George's County, Maryland",100708
+2023,Maryland,"Queen Anne's County, Maryland",113347
+2023,Maryland,"St. Mary's County, Maryland",114580
+2023,Maryland,"Somerset County, Maryland",52462
+2023,Maryland,"Talbot County, Maryland",84378
+2023,Maryland,"Washington County, Maryland",74157
+2023,Maryland,"Wicomico County, Maryland",72861
+2023,Maryland,"Worcester County, Maryland",81455
+2023,Maryland,"Baltimore city, Maryland",59623
+2023,Virginia,"Accomack County, Virginia",57500
+2023,Virginia,"Albemarle County, Virginia",102617
+2023,Virginia,"Alleghany County, Virginia",55160
+2023,Virginia,"Amelia County, Virginia",66339
+2023,Virginia,"Amherst County, Virginia",67298
+2023,Virginia,"Appomattox County, Virginia",62337
+2023,Virginia,"Arlington County, Virginia",140160
+2023,Virginia,"Augusta County, Virginia",79972
+2023,Virginia,"Bath County, Virginia",61709
+2023,Virginia,"Bedford County, Virginia",77644
+2023,Virginia,"Bland County, Virginia",61375
+2023,Virginia,"Botetourt County, Virginia",80467
+2023,Virginia,"Brunswick County, Virginia",52978
+2023,Virginia,"Buchanan County, Virginia",42216
+2023,Virginia,"Buckingham County, Virginia",59199
+2023,Virginia,"Campbell County, Virginia",62608
+2023,Virginia,"Caroline County, Virginia",86267
+2023,Virginia,"Carroll County, Virginia",52575
+2023,Virginia,"Charles City County, Virginia",70339
+2023,Virginia,"Charlotte County, Virginia",48892
+2023,Virginia,"Chesterfield County, Virginia",98910
+2023,Virginia,"Clarke County, Virginia",114185
+2023,Virginia,"Craig County, Virginia",67778
+2023,Virginia,"Culpeper County, Virginia",96098
+2023,Virginia,"Cumberland County, Virginia",57057
+2023,Virginia,"Dickenson County, Virginia",43831
+2023,Virginia,"Dinwiddie County, Virginia",83898
+2023,Virginia,"Essex County, Virginia",56481
+2023,Virginia,"Fairfax County, Virginia",150113
+2023,Virginia,"Fauquier County, Virginia",129495
+2023,Virginia,"Floyd County, Virginia",61401
+2023,Virginia,"Fluvanna County, Virginia",91959
+2023,Virginia,"Franklin County, Virginia",68348
+2023,Virginia,"Frederick County, Virginia",95603
+2023,Virginia,"Giles County, Virginia",64819
+2023,Virginia,"Gloucester County, Virginia",83689
+2023,Virginia,"Goochland County, Virginia",118695
+2023,Virginia,"Grayson County, Virginia",42864
+2023,Virginia,"Greene County, Virginia",85268
+2023,Virginia,"Greensville County, Virginia",56759
+2023,Virginia,"Halifax County, Virginia",49244
+2023,Virginia,"Hanover County, Virginia",109504
+2023,Virginia,"Henrico County, Virginia",86397
+2023,Virginia,"Henry County, Virginia",48445
+2023,Virginia,"Highland County, Virginia",62946
+2023,Virginia,"Isle of Wight County, Virginia",96118
+2023,Virginia,"James City County, Virginia",107046
+2023,Virginia,"King and Queen County, Virginia",72851
+2023,Virginia,"King George County, Virginia",110517
+2023,Virginia,"King William County, Virginia",85212
+2023,Virginia,"Lancaster County, Virginia",67169
+2023,Virginia,"Lee County, Virginia",42269
+2023,Virginia,"Loudoun County, Virginia",178707
+2023,Virginia,"Louisa County, Virginia",80343
+2023,Virginia,"Lunenburg County, Virginia",54460
+2023,Virginia,"Madison County, Virginia",82972
+2023,Virginia,"Mathews County, Virginia",75487
+2023,Virginia,"Mecklenburg County, Virginia",51691
+2023,Virginia,"Middlesex County, Virginia",74154
+2023,Virginia,"Montgomery County, Virginia",70769
+2023,Virginia,"Nelson County, Virginia",68525
+2023,Virginia,"New Kent County, Virginia",120125
+2023,Virginia,"Northampton County, Virginia",55933
+2023,Virginia,"Northumberland County, Virginia",69500
+2023,Virginia,"Nottoway County, Virginia",62161
+2023,Virginia,"Orange County, Virginia",94175
+2023,Virginia,"Page County, Virginia",59396
+2023,Virginia,"Patrick County, Virginia",50938
+2023,Virginia,"Pittsylvania County, Virginia",54115
+2023,Virginia,"Powhatan County, Virginia",110667
+2023,Virginia,"Prince Edward County, Virginia",55082
+2023,Virginia,"Prince George County, Virginia",88225
+2023,Virginia,"Prince William County, Virginia",128873
+2023,Virginia,"Pulaski County, Virginia",60767
+2023,Virginia,"Rappahannock County, Virginia",98125
+2023,Virginia,"Richmond County, Virginia",64184
+2023,Virginia,"Roanoke County, Virginia",82931
+2023,Virginia,"Rockbridge County, Virginia",63975
+2023,Virginia,"Rockingham County, Virginia",78468
+2023,Virginia,"Russell County, Virginia",49020
+2023,Virginia,"Scott County, Virginia",45136
+2023,Virginia,"Shenandoah County, Virginia",64437
+2023,Virginia,"Smyth County, Virginia",46859
+2023,Virginia,"Southampton County, Virginia",68465
+2023,Virginia,"Spotsylvania County, Virginia",109576
+2023,Virginia,"Stafford County, Virginia",133792
+2023,Virginia,"Surry County, Virginia",71458
+2023,Virginia,"Sussex County, Virginia",62821
+2023,Virginia,"Tazewell County, Virginia",45788
+2023,Virginia,"Warren County, Virginia",84331
+2023,Virginia,"Washington County, Virginia",62774
+2023,Virginia,"Westmoreland County, Virginia",59766
+2023,Virginia,"Wise County, Virginia",50740
+2023,Virginia,"Wythe County, Virginia",55359
+2023,Virginia,"York County, Virginia",108326
+2023,Virginia,"Alexandria city, Virginia",113638
+2023,Virginia,"Bristol city, Virginia",44706
+2023,Virginia,"Buena Vista city, Virginia",54458
+2023,Virginia,"Charlottesville city, Virginia",69829
+2023,Virginia,"Chesapeake city, Virginia",94189
+2023,Virginia,"Colonial Heights city, Virginia",76250
+2023,Virginia,"Covington city, Virginia",42724
+2023,Virginia,"Danville city, Virginia",42778
+2023,Virginia,"Emporia city, Virginia",49375
+2023,Virginia,"Fairfax city, Virginia",132774
+2023,Virginia,"Falls Church city, Virginia",154734
+2023,Virginia,"Franklin city, Virginia",65125
+2023,Virginia,"Fredericksburg city, Virginia",85368
+2023,Virginia,"Galax city, Virginia",41438
+2023,Virginia,"Hampton city, Virginia",67758
+2023,Virginia,"Harrisonburg city, Virginia",59752
+2023,Virginia,"Hopewell city, Virginia",48681
+2023,Virginia,"Lexington city, Virginia",89598
+2023,Virginia,"Lynchburg city, Virginia",59808
+2023,Virginia,"Manassas city, Virginia",117919
+2023,Virginia,"Manassas Park city, Virginia",100668
+2023,Virginia,"Martinsville city, Virginia",42434
+2023,Virginia,"Newport News city, Virginia",66718
+2023,Virginia,"Norfolk city, Virginia",64017
+2023,Virginia,"Norton city, Virginia",38497
+2023,Virginia,"Petersburg city, Virginia",50741
+2023,Virginia,"Poquoson city, Virginia",120919
+2023,Virginia,"Portsmouth city, Virginia",58972
+2023,Virginia,"Radford city, Virginia",52791
+2023,Virginia,"Richmond city, Virginia",62671
+2023,Virginia,"Roanoke city, Virginia",52671
+2023,Virginia,"Salem city, Virginia",66716
+2023,Virginia,"Staunton city, Virginia",62586
+2023,Virginia,"Suffolk city, Virginia",90089
+2023,Virginia,"Virginia Beach city, Virginia",90685
+2023,Virginia,"Waynesboro city, Virginia",56364
+2023,Virginia,"Williamsburg city, Virginia",70206
+2023,Virginia,"Winchester city, Virginia",64648
+2023,District of Columbia,"District of Columbia, District of Columbia",106287
