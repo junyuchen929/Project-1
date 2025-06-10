@@ -1,0 +1,240 @@
+---
+title: "road density 2007-2023"
+author: "oqueive horne"
+date: "2025-06-08"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r}
+# Load required libraries
+library(tigris)
+library(sf)
+library(dplyr)
+
+# Cache downloads
+options(tigris_use_cache = TRUE)
+
+# Create output directory
+dir.create("road_data", showWarnings = FALSE)
+
+# Define the function to download and save road data
+get_and_save_roads <- function(state_abbr, year) {
+  message(paste("Processing:", state_abbr, "for year", year))
+  
+  # Get counties in the state
+  counties_sf <- tryCatch(
+    counties(state = state_abbr, year = year),
+    error = function(e) {
+      message(paste("Skipping", state_abbr, year, "- couldn't get counties"))
+      return(NULL)
+    }
+  )
+  
+  if (is.null(counties_sf)) return(NULL)
+  
+  roads_list <- list()
+  
+  # Loop through each county in the state
+  for (i in 1:nrow(counties_sf)) {
+    county_fips <- counties_sf$COUNTYFP[i]
+    county_name <- counties_sf$NAME[i]
+    
+    message(paste("  Downloading:", county_name))
+    
+    road_sf <- tryCatch(
+      roads(state = state_abbr, county = county_fips, year = year),
+      error = function(e) NULL
+    )
+    
+    if (!is.null(road_sf)) {
+      road_sf$county <- county_name
+      road_sf$year <- year
+      roads_list[[length(roads_list) + 1]] <- road_sf
+    }
+  }
+  
+  # Combine all county roads
+  if (length(roads_list) > 0) {
+    state_roads <- do.call(rbind, roads_list)
+    file_name <- paste0("road_data/", state_abbr, "_roads_", year, ".shp")
+    st_write(state_roads, file_name, delete_layer = TRUE, quiet = TRUE)
+    message(paste("✔ Saved:", file_name))
+  } else {
+    message(paste("⚠ No roads data for", state_abbr, "in", year))
+  }
+}
+
+# Define target states and years
+states <- c("DC", "MD", "VA")
+years <- 2007:2023
+
+# Loop over all combinations and download
+for (state in states) {
+  for (yr in years) {
+    get_and_save_roads(state, yr)
+  }
+}
+
+
+
+
+
+
+```
+```{r}
+library(sf)
+library(dplyr)
+
+# Get list of shapefiles
+shp_files <- list.files("road_data", pattern = "\\.shp$", full.names = TRUE)
+
+all_roads_df <- list()
+
+# Read each shapefile
+for (file in shp_files) {
+  message(paste("Reading:", file))
+  
+  # Read as sf
+  road_sf <- st_read(file, quiet = TRUE)
+  
+  # Extract year and state from filename
+  info <- strsplit(basename(file), "_")[[1]]
+  state <- info[1]
+  year <- gsub(".shp", "", info[3])
+  
+  # Optionally compute length in kilometers
+  road_sf <- st_transform(road_sf, crs = 5070)  # Projected CRS for accurate distance
+  road_sf$length_km <- as.numeric(st_length(road_sf)) / 1000
+  
+  # Drop geometry or convert to WKT if you prefer
+  road_df <- road_sf %>%
+    st_drop_geometry() %>%
+    mutate(state = state, year = year)
+  
+  all_roads_df[[length(all_roads_df) + 1]] <- road_df
+}
+
+# Combine all
+roads_combined <- bind_rows(all_roads_df)
+
+# Save as CSV
+write.csv(roads_combined, "all_road_segments_2007_2023.csv", row.names = FALSE)
+
+```
+```{r}
+roads_df <- read.csv("all_road_segments_2007_2023.csv")
+
+```
+
+
+```{r}
+library(tigris)
+library(sf)
+library(dplyr)
+
+options(tigris_use_cache = TRUE)
+
+# Get county shapes for DC, MD, VA — use generalized boundaries (cb = TRUE) for speed
+counties_sf <- counties(state = c("DC", "MD", "VA"), cb = TRUE, year = 2020)
+
+# Reproject for accurate area calculation
+counties_sf <- st_transform(counties_sf, crs = 5070)
+counties_sf$area_km2 <- as.numeric(st_area(counties_sf)) / 1e6
+
+# Keep only relevant columns
+county_areas <- counties_sf %>%
+  select(STATEFP, COUNTYFP, NAME, area_km2) %>%
+  rename(county = NAME)
+
+```
+
+```{r}
+
+# Group road data to compute total length
+road_length_by_county <- roads_df %>%
+  group_by(state, county, year) %>%
+  summarize(total_road_km = sum(length_km, na.rm = TRUE), .groups = "drop")
+
+```
+
+```{r}
+road_density_df <- left_join(road_length_by_county, county_areas, by = "county") %>%
+  mutate(road_density_km_per_km2 = total_road_km / area_km2)
+
+```
+```{r}
+road_length_by_county %>%
+  count(state, county, year) %>%
+  filter(n > 1)
+
+
+```
+
+```{r}
+county_areas %>%
+  count(state, county) %>%
+  filter(n > 1)
+
+```
+
+```{r}
+library(dplyr)
+library(sf)
+
+# Group and merge geometries per county per state
+county_areas_unique <- county_areas %>%
+  group_by(state, county) %>%
+  summarize(geometry = st_union(geometry), .groups = "drop") %>%
+  st_as_sf()
+
+# Recalculate area in km² after union
+county_areas_unique <- county_areas_unique %>%
+  mutate(area_km2 = as.numeric(st_area(.) / 1e6))
+
+```
+
+
+```{r}
+road_density_df <- left_join(
+  road_length_by_county,
+  county_areas_unique %>% st_drop_geometry(),  # drop geometry if not needed
+  by = c("state", "county")
+) %>%
+  mutate(road_density_km_per_km2 = total_road_km / area_km2)
+
+```
+
+
+```{r}
+write.csv(road_density_df, "road_density_by_county_year.csv", row.names = FALSE)
+
+```
+
+```{r}
+getwd()
+
+```
+```{r}
+write.csv(road_density_df, "~/Desktop/road_density_by_county_year.csv", row.names = FALSE)
+
+```
+
+
+
+```{r}
+write.csv(road_density_df, "road_density_by_county.csv", row.names = FALSE)
+
+
+
+```
+
