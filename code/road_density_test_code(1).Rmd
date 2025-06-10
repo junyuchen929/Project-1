@@ -1,0 +1,89 @@
+---
+title: "road density"
+author: "oqueive horne"
+date: "2025-06-08"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r}
+library(tigris)     # for TIGER/Line shapefiles
+library(sf)         # for spatial operations
+library(dplyr)      # for data manipulation
+library(units)      # to set units
+library(lwgeom)     # for length calculation
+```
+
+
+```{r}
+
+options(tigris_use_cache = TRUE)
+
+# Define function to get all roads for a state in a given year
+get_roads_by_state_year <- function(state_abbr, year) {
+  # Get county FIPS codes
+  county_list <- counties(state = state_abbr, year = year)
+  roads_all <- list()
+
+  for (i in 1:nrow(county_list)) {
+    county_fips <- county_list$COUNTYFP[i]
+    county_name <- county_list$NAME[i]
+    
+    message(paste("Downloading roads for", county_name, ",", state_abbr, "in", year))
+    
+    # Try to fetch roads and skip if failed
+    try({
+      rds <- roads(state = state_abbr, county = county_fips, year = year)
+      rds$county_name <- county_name
+      rds$state_abbr <- state_abbr
+      rds$year <- year
+      roads_all[[length(roads_all) + 1]] <- rds
+    }, silent = TRUE)
+  }
+  
+  # Combine all county roads into one
+  if (length(roads_all) > 0) {
+    return(do.call(rbind, roads_all))
+  } else {
+    return(NULL)
+  }
+}
+
+# Example usage: Get all Maryland roads for 2020
+md_roads_2020 <- get_roads_by_state_year("MD", 2020)
+
+
+
+
+
+
+states <- c("MD", "VA", "DC")
+years <- 2015:2023  # You can go back to 2007 with tigris
+
+all_roads <- list()
+
+for (state in states) {
+  for (yr in years) {
+    message(paste("Processing", state, yr))
+    roads_data <- get_roads_by_state_year(state, yr)
+    if (!is.null(roads_data)) {
+      all_roads[[paste(state, yr, sep = "_")]] <- roads_data
+    }
+  }
+}
+
+
+
+
+```
+
+
