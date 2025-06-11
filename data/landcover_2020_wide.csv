@@ -1,159 +1,159 @@
-STATE_NAME,NAME_LSAD,county,majority_type,year,builtup,forest,agriculture,other
-District of Columbia,District of Columbia,District of Columbia,builtup,2020,82.67999999999999,6.71,0.06,10.559999999999999
-Maryland,Allegany County,Allegany,forest,2020,11.54,76.21,8.9,3.3699999999999997
-Maryland,Anne Arundel County,Anne Arundel,builtup,2020,43.67,28.300000000000004,8.94,19.09
-Maryland,Baltimore County,Baltimore,builtup,2020,129.4,36.949999999999996,21.409999999999997,12.239999999999997
-Maryland,Baltimore city,Baltimore,builtup,2020,129.4,36.949999999999996,21.409999999999997,12.239999999999997
-Maryland,Calvert County,Calvert,forest,2020,20.759999999999998,46.29,11.36,21.57
-Maryland,Caroline County,Caroline,agriculture,2020,10.35,13.969999999999999,54.879999999999995,20.799999999999997
-Maryland,Carroll County,Carroll,agriculture,2020,21.330000000000002,26.51,49.620000000000005,2.5300000000000002
-Maryland,Cecil County,Cecil,agriculture,2020,17.390000000000004,32.33,35.96,14.3
-Maryland,Charles County,Charles,forest,2020,15.91,49.01,13.15,21.93
-Maryland,Dorchester County,Dorchester,other,2020,6.13,7.3999999999999995,27.45,59.010000000000005
-Maryland,Frederick County,Frederick,agriculture,2020,18.990000000000002,32.43,46.15,2.42
-Maryland,Garrett County,Garrett,forest,2020,6.960000000000001,69.86999999999999,16.89,6.29
-Maryland,Harford County,Harford,forest,2020,25.02,34.62,28.869999999999997,11.48
-Maryland,Howard County,Howard,builtup,2020,44.550000000000004,29.48,23.47,2.48
-Maryland,Kent County,Kent,agriculture,2020,8.4,12.21,57.61,21.79
-Maryland,Montgomery County,Montgomery,builtup,2020,46.300000000000004,25.919999999999998,22.02,5.749999999999999
-Maryland,Prince George's County,Prince George's,builtup,2020,47.86,31.25,8.629999999999999,12.27
-Maryland,Queen Anne's County,Queen Anne's,agriculture,2020,12.280000000000003,9.719999999999999,53.93,24.069999999999997
-Maryland,Somerset County,Somerset,other,2020,7.06,9.25,19.560000000000002,64.13
-Maryland,St. Mary's County,St. Mary's,forest,2020,16.830000000000002,38.54,19.12,25.51
-Maryland,Talbot County,Talbot,agriculture,2020,12.28,11.55,46.35,29.83
-Maryland,Washington County,Washington,agriculture,2020,18.770000000000003,38.44,39.79,2.9999999999999996
-Maryland,Wicomico County,Wicomico,other,2020,16.24,18.24,30.38,35.14
-Maryland,Worcester County,Worcester,other,2020,8.59,10.030000000000001,23.34,58.03999999999999
-Virginia,Accomack County,Accomack,other,2020,6.91,6.659999999999999,21.56,64.87
-Virginia,Albemarle County,Albemarle,forest,2020,10.19,63,22.349999999999998,4.45
-Virginia,Alexandria city,Alexandria,builtup,2020,96.36,1.1300000000000001,NA,2.4899999999999998
-Virginia,Alleghany County,Alleghany,forest,2020,5.3100000000000005,88.38,4.7700000000000005,1.55
-Virginia,Amelia County,Amelia,forest,2020,5.4,54.82,20.84,18.93
-Virginia,Amherst County,Amherst,forest,2020,7.220000000000001,74.75,14,4.029999999999999
-Virginia,Appomattox County,Appomattox,forest,2020,6.73,56.6,22.669999999999998,14
-Virginia,Arlington County,Arlington,builtup,2020,96.7,2.67,NA,0.63
-Virginia,Augusta County,Augusta,forest,2020,8.51,56.68,34.11,0.7100000000000001
-Virginia,Bath County,Bath,forest,2020,2.8499999999999996,88.83,6.180000000000001,2.1499999999999995
-Virginia,Bedford County,Bedford,forest,2020,9.799999999999999,58.54,26.47,5.1899999999999995
-Virginia,Bland County,Bland,forest,2020,3.8299999999999996,77.33000000000001,17.529999999999998,1.31
-Virginia,Botetourt County,Botetourt,forest,2020,8.049999999999999,73.42,16.580000000000002,1.9400000000000002
-Virginia,Bristol city,Bristol,builtup,2020,76.3,17.04,5.79,0.8700000000000001
-Virginia,Brunswick County,Brunswick,forest,2020,5.54,59.86999999999999,10.879999999999999,23.69
-Virginia,Buchanan County,Buchanan,forest,2020,5.5,89.58999999999999,0.57,4.34
-Virginia,Buckingham County,Buckingham,forest,2020,4.819999999999999,64.07,13.56,17.550000000000004
-Virginia,Buena Vista city,Buena Vista,builtup,2020,51.660000000000004,36.95,7.15,4.25
-Virginia,Campbell County,Campbell,forest,2020,10.85,51.93,24.68,12.530000000000001
-Virginia,Caroline County,Caroline,forest,2020,7.09,56.44,14.219999999999999,22.269999999999996
-Virginia,Carroll County,Carroll,forest,2020,9.06,60.33,28.25,2.3400000000000003
-Virginia,Charles City County,Charles City,forest,2020,4.26,43.370000000000005,14.97,37.39
-Virginia,Charlotte County,Charlotte,forest,2020,5.3500000000000005,54.8,21.189999999999998,18.65
-Virginia,Charlottesville city,Charlottesville,builtup,2020,93.91,5.34,0.12,0.63
-Virginia,Chesapeake city,Chesapeake,other,2020,25.279999999999998,3.3099999999999996,20.009999999999998,51.39
-Virginia,Chesterfield County,Chesterfield,forest,2020,37.76,45.43000000000001,3.5,13.31
-Virginia,Clarke County,Clarke,agriculture,2020,8.6,36.78,53.25,1.37
-Virginia,Colonial Heights city,Colonial Heights,builtup,2020,76.71000000000001,5.539999999999999,NA,17.75
-Virginia,Covington city,Covington,builtup,2020,56.63,36.07,5.33,1.99
-Virginia,Craig County,Craig,forest,2020,3.8200000000000003,84.17,11.069999999999999,0.94
-Virginia,Culpeper County,Culpeper,forest,2020,8.86,43.06,41.489999999999995,6.58
-Virginia,Cumberland County,Cumberland,forest,2020,5.2,58.629999999999995,17.56,18.619999999999997
-Virginia,Danville city,Danville,builtup,2020,60.17,30.14,5.54,4.13
-Virginia,Dickenson County,Dickenson,forest,2020,5.93,86.89,2.93,4.25
-Virginia,Dinwiddie County,Dinwiddie,forest,2020,7.44,54.77,14.129999999999999,23.64
-Virginia,Emporia city,Emporia,builtup,2020,54.32000000000001,19.810000000000002,9.93,15.91
-Virginia,Essex County,Essex,forest,2020,5.64,43.769999999999996,25.459999999999997,25.13
-Virginia,Fairfax County,Fairfax,builtup,2020,163.72,27.68,1.78,6.8100000000000005
-Virginia,Fairfax city,Fairfax,builtup,2020,163.72,27.68,1.78,6.8100000000000005
-Virginia,Falls Church city,Falls Church,builtup,2020,99.67,0.03,NA,0.3
-Virginia,Fauquier County,Fauquier,forest,2020,8.35,44.65,42.53,4.46
-Virginia,Floyd County,Floyd,forest,2020,7.209999999999999,61.339999999999996,29.669999999999998,1.77
-Virginia,Fluvanna County,Fluvanna,forest,2020,7.93,63.790000000000006,16.42,11.86
-Virginia,Franklin County,Franklin,forest,2020,56.510000000000005,78.19,39.370000000000005,25.939999999999998
-Virginia,Franklin city,Franklin,forest,2020,56.510000000000005,78.19,39.370000000000005,25.939999999999998
-Virginia,Frederick County,Frederick,forest,2020,15.21,53.160000000000004,30.07,1.5799999999999998
-Virginia,Fredericksburg city,Fredericksburg,builtup,2020,76.51,18.04,0.98,4.48
-Virginia,Galax city,Galax,builtup,2020,60.39,25.64,13.17,0.81
-Virginia,Giles County,Giles,forest,2020,6.38,78.87,13.07,1.68
-Virginia,Gloucester County,Gloucester,other,2020,10.1,36.42,10.66,42.849999999999994
-Virginia,Goochland County,Goochland,forest,2020,10.58,58.129999999999995,18.7,12.6
-Virginia,Grayson County,Grayson,forest,2020,6.35,63.78,26,3.849999999999999
-Virginia,Greene County,Greene,forest,2020,9.76,65.18,23.55,1.5000000000000002
-Virginia,Greensville County,Greensville,forest,2020,5.28,40.04,17.509999999999998,37.18
-Virginia,Halifax County,Halifax,forest,2020,6.4,56.67999999999999,21.2,15.72
-Virginia,Hampton city,Hampton,builtup,2020,70.4,1.57,0.2,27.83
-Virginia,Hanover County,Hanover,forest,2020,15.57,46.760000000000005,20.16,17.52
-Virginia,Harrisonburg city,Harrisonburg,builtup,2020,85,5.99,8.8,0.21
-Virginia,Henrico County,Henrico,builtup,2020,51.89,20.34,8.26,19.52
-Virginia,Henry County,Henry,forest,2020,13.07,66.49,12.469999999999999,7.97
-Virginia,Highland County,Highland,forest,2020,2.7999999999999994,79.12,16.67,1.4100000000000001
-Virginia,Hopewell city,Hopewell,builtup,2020,80.02,5.2,0.04,14.739999999999998
-Virginia,Isle of Wight County,Isle of Wight,other,2020,9.57,28.29,30.25,31.88
-Virginia,James City County,James City,forest,2020,26.630000000000003,38.79,5.59,29
-Virginia,King George County,King George,forest,2020,10.69,51.72,16.73,20.87
-Virginia,King William County,King William,forest,2020,5.749999999999999,45.37,21.330000000000002,27.560000000000002
-Virginia,King and Queen County,King and Queen,forest,2020,4.109999999999999,53.82000000000001,17.549999999999997,24.509999999999998
-Virginia,Lancaster County,Lancaster,forest,2020,10.319999999999999,45.15,19.150000000000002,25.37
-Virginia,Lee County,Lee,forest,2020,8.209999999999999,65.03,22.11,4.64
-Virginia,Lexington city,Lexington,builtup,2020,91.86000000000001,6.5600000000000005,1.15,0.43
-Virginia,Loudoun County,Loudoun,agriculture,2020,26.32,30.599999999999998,40.47,2.61
-Virginia,Louisa County,Louisa,forest,2020,8.07,57.599999999999994,17.08,17.27
-Virginia,Lunenburg County,Lunenburg,forest,2020,5.35,61.64,16.11,16.91
-Virginia,Lynchburg city,Lynchburg,builtup,2020,62.3,32.449999999999996,3.5,1.76
-Virginia,Madison County,Madison,forest,2020,5.2700000000000005,60.73,32.77,1.23
-Virginia,Manassas city,Manassas,builtup,2020,95.05000000000001,1.6400000000000001,2.24,1.08
-Virginia,Manassas Park city,Manassas Park,builtup,2020,85.86999999999999,13.51,0.62,NA
-Virginia,Martinsville city,Martinsville,builtup,2020,70.38,28.57,0.42,0.62
-Virginia,Mathews County,Mathews,other,2020,8.299999999999999,19.54,8.31,63.84
-Virginia,Mecklenburg County,Mecklenburg,forest,2020,7.739999999999999,49.989999999999995,20.42,21.849999999999998
-Virginia,Middlesex County,Middlesex,forest,2020,10.02,45.739999999999995,21.080000000000002,23.150000000000002
-Virginia,Montgomery County,Montgomery,forest,2020,15.559999999999999,60.85,22.5,1.09
-Virginia,Nelson County,Nelson,forest,2020,5.68,75.52,13.469999999999999,5.329999999999999
-Virginia,New Kent County,New Kent,forest,2020,9.6,51.07,9.84,29.49
-Virginia,Newport News city,Newport News,builtup,2020,71.13000000000001,10.05,0.76,18.060000000000002
-Virginia,Norfolk city,Norfolk,builtup,2020,86.69,0.6900000000000001,0.02,12.599999999999998
-Virginia,Northampton County,Northampton,other,2020,5.010000000000001,6.75,21.76,66.51
-Virginia,Northumberland County,Northumberland,forest,2020,9.1,38,25.939999999999998,26.98
-Virginia,Norton city,Norton,forest,2020,36.45,60.79,0.17,2.6
-Virginia,Nottoway County,Nottoway,forest,2020,8.74,56.39,17.5,17.340000000000003
-Virginia,Orange County,Orange,forest,2020,8.040000000000001,52.02,33.75,6.2
-Virginia,Page County,Page,forest,2020,8.82,65.9,23.94,1.33
-Virginia,Patrick County,Patrick,forest,2020,6.89,73.58,15.450000000000001,4.09
-Virginia,Petersburg city,Petersburg,builtup,2020,63.5,22.53,5.41,8.549999999999999
-Virginia,Pittsylvania County,Pittsylvania,forest,2020,8.410000000000002,53.1,26.87,11.62
-Virginia,Poquoson city,Poquoson,other,2020,27.59,2.8899999999999997,0.01,69.51
-Virginia,Portsmouth city,Portsmouth,builtup,2020,76.51,1.54,0.39,21.57
-Virginia,Powhatan County,Powhatan,forest,2020,8.83,60.39,15.74,15.040000000000001
-Virginia,Prince Edward County,Prince Edward,forest,2020,7.5200000000000005,57.56999999999999,18.28,16.64
-Virginia,Prince George County,Prince George,forest,2020,10.790000000000001,45.47,13.74,29.97
-Virginia,Prince William County,Prince William,builtup,2020,38.309999999999995,36.93,14.35,10.4
-Virginia,Pulaski County,Pulaski,forest,2020,11.660000000000002,56.04,28.830000000000002,3.48
-Virginia,Radford city,Radford,builtup,2020,56.769999999999996,32.37,7.49,3.3699999999999997
-Virginia,Rappahannock County,Rappahannock,forest,2020,3.91,67.6,27.75,0.71
-Virginia,Richmond County,Richmond,builtup,2020,93.97,52.92,25.28,27.82
-Virginia,Richmond city,Richmond,builtup,2020,93.97,52.92,25.28,27.82
-Virginia,Roanoke County,Roanoke,builtup,2020,111.80999999999999,75.86,10.4,1.93
-Virginia,Roanoke city,Roanoke,builtup,2020,111.80999999999999,75.86,10.4,1.93
-Virginia,Rockbridge County,Rockbridge,forest,2020,6.91,68.56,23.44,1.09
-Virginia,Rockingham County,Rockingham,forest,2020,9.459999999999999,56.830000000000005,32.91,0.79
-Virginia,Russell County,Russell,forest,2020,7.03,61.31,29.150000000000002,2.5199999999999996
-Virginia,Salem city,Salem,builtup,2020,88.75,9.379999999999999,1.79,0.06999999999999999
-Virginia,Scott County,Scott,forest,2020,6.720000000000001,71.96000000000001,17.66,3.66
-Virginia,Shenandoah County,Shenandoah,forest,2020,9.379999999999999,59.46000000000001,30.2,0.97
-Virginia,Smyth County,Smyth,forest,2020,7.23,67.56,24.14,1.06
-Virginia,Southampton County,Southampton,forest,2020,4.91,34.25,28.69,32.160000000000004
-Virginia,Spotsylvania County,Spotsylvania,forest,2020,16.18,53.239999999999995,12.32,18.27
-Virginia,Stafford County,Stafford,forest,2020,23.53,53.71,8.58,14.179999999999998
-Virginia,Staunton city,Staunton,builtup,2020,56.540000000000006,16.099999999999998,26.21,1.1600000000000001
-Virginia,Suffolk city,Suffolk,other,2020,12.61,21.26,23.340000000000003,42.800000000000004
-Virginia,Surry County,Surry,forest,2020,4.68,42.52,21.31,31.470000000000002
-Virginia,Sussex County,Sussex,forest,2020,4.41,47.03,16.17,32.4
-Virginia,Tazewell County,Tazewell,forest,2020,8.14,69.41000000000001,20.68,1.77
-Virginia,Virginia Beach city,Virginia Beach,other,2020,38.69,2.3200000000000003,11.81,47.2
-Virginia,Warren County,Warren,forest,2020,14.580000000000002,62.03,21.58,1.7900000000000003
-Virginia,Washington County,Washington,forest,2020,9.73,56.239999999999995,32.620000000000005,1.4000000000000001
-Virginia,Waynesboro city,Waynesboro,builtup,2020,65.17,20.900000000000002,13.6,0.32
-Virginia,Westmoreland County,Westmoreland,forest,2020,8.360000000000001,40.68,27,23.96
-Virginia,Williamsburg city,Williamsburg,builtup,2020,60.53999999999999,30.540000000000003,0.26,8.680000000000001
-Virginia,Winchester city,Winchester,builtup,2020,91.4,4.069999999999999,4.43,0.11000000000000001
-Virginia,Wise County,Wise,forest,2020,8.84,75.73999999999998,3.53,11.879999999999999
-Virginia,Wythe County,Wythe,forest,2020,8.100000000000001,53.74000000000001,37.019999999999996,1.1300000000000001
-Virginia,York County,York,forest,2020,30.45,35.85,1.78,31.92
+state,county,year,builtup,forest,agriculture,other
+District of Columbia,District of Columbia,2020,82.67999999999999,6.71,0.06,10.559999999999999
+Maryland,Allegany County,2020,11.54,76.21,8.9,3.3699999999999997
+Maryland,Anne Arundel County,2020,43.67,28.300000000000004,8.94,19.09
+Maryland,Baltimore County,2020,39.12,33.16,21.33,6.39
+Maryland,Baltimore city,2020,90.28,3.79,0.08,5.849999999999999
+Maryland,Calvert County,2020,20.759999999999998,46.29,11.36,21.57
+Maryland,Caroline County,2020,10.35,13.969999999999999,54.879999999999995,20.799999999999997
+Maryland,Carroll County,2020,21.330000000000002,26.51,49.620000000000005,2.5300000000000002
+Maryland,Cecil County,2020,17.390000000000004,32.33,35.96,14.3
+Maryland,Charles County,2020,15.91,49.01,13.15,21.93
+Maryland,Dorchester County,2020,6.13,7.3999999999999995,27.45,59.010000000000005
+Maryland,Frederick County,2020,18.990000000000002,32.43,46.15,2.42
+Maryland,Garrett County,2020,6.960000000000001,69.86999999999999,16.89,6.29
+Maryland,Harford County,2020,25.02,34.62,28.869999999999997,11.48
+Maryland,Howard County,2020,44.550000000000004,29.48,23.47,2.48
+Maryland,Kent County,2020,8.4,12.21,57.61,21.79
+Maryland,Montgomery County,2020,46.300000000000004,25.919999999999998,22.02,5.749999999999999
+Maryland,Prince George's County,2020,47.86,31.25,8.629999999999999,12.27
+Maryland,Queen Anne's County,2020,12.280000000000003,9.719999999999999,53.93,24.069999999999997
+Maryland,Somerset County,2020,7.06,9.25,19.560000000000002,64.13
+Maryland,St. Mary's County,2020,16.830000000000002,38.54,19.12,25.51
+Maryland,Talbot County,2020,12.28,11.55,46.35,29.83
+Maryland,Washington County,2020,18.770000000000003,38.44,39.79,2.9999999999999996
+Maryland,Wicomico County,2020,16.24,18.24,30.38,35.14
+Maryland,Worcester County,2020,8.59,10.030000000000001,23.34,58.03999999999999
+Virginia,Accomack County,2020,6.91,6.659999999999999,21.56,64.87
+Virginia,Albemarle County,2020,10.19,63,22.349999999999998,4.45
+Virginia,Alexandria city,2020,96.36,1.1300000000000001,NA,2.4899999999999998
+Virginia,Alleghany County,2020,5.3100000000000005,88.38,4.7700000000000005,1.55
+Virginia,Amelia County,2020,5.4,54.82,20.84,18.93
+Virginia,Amherst County,2020,7.220000000000001,74.75,14,4.029999999999999
+Virginia,Appomattox County,2020,6.73,56.6,22.669999999999998,14
+Virginia,Arlington County,2020,96.7,2.67,NA,0.63
+Virginia,Augusta County,2020,8.51,56.68,34.11,0.7100000000000001
+Virginia,Bath County,2020,2.8499999999999996,88.83,6.180000000000001,2.1499999999999995
+Virginia,Bedford County,2020,9.799999999999999,58.54,26.47,5.1899999999999995
+Virginia,Bland County,2020,3.8299999999999996,77.33000000000001,17.529999999999998,1.31
+Virginia,Botetourt County,2020,8.049999999999999,73.42,16.580000000000002,1.9400000000000002
+Virginia,Bristol city,2020,76.3,17.04,5.79,0.8700000000000001
+Virginia,Brunswick County,2020,5.54,59.86999999999999,10.879999999999999,23.69
+Virginia,Buchanan County,2020,5.5,89.58999999999999,0.57,4.34
+Virginia,Buckingham County,2020,4.819999999999999,64.07,13.56,17.550000000000004
+Virginia,Buena Vista city,2020,51.660000000000004,36.95,7.15,4.25
+Virginia,Campbell County,2020,10.85,51.93,24.68,12.530000000000001
+Virginia,Caroline County,2020,7.09,56.44,14.219999999999999,22.269999999999996
+Virginia,Carroll County,2020,9.06,60.33,28.25,2.3400000000000003
+Virginia,Charles City County,2020,4.26,43.370000000000005,14.97,37.39
+Virginia,Charlotte County,2020,5.3500000000000005,54.8,21.189999999999998,18.65
+Virginia,Charlottesville city,2020,93.91,5.34,0.12,0.63
+Virginia,Chesapeake city,2020,25.279999999999998,3.3099999999999996,20.009999999999998,51.39
+Virginia,Chesterfield County,2020,37.76,45.43000000000001,3.5,13.31
+Virginia,Clarke County,2020,8.6,36.78,53.25,1.37
+Virginia,Colonial Heights city,2020,76.71000000000001,5.539999999999999,NA,17.75
+Virginia,Covington city,2020,56.63,36.07,5.33,1.99
+Virginia,Craig County,2020,3.8200000000000003,84.17,11.069999999999999,0.94
+Virginia,Culpeper County,2020,8.86,43.06,41.489999999999995,6.58
+Virginia,Cumberland County,2020,5.2,58.629999999999995,17.56,18.619999999999997
+Virginia,Danville city,2020,60.17,30.14,5.54,4.13
+Virginia,Dickenson County,2020,5.93,86.89,2.93,4.25
+Virginia,Dinwiddie County,2020,7.44,54.77,14.129999999999999,23.64
+Virginia,Emporia city,2020,54.32000000000001,19.810000000000002,9.93,15.91
+Virginia,Essex County,2020,5.64,43.769999999999996,25.459999999999997,25.13
+Virginia,Fairfax County,2020,66.86,24.66,1.78,6.69
+Virginia,Fairfax city,2020,96.86,3.02,NA,0.12
+Virginia,Falls Church city,2020,99.67,0.03,NA,0.3
+Virginia,Fauquier County,2020,8.35,44.65,42.53,4.46
+Virginia,Floyd County,2020,7.209999999999999,61.339999999999996,29.669999999999998,1.77
+Virginia,Fluvanna County,2020,7.93,63.790000000000006,16.42,11.86
+Virginia,Franklin County,2020,9.11,61.64000000000001,23.040000000000003,6.2299999999999995
+Virginia,Franklin city,2020,47.4,16.549999999999997,16.330000000000002,19.71
+Virginia,Frederick County,2020,15.21,53.160000000000004,30.07,1.5799999999999998
+Virginia,Fredericksburg city,2020,76.51,18.04,0.98,4.48
+Virginia,Galax city,2020,60.39,25.64,13.17,0.81
+Virginia,Giles County,2020,6.38,78.87,13.07,1.68
+Virginia,Gloucester County,2020,10.1,36.42,10.66,42.849999999999994
+Virginia,Goochland County,2020,10.58,58.129999999999995,18.7,12.6
+Virginia,Grayson County,2020,6.35,63.78,26,3.849999999999999
+Virginia,Greene County,2020,9.76,65.18,23.55,1.5000000000000002
+Virginia,Greensville County,2020,5.28,40.04,17.509999999999998,37.18
+Virginia,Halifax County,2020,6.4,56.67999999999999,21.2,15.72
+Virginia,Hampton city,2020,70.4,1.57,0.2,27.83
+Virginia,Hanover County,2020,15.57,46.760000000000005,20.16,17.52
+Virginia,Harrisonburg city,2020,85,5.99,8.8,0.21
+Virginia,Henrico County,2020,51.89,20.34,8.26,19.52
+Virginia,Henry County,2020,13.07,66.49,12.469999999999999,7.97
+Virginia,Highland County,2020,2.7999999999999994,79.12,16.67,1.4100000000000001
+Virginia,Hopewell city,2020,80.02,5.2,0.04,14.739999999999998
+Virginia,Isle of Wight County,2020,9.57,28.29,30.25,31.88
+Virginia,James City County,2020,26.630000000000003,38.79,5.59,29
+Virginia,King George County,2020,10.69,51.72,16.73,20.87
+Virginia,King William County,2020,5.749999999999999,45.37,21.330000000000002,27.560000000000002
+Virginia,King and Queen County,2020,4.109999999999999,53.82000000000001,17.549999999999997,24.509999999999998
+Virginia,Lancaster County,2020,10.319999999999999,45.15,19.150000000000002,25.37
+Virginia,Lee County,2020,8.209999999999999,65.03,22.11,4.64
+Virginia,Lexington city,2020,91.86000000000001,6.5600000000000005,1.15,0.43
+Virginia,Loudoun County,2020,26.32,30.599999999999998,40.47,2.61
+Virginia,Louisa County,2020,8.07,57.599999999999994,17.08,17.27
+Virginia,Lunenburg County,2020,5.35,61.64,16.11,16.91
+Virginia,Lynchburg city,2020,62.3,32.449999999999996,3.5,1.76
+Virginia,Madison County,2020,5.2700000000000005,60.73,32.77,1.23
+Virginia,Manassas Park city,2020,85.86999999999999,13.51,0.62,NA
+Virginia,Manassas city,2020,95.05000000000001,1.6400000000000001,2.24,1.08
+Virginia,Martinsville city,2020,70.38,28.57,0.42,0.62
+Virginia,Mathews County,2020,8.299999999999999,19.54,8.31,63.84
+Virginia,Mecklenburg County,2020,7.739999999999999,49.989999999999995,20.42,21.849999999999998
+Virginia,Middlesex County,2020,10.02,45.739999999999995,21.080000000000002,23.150000000000002
+Virginia,Montgomery County,2020,15.559999999999999,60.85,22.5,1.09
+Virginia,Nelson County,2020,5.68,75.52,13.469999999999999,5.329999999999999
+Virginia,New Kent County,2020,9.6,51.07,9.84,29.49
+Virginia,Newport News city,2020,71.13000000000001,10.05,0.76,18.060000000000002
+Virginia,Norfolk city,2020,86.69,0.6900000000000001,0.02,12.599999999999998
+Virginia,Northampton County,2020,5.010000000000001,6.75,21.76,66.51
+Virginia,Northumberland County,2020,9.1,38,25.939999999999998,26.98
+Virginia,Norton city,2020,36.45,60.79,0.17,2.6
+Virginia,Nottoway County,2020,8.74,56.39,17.5,17.340000000000003
+Virginia,Orange County,2020,8.040000000000001,52.02,33.75,6.2
+Virginia,Page County,2020,8.82,65.9,23.94,1.33
+Virginia,Patrick County,2020,6.89,73.58,15.450000000000001,4.09
+Virginia,Petersburg city,2020,63.5,22.53,5.41,8.549999999999999
+Virginia,Pittsylvania County,2020,8.410000000000002,53.1,26.87,11.62
+Virginia,Poquoson city,2020,27.59,2.8899999999999997,0.01,69.51
+Virginia,Portsmouth city,2020,76.51,1.54,0.39,21.57
+Virginia,Powhatan County,2020,8.83,60.39,15.74,15.040000000000001
+Virginia,Prince Edward County,2020,7.5200000000000005,57.56999999999999,18.28,16.64
+Virginia,Prince George County,2020,10.790000000000001,45.47,13.74,29.97
+Virginia,Prince William County,2020,38.309999999999995,36.93,14.35,10.4
+Virginia,Pulaski County,2020,11.660000000000002,56.04,28.830000000000002,3.48
+Virginia,Radford city,2020,56.769999999999996,32.37,7.49,3.3699999999999997
+Virginia,Rappahannock County,2020,3.91,67.6,27.75,0.71
+Virginia,Richmond County,2020,5.8999999999999995,46.92,25.24,21.919999999999998
+Virginia,Richmond city,2020,88.07000000000001,6,0.04,5.8999999999999995
+Virginia,Roanoke County,2020,22.54,67.23,8.99,1.24
+Virginia,Roanoke city,2020,89.27,8.629999999999999,1.41,0.6900000000000001
+Virginia,Rockbridge County,2020,6.91,68.56,23.44,1.09
+Virginia,Rockingham County,2020,9.459999999999999,56.830000000000005,32.91,0.79
+Virginia,Russell County,2020,7.03,61.31,29.150000000000002,2.5199999999999996
+Virginia,Salem city,2020,88.75,9.379999999999999,1.79,0.07
+Virginia,Scott County,2020,6.720000000000001,71.96000000000001,17.66,3.66
+Virginia,Shenandoah County,2020,9.379999999999999,59.46000000000001,30.2,0.97
+Virginia,Smyth County,2020,7.23,67.56,24.14,1.06
+Virginia,Southampton County,2020,4.91,34.25,28.69,32.160000000000004
+Virginia,Spotsylvania County,2020,16.18,53.239999999999995,12.32,18.27
+Virginia,Stafford County,2020,23.53,53.71,8.58,14.179999999999998
+Virginia,Staunton city,2020,56.540000000000006,16.099999999999998,26.21,1.1600000000000001
+Virginia,Suffolk city,2020,12.61,21.26,23.340000000000003,42.800000000000004
+Virginia,Surry County,2020,4.68,42.52,21.31,31.470000000000002
+Virginia,Sussex County,2020,4.41,47.03,16.17,32.4
+Virginia,Tazewell County,2020,8.14,69.41000000000001,20.68,1.77
+Virginia,Virginia Beach city,2020,38.69,2.3200000000000003,11.81,47.2
+Virginia,Warren County,2020,14.580000000000002,62.03,21.58,1.7900000000000003
+Virginia,Washington County,2020,9.73,56.239999999999995,32.620000000000005,1.4000000000000001
+Virginia,Waynesboro city,2020,65.17,20.900000000000002,13.6,0.32
+Virginia,Westmoreland County,2020,8.360000000000001,40.68,27,23.96
+Virginia,Williamsburg city,2020,60.53999999999999,30.540000000000003,0.26,8.680000000000001
+Virginia,Winchester city,2020,91.4,4.069999999999999,4.43,0.11000000000000001
+Virginia,Wise County,2020,8.84,75.73999999999998,3.53,11.879999999999999
+Virginia,Wythe County,2020,8.100000000000001,53.74000000000001,37.019999999999996,1.1300000000000001
+Virginia,York County,2020,30.45,35.85,1.78,31.92

@@ -1,0 +1,160 @@
+county,total_population,exposed_population,pct_exposed,state
+District Of Columbia,584400,300610,51.44,DC
+Bland County,6873,126,1.83,VA
+Brunswick County,17707,188,1.06,VA
+Carroll County,29985,2585,8.62,VA
+Clarke County,14013,355,2.53,VA
+Craig County,5173,66,1.27,VA
+Cumberland County,9855,119,1.21,VA
+Fluvanna County,25308,211,0.83,VA
+Giles County,17205,905,5.26,VA
+Goochland County,21136,88,0.42,VA
+Grayson County,15855,1169,7.37,VA
+Greene County,18082,3259,18.02,VA
+Henry County,54860,5641,10.28,VA
+King George County,22794,1362,5.97,VA
+Accomack County,34066,758,2.23,VA
+Albemarle County,96633,6371,6.59,VA
+Alleghany County,16406,498,3.04,VA
+Amelia County,12517,169,1.35,VA
+Amherst County,32315,1193,3.69,VA
+Augusta County,73201,2187,2.99,VA
+Bath County,4779,164,3.43,VA
+Bedford County,67697,3582,5.29,VA
+Botetourt County,32867,1638,4.98,VA
+Buchanan County,24459,1391,5.69,VA
+Buckingham County,16874,667,3.95,VA
+Campbell County,54174,5326,9.83,VA
+Caroline County,27844,492,1.77,VA
+Charles City County,7205,0,0,VA
+Charlotte County,12644,472,3.74,VA
+Chesterfield County,308633,35135,11.38,VA
+Culpeper County,45749,3568,7.8,VA
+Dickenson County,15966,1158,7.25,VA
+Dinwiddie County,27449,475,1.73,VA
+Essex County,10901,144,1.32,VA
+Fairfax County,1048554,265414,25.31,VA
+Fauquier County,64546,1933,2.99,VA
+Floyd County,15030,745,4.95,VA
+Franklin County,54938,4121,7.5,VA
+Frederick County,75835,1837,2.42,VA
+Gloucester County,36610,350,0.95,VA
+Greensville County,12181,99,0.82,VA
+Halifax County,36311,1256,3.46,VA
+Hanover County,99172,5107,5.15,VA
+Henrico County,300053,43709,14.57,VA
+Highland County,2395,40,1.65,VA
+Isle Of Wight County,34762,2840,8.17,VA
+James City County,64386,0,0,VA
+King And Queen County,6926,77,1.11,VA
+King William County,15509,314,2.03,VA
+Loudoun County,291653,23198,7.95,VA
+Lunenburg County,12968,223,1.72,VA
+Madison County,13342,556,4.17,VA
+Mecklenburg County,32774,1062,3.24,VA
+Montgomery County,92527,8642,9.34,VA
+Nelson County,14989,1315,8.78,VA
+New Kent County,17655,1010,5.72,VA
+Orange County,32730,1111,3.4,VA
+Page County,24116,983,4.08,VA
+Patrick County,18643,1524,8.17,VA
+Pittsylvania County,63147,2728,4.32,VA
+Prince Edward County,22723,1093,4.81,VA
+Roanoke County,91583,6389,6.98,VA
+Rockbridge County,22217,662,2.98,VA
+Rockingham County,74922,2730,3.64,VA
+Russell County,28842,509,1.76,VA
+Shenandoah County,41468,1023,2.47,VA
+Southampton County,18493,578,3.12,VA
+Spotsylvania County,120212,4811,4,VA
+Stafford County,124587,6931,5.56,VA
+Tazewell County,44706,3721,8.32,VA
+Washington County,54322,1367,2.52,VA
+Westmoreland County,17237,1537,8.92,VA
+Wise County,41496,2132,5.14,VA
+Colonial Heights City,17472,9411,53.86,VA
+Falls Church City,11465,7706,67.21,VA
+Lexington City,6990,2819,40.33,VA
+Norton City,3886,712,18.33,VA
+Staunton City,23806,5327,22.37,VA
+Winchester City,25953,9132,35.19,VA
+Lee County,25434,557,2.19,VA
+Arlington County,197467,82965,42.01,VA
+Lancaster County,11478,1631,14.21,VA
+Louisa County,32248,546,1.69,VA
+Mathews County,9004,634,7.04,VA
+Middlesex County,10831,0,0,VA
+Northampton County,12572,165,1.31,VA
+Northumberland County,12419,705,5.68,VA
+Nottoway County,15819,539,3.4,VA
+Powhatan County,27758,959,3.45,VA
+Prince George County,35129,2343,6.67,VA
+Pulaski County,34963,2872,8.22,VA
+Rappahannock County,7376,258,3.49,VA
+Richmond County,9328,656,7.03,VA
+Scott County,23234,565,2.43,VA
+Smyth County,32383,1335,4.12,VA
+Surry County,7039,344,4.89,VA
+Sussex County,12167,323,2.65,VA
+Warren County,37044,2793,7.54,VA
+Wythe County,29005,1697,5.85,VA
+York County,64846,6930,10.69,VA
+Alexandria City,133647,99153,74.19,VA
+Bedford City,6177,0,0,VA
+Bristol City,17704,2136,12.07,VA
+Buena Vista City,6653,1143,17.17,VA
+Charlottesville City,42267,8068,19.09,VA
+Chesapeake City,219268,14292,6.52,VA
+Covington City,5989,914,15.26,VA
+Danville City,43787,8868,20.25,VA
+Emporia City,5822,0,0,VA
+Fairfax City,22058,6925,31.39,VA
+Franklin City,8549,2173,25.42,VA
+Fredericksburg City,23375,7212,30.85,VA
+Galax City,6936,4629,66.73,VA
+Hampton City,139046,25778,18.54,VA
+Harrisonburg City,47406,17471,36.85,VA
+Hopewell City,22506,5687,25.27,VA
+Lynchburg City,73726,18133,24.59,VA
+Manassas City,36067,8020,22.24,VA
+Manassas Park City,13195,0,0,VA
+Martinsville City,14029,7148,50.95,VA
+Newport News City,181822,35528,19.54,VA
+Norfolk City,242143,77311,31.93,VA
+Petersburg City,32303,6660,20.62,VA
+Poquoson City,12099,0,0,VA
+Portsmouth City,96785,17085,17.65,VA
+Radford City,16318,2940,18.02,VA
+Richmond City,201828,75290,37.3,VA
+Roanoke City,95793,37613,39.27,VA
+Salem City,24641,6728,27.3,VA
+Suffolk City,82544,2511,3.04,VA
+Virginia Beach City,435996,50978,11.69,VA
+Waynesboro City,20885,2288,10.96,VA
+Williamsburg City,13421,815,6.07,VA
+Prince William County,379415,57180,15.07,VA
+Appomattox County,14653,1078,7.36,VA
+Allegany County,74638,4277,5.73,MD
+Anne Arundel County,527020,56331,10.69,MD
+Baltimore County,799195,164297,20.56,MD
+Calvert County,87891,4158,4.73,MD
+Caroline County,32805,1154,3.52,MD
+Carroll County,167208,12139,7.26,MD
+Cecil County,100139,7221,7.21,MD
+Charles County,143912,8298,5.77,MD
+Dorchester County,32287,801,2.48,MD
+Frederick County,229205,18844,8.22,MD
+Garrett County,30145,528,1.75,MD
+Harford County,242888,37830,15.57,MD
+Howard County,279366,41022,14.68,MD
+Kent County,20018,837,4.18,MD
+Montgomery County,947230,193271,20.4,MD
+Prince George's County,854722,120764,14.13,MD
+Queen Anne's County,46945,2367,5.04,MD
+St. Mary's County,102086,13118,12.85,MD
+Somerset County,26411,304,1.15,MD
+Talbot County,37361,1891,5.06,MD
+Washington County,146329,7932,5.42,MD
+Wicomico County,96951,2915,3.01,MD
+Worcester County,51133,1095,2.14,MD
+Baltimore City,620538,0,0,MD

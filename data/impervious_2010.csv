@@ -1,172 +1,159 @@
-STATE_NAME,NAME_LSAD,county,year,impervious
-District of Columbia,District of Columbia,District of Columbia,2010,42.44
-Maryland,Allegany County,Allegany,2010,3
-Maryland,Anne Arundel County,Anne Arundel,2010,14.28
-Maryland,Baltimore County,Baltimore,2010,13.15
-Maryland,Baltimore city,Baltimore,2010,13.15
-Maryland,Calvert County,Calvert,2010,3.97
-Maryland,Caroline County,Caroline,2010,2.37
-Maryland,Carroll County,Carroll,2010,4.67
-Maryland,Cecil County,Cecil,2010,4
-Maryland,Charles County,Charles,2010,3.82
-Maryland,Dorchester County,Dorchester,2010,1.5
-Maryland,Frederick County,Frederick,2010,4.86
-Maryland,Garrett County,Garrett,2010,1.16
-Maryland,Harford County,Harford,2010,6.4
-Maryland,Howard County,Howard,2010,12.24
-Maryland,Kent County,Kent,2010,1.79
-Maryland,Montgomery County,Montgomery,2010,12.77
-Maryland,Prince George's County,Prince George's,2010,17.02
-Maryland,Queen Anne's County,Queen Anne's,2010,2.75
-Maryland,St. Mary's County,St. Mary's,2010,3.78
-Maryland,Somerset County,Somerset,2010,1.62
-Maryland,Talbot County,Talbot,2010,2.76
-Maryland,Washington County,Washington,2010,5.35
-Maryland,Wicomico County,Wicomico,2010,4.69
-Maryland,Worcester County,Worcester,2010,2.61
-Maryland,Baltimore County,Baltimore,2010,49.1
-Maryland,Baltimore city,Baltimore,2010,49.1
-Virginia,Bland County,Bland,2010,0.51
-Virginia,Brunswick County,Brunswick,2010,0.96
-Virginia,Carroll County,Carroll,2010,1.13
-Virginia,Clarke County,Clarke,2010,1.48
-Virginia,Craig County,Craig,2010,0.38
-Virginia,Cumberland County,Cumberland,2010,0.69
-Virginia,Fluvanna County,Fluvanna,2010,1.06
-Virginia,Giles County,Giles,2010,1.1
-Virginia,Goochland County,Goochland,2010,1.61
-Virginia,Grayson County,Grayson,2010,0.67
-Virginia,Greene County,Greene,2010,1.38
-Virginia,Henry County,Henry,2010,2.76
-Virginia,King George County,King George,2010,2.09
-Virginia,Accomack County,Accomack,2010,1.65
-Virginia,Albemarle County,Albemarle,2010,1.71
-Virginia,Alleghany County,Alleghany,2010,1.02
-Virginia,Amelia County,Amelia,2010,0.81
-Virginia,Amherst County,Amherst,2010,1.14
-Virginia,Augusta County,Augusta,2010,1.6
-Virginia,Bath County,Bath,2010,0.31
-Virginia,Bedford County,Bedford,2010,1.35
-Virginia,Bedford city,Bedford,2010,1.35
-Virginia,Botetourt County,Botetourt,2010,1.35
-Virginia,Buchanan County,Buchanan,2010,0.95
-Virginia,Buckingham County,Buckingham,2010,0.65
-Virginia,Campbell County,Campbell,2010,2.14
-Virginia,Caroline County,Caroline,2010,1.29
-Virginia,Charles City County,Charles City,2010,0.67
-Virginia,Charlotte County,Charlotte,2010,0.79
-Virginia,Chesterfield County,Chesterfield,2010,9.49
-Virginia,Culpeper County,Culpeper,2010,1.59
-Virginia,Dickenson County,Dickenson,2010,0.72
-Virginia,Dinwiddie County,Dinwiddie,2010,1.51
-Virginia,Essex County,Essex,2010,1.04
-Virginia,Fairfax County,Fairfax,2010,21.3
-Virginia,Fairfax city,Fairfax,2010,21.3
-Virginia,Fauquier County,Fauquier,2010,1.37
-Virginia,Floyd County,Floyd,2010,0.78
-Virginia,Franklin County,Franklin,2010,1.32
-Virginia,Franklin city,Franklin,2010,1.32
-Virginia,Frederick County,Frederick,2010,3.65
-Virginia,Gloucester County,Gloucester,2010,1.99
-Virginia,Greensville County,Greensville,2010,1.17
-Virginia,Halifax County,Halifax,2010,1.16
-Virginia,Hanover County,Hanover,2010,3.68
-Virginia,Henrico County,Henrico,2010,17
-Virginia,Highland County,Highland,2010,0.27
-Virginia,Isle of Wight County,Isle of Wight,2010,2.25
-Virginia,James City County,James City,2010,6.5
-Virginia,King and Queen County,King and Queen,2010,0.64
-Virginia,King William County,King William,2010,1.04
-Virginia,Loudoun County,Loudoun,2010,7.66
-Virginia,Lunenburg County,Lunenburg,2010,0.8
-Virginia,Madison County,Madison,2010,0.62
-Virginia,Mecklenburg County,Mecklenburg,2010,1.44
-Virginia,Montgomery County,Montgomery,2010,3.73
-Virginia,Nelson County,Nelson,2010,0.66
-Virginia,New Kent County,New Kent,2010,1.67
-Virginia,Orange County,Orange,2010,1.23
-Virginia,Page County,Page,2010,1.62
-Virginia,Patrick County,Patrick,2010,0.79
-Virginia,Pittsylvania County,Pittsylvania,2010,1.45
-Virginia,Prince Edward County,Prince Edward,2010,1.32
-Virginia,Roanoke County,Roanoke,2010,5.09
-Virginia,Roanoke city,Roanoke,2010,5.09
-Virginia,Rockbridge County,Rockbridge,2010,1.04
-Virginia,Rockingham County,Rockingham,2010,1.93
-Virginia,Russell County,Russell,2010,1.15
-Virginia,Shenandoah County,Shenandoah,2010,1.85
-Virginia,Southampton County,Southampton,2010,0.96
-Virginia,Spotsylvania County,Spotsylvania,2010,3.59
-Virginia,Stafford County,Stafford,2010,5.46
-Virginia,Tazewell County,Tazewell,2010,1.54
-Virginia,Washington County,Washington,2010,1.69
-Virginia,Westmoreland County,Westmoreland,2010,1.55
-Virginia,Wise County,Wise,2010,1.79
-Virginia,Colonial Heights city,Colonial Heights,2010,34.04
-Virginia,Falls Church city,Falls Church,2010,36.43
-Virginia,Lexington city,Lexington,2010,27.32
-Virginia,Norton city,Norton,2010,13.99
-Virginia,Staunton city,Staunton,2010,18.04
-Virginia,Winchester city,Winchester,2010,42.23
-Virginia,Lee County,Lee,2010,1.23
-Virginia,Arlington County,Arlington,2010,41.88
-Virginia,Lancaster County,Lancaster,2010,1.7
-Virginia,Louisa County,Louisa,2010,1.19
-Virginia,Mathews County,Mathews,2010,1.38
-Virginia,Middlesex County,Middlesex,2010,2
-Virginia,Northampton County,Northampton,2010,1.33
-Virginia,Northumberland County,Northumberland,2010,1.44
-Virginia,Nottoway County,Nottoway,2010,1.84
-Virginia,Powhatan County,Powhatan,2010,1.18
-Virginia,Prince George County,Prince George,2010,2.97
-Virginia,Pulaski County,Pulaski,2010,2.52
-Virginia,Rappahannock County,Rappahannock,2010,0.38
-Virginia,Richmond County,Richmond,2010,1.04
-Virginia,Richmond city,Richmond,2010,1.04
-Virginia,Scott County,Scott,2010,0.93
-Virginia,Smyth County,Smyth,2010,1.29
-Virginia,Surry County,Surry,2010,0.76
-Virginia,Sussex County,Sussex,2010,0.94
-Virginia,Warren County,Warren,2010,2.98
-Virginia,Wythe County,Wythe,2010,1.53
-Virginia,York County,York,2010,8.98
-Virginia,Alexandria city,Alexandria,2010,50.6
-Virginia,Bedford County,Bedford,2010,17.66
-Virginia,Bedford city,Bedford,2010,17.66
-Virginia,Bristol city,Bristol,2010,27.82
-Virginia,Buena Vista city,Buena Vista,2010,16.67
-Virginia,Charlottesville city,Charlottesville,2010,32.91
-Virginia,Chesapeake city,Chesapeake,2010,9.63
-Virginia,Covington city,Covington,2010,23.39
-Virginia,Danville city,Danville,2010,21.09
-Virginia,Emporia city,Emporia,2010,21.31
-Virginia,Fairfax County,Fairfax,2010,37.69
-Virginia,Fairfax city,Fairfax,2010,37.69
-Virginia,Franklin County,Franklin,2010,17.25
-Virginia,Franklin city,Franklin,2010,17.25
-Virginia,Fredericksburg city,Fredericksburg,2010,32.74
-Virginia,Galax city,Galax,2010,18.14
-Virginia,Hampton city,Hampton,2010,32.43
-Virginia,Harrisonburg city,Harrisonburg,2010,36.72
-Virginia,Hopewell city,Hopewell,2010,36.95
-Virginia,Lynchburg city,Lynchburg,2010,19.61
-Virginia,Manassas city,Manassas,2010,42.73
-Virginia,Manassas Park city,Manassas Park,2010,39.1
-Virginia,Martinsville city,Martinsville,2010,22.32
-Virginia,Newport News city,Newport News,2010,31.34
-Virginia,Norfolk city,Norfolk,2010,44.89
-Virginia,Petersburg city,Petersburg,2010,25.98
-Virginia,Poquoson city,Poquoson,2010,8.14
-Virginia,Portsmouth city,Portsmouth,2010,34.27
-Virginia,Radford city,Radford,2010,19.13
-Virginia,Richmond County,Richmond,2010,37.15
-Virginia,Richmond city,Richmond,2010,37.15
-Virginia,Roanoke County,Roanoke,2010,35.2
-Virginia,Roanoke city,Roanoke,2010,35.2
-Virginia,Salem city,Salem,2010,32.71
-Virginia,Suffolk city,Suffolk,2010,3.65
-Virginia,Virginia Beach city,Virginia Beach,2010,16.98
-Virginia,Waynesboro city,Waynesboro,2010,23.39
-Virginia,Williamsburg city,Williamsburg,2010,18.48
-Virginia,Prince William County,Prince William,2010,11.73
-Virginia,Appomattox County,Appomattox,2010,1.04
+state,county,year,impervious
+Virginia,Prince Edward County,2010,1.32
+Virginia,Buckingham County,2010,0.65
+Virginia,Page County,2010,1.63
+Virginia,Prince William County,2010,11.79
+Virginia,Shenandoah County,2010,1.85
+Virginia,Fauquier County,2010,1.37
+Virginia,Accomack County,2010,1.76
+Virginia,Middlesex County,2010,2.04
+Virginia,Westmoreland County,2010,1.59
+Virginia,Highland County,2010,0.27
+Virginia,Halifax County,2010,1.16
+Maryland,Talbot County,2010,2.94
+Maryland,Prince George's County,2010,17.01
+Maryland,Queen Anne's County,2010,2.79
+Maryland,Garrett County,2010,1.16
+Virginia,Rockingham County,2010,1.93
+Virginia,Montgomery County,2010,3.74
+Virginia,Goochland County,2010,1.61
+Virginia,Isle of Wight County,2010,2.26
+Virginia,Orange County,2010,1.23
+Virginia,Botetourt County,2010,1.35
+Virginia,Amherst County,2010,1.14
+Virginia,Amelia County,2010,0.81
+Virginia,King and Queen County,2010,0.64
+Virginia,Greensville County,2010,1.17
+Virginia,Loudoun County,2010,7.66
+Virginia,Bedford County,2010,1.49
+Virginia,Henry County,2010,2.76
+Maryland,Somerset County,2010,1.73
+Maryland,St. Mary's County,2010,3.89
+Virginia,Richmond County,2010,1.1
+Virginia,Northumberland County,2010,1.48
+Virginia,Essex County,2010,1.09
+Virginia,Lancaster County,2010,1.79
+Virginia,Pittsylvania County,2010,1.45
+Virginia,King George County,2010,2.12
+Maryland,Allegany County,2010,3.01
+Maryland,Anne Arundel County,2010,14.45
+Maryland,Kent County,2010,1.82
+Maryland,Carroll County,2010,4.67
+Maryland,Worcester County,2010,2.62
+District of Columbia,District of Columbia,2010,42.43
+Virginia,Prince George County,2010,2.95
+Virginia,Rappahannock County,2010,0.39
+Virginia,Franklin County,2010,1.32
+Virginia,Henrico County,2010,16.98
+Virginia,Bath County,2010,0.32
+Virginia,Patrick County,2010,0.79
+Virginia,Spotsylvania County,2010,3.59
+Virginia,Charlotte County,2010,0.79
+Virginia,Louisa County,2010,1.19
+Virginia,King William County,2010,1.04
+Virginia,Caroline County,2010,1.29
+Virginia,Surry County,2010,0.77
+Virginia,Lexington city,2010,27.06
+Virginia,Augusta County,2010,1.61
+Virginia,Campbell County,2010,2.15
+Virginia,Dickenson County,2010,0.72
+Virginia,Wise County,2010,1.79
+Maryland,Charles County,2010,3.86
+Virginia,Washington County,2010,1.7
+Maryland,Harford County,2010,6.58
+Maryland,Cecil County,2010,4.05
+Virginia,Rockbridge County,2010,1.04
+Virginia,Powhatan County,2010,1.18
+Virginia,Carroll County,2010,1.13
+Virginia,Fredericksburg city,2010,32.78
+Virginia,Alleghany County,2010,1.02
+Virginia,Floyd County,2010,0.78
+Virginia,Russell County,2010,1.15
+Virginia,Culpeper County,2010,1.59
+Virginia,Albemarle County,2010,1.71
+Virginia,Gloucester County,2010,2.04
+Virginia,Charles City County,2010,0.67
+Virginia,Emporia city,2010,21.29
+Virginia,Lee County,2010,1.22
+Virginia,Frederick County,2010,3.65
+Maryland,Baltimore County,2010,13.37
+Maryland,Washington County,2010,5.35
+Maryland,Calvert County,2010,4.03
+Virginia,Southampton County,2010,0.96
+Virginia,Stafford County,2010,5.48
+Virginia,New Kent County,2010,1.67
+Virginia,Warren County,2010,2.96
+Virginia,Hanover County,2010,3.69
+Virginia,Mecklenburg County,2010,1.44
+Virginia,Buchanan County,2010,0.96
+Maryland,Caroline County,2010,2.37
+Virginia,Appomattox County,2010,1.04
+Virginia,James City County,2010,6.58
+Virginia,Grayson County,2010,0.67
+Virginia,Fairfax County,2010,21.4
+Virginia,York County,2010,8.99
+Virginia,Pulaski County,2010,2.53
+Virginia,Tazewell County,2010,1.54
+Maryland,Howard County,2010,12.24
+Maryland,Montgomery County,2010,12.77
+Maryland,Dorchester County,2010,1.63
+Virginia,Greene County,2010,1.38
+Virginia,Dinwiddie County,2010,1.52
+Maryland,Frederick County,2010,4.86
+Virginia,Harrisonburg city,2010,36.83
+Virginia,Brunswick County,2010,0.96
+Virginia,Nottoway County,2010,1.84
+Virginia,Danville city,2010,21.17
+Virginia,Galax city,2010,18.14
+Virginia,Nelson County,2010,0.66
+Virginia,Lunenburg County,2010,0.8
+Virginia,Fairfax city,2010,37.65
+Virginia,Franklin city,2010,17.22
+Virginia,Salem city,2010,32.61
+Virginia,Poquoson city,2010,8.59
+Virginia,Buena Vista city,2010,17.25
+Virginia,Cumberland County,2010,0.69
+Maryland,Wicomico County,2010,4.72
+Virginia,Giles County,2010,1.1
+Virginia,Mathews County,2010,1.45
+Virginia,Scott County,2010,0.93
+Virginia,Arlington County,2010,41.9
+Virginia,Alexandria city,2010,50.62
+Virginia,Richmond city,2010,37.17
+Virginia,Petersburg city,2010,26.14
+Virginia,Norfolk city,2010,48.05
+Virginia,Hopewell city,2010,37.3
+Virginia,Roanoke city,2010,35.28
+Virginia,Colonial Heights city,2010,34.27
+Maryland,Baltimore city,2010,52.22
+Virginia,Roanoke County,2010,5.08
+Virginia,Chesterfield County,2010,9.49
+Virginia,Sussex County,2010,0.94
+Virginia,Hampton city,2010,32.76
+Virginia,Portsmouth city,2010,38.66
+Virginia,Winchester city,2010,42.28
+Virginia,Wythe County,2010,1.53
+Virginia,Manassas Park city,2010,33.79
+Virginia,Chesapeake city,2010,9.63
+Virginia,Charlottesville city,2010,32.78
+Virginia,Williamsburg city,2010,18.63
+Virginia,Norton city,2010,13.95
+Virginia,Radford city,2010,19.37
+Virginia,Covington city,2010,23.32
+Virginia,Staunton city,2010,17.93
+Virginia,Bland County,2010,0.51
+Virginia,Bristol city,2010,27.89
+Virginia,Craig County,2010,0.39
+Virginia,Waynesboro city,2010,23.45
+Virginia,Northampton County,2010,1.37
+Virginia,Madison County,2010,0.62
+Virginia,Clarke County,2010,1.48
+Virginia,Lynchburg city,2010,19.65
+Virginia,Virginia Beach city,2010,16.99
+Virginia,Fluvanna County,2010,1.05
+Virginia,Martinsville city,2010,22.33
+Virginia,Manassas city,2010,42.79
+Virginia,Newport News city,2010,32.33
+Virginia,Smyth County,2010,1.29
+Virginia,Falls Church city,2010,37.08
+Virginia,Suffolk city,2010,3.66
